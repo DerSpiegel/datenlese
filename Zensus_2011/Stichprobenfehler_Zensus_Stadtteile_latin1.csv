@@ -1,0 +1,1638 @@
+* skip=18 (so viele Zeilen beim Import dieser Datei überspringen, um als 1. Zeile die Zeile mit den Spaltentiteln einzulesen)
+* Copyright:		Jeder kann diese Daten frei und unentgeltlich nutzen 
+* Originalquelle: 	Statistisches Bundesamt nach IFG-Antrag von Spiegel Online (gestellt am 27. September 2013, stattgegeben am 08. November 2013 mit zweiwöchiger Fristüberschreitung). Am 08. November 2013 stellte das Statistische Bundesamt den Datensatz als PDF auch zum freien Download online unter https://ergebnisse.zensus2011.de/docs/Zensus_Gemeinden_relativer_Standardfehler.pdf
+* Text-Codierung:	Latin-1 (ISO 8859-1)
+*
+** Spalten:
+* 
+* 1. RS_12:		Eindeutiger 12-stelliger Regionalschlüssel der Gemeinde (siehe https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel#Regionalschl.C3.BCssel)
+* 2. Gemeinde: 		Name der Gemeinde
+* 3. Land:		Bundesland, in dem die Gemeinde liegt
+* 4. Kreis:		Kreis, in dem die Gemeinde liegt
+* 5. Teil_Nr:		Nummer des Stadtteils, wenn die Stichprobe auf Stadtteil-Ebene erhoben wurde
+* 6. Teil_Name:		Name des Stadtteils, wenn die Stichprobe auf Stadtteil-Ebene erhoben wurde; die Stadtteile wurden nicht immer benannt und entsprachen nicht immer echten Untergliederungen der Stadt  
+* 			siehe auch gesonderte Datei "Stichprobenfehler_Zensus_Stadtteile_Erklaerung_Destatis_latin1.txt"
+* 7. Fehler_Gem:	Stichprobenfehler ("einfacher relativer Standardfehler") der Gemeinde insgesamt in Prozent (auch, wenn die Stichprobe auf Stadtteil-Ebene erhoben wurde)
+* 8. Fehler_Teil:	Stichprobenfehler des Stadtteils, wenn die Stichprobe auf Stadtteil-Ebene erhoben wurde
+*
+*
+"RS_12";"Gemeinde";"Land";"Kreis";Teil_Nr;"Teil-Name";Fehler_Gem;Fehler_Teil
+"110000000000";"Berlin";"Berlin";"Berlin, Stadt";1;"Mitte";0,13;0,52
+"110000000000";"Berlin";"Berlin";"Berlin, Stadt";2;"Friedrichshain-Kreuzberg";0,13;0,48
+"110000000000";"Berlin";"Berlin";"Berlin, Stadt";3;"Pankow";0,13;0,37
+"110000000000";"Berlin";"Berlin";"Berlin, Stadt";4;"Charlottenburg-Wilmersdorf";0,13;0,48
+"110000000000";"Berlin";"Berlin";"Berlin, Stadt";5;"Spandau";0,13;0,45
+"110000000000";"Berlin";"Berlin";"Berlin, Stadt";6;"Steglitz-Zehlendorf";0,13;0,5
+"110000000000";"Berlin";"Berlin";"Berlin, Stadt";7;"Tempelhof-Schöneberg";0,13;0,49
+"110000000000";"Berlin";"Berlin";"Berlin, Stadt";8;"Neukölln";0,13;0,49
+"110000000000";"Berlin";"Berlin";"Berlin, Stadt";9;"Treptow-Köpenick";0,13;0,43
+"110000000000";"Berlin";"Berlin";"Berlin, Stadt";10;"Marzahn-Hellersdorf";0,13;0,34
+"110000000000";"Berlin";"Berlin";"Berlin, Stadt";11;"Lichtenberg";0,13;0,4
+"110000000000";"Berlin";"Berlin";"Berlin, Stadt";12;"Reinickendorf";0,13;0,42
+"020000000000";"Hamburg";"Hamburg";"Hamburg, Freie und Hansestadt";1;"Hamburg-Mitte";0,21;0,58
+"020000000000";"Hamburg";"Hamburg";"Hamburg, Freie und Hansestadt";2;"Altona";0,21;0,57
+"020000000000";"Hamburg";"Hamburg";"Hamburg, Freie und Hansestadt";3;"Eimsbüttel";0,21;0,6
+"020000000000";"Hamburg";"Hamburg";"Hamburg, Freie und Hansestadt";4;"Hamburg-Nord";0,21;0,53
+"020000000000";"Hamburg";"Hamburg";"Hamburg, Freie und Hansestadt";5;"Wandsbek";0,21;0,43
+"020000000000";"Hamburg";"Hamburg";"Hamburg, Freie und Hansestadt";6;"Bergedorf";0,21;0,51
+"020000000000";"Hamburg";"Hamburg";"Hamburg, Freie und Hansestadt";7;"Harburg";0,21;0,7
+"145210550550";"Schwarzenberg/Erzgeb.";"Sachsen";"Erzgebirgskreis";-;"-";0,23;0,23
+"145215140710";"Zwönitz";"Sachsen";"Erzgebirgskreis";-;"-";0,24;0,24
+"145215138690";"Zschopau";"Sachsen";"Erzgebirgskreis";-;"-";0,24;0,24
+"120720240240";"Ludwigsfelde";"Brandenburg";"Teltow-Fläming";-;"-";0,24;0,24
+"146120000000";"Dresden";"Sachsen";"Dresden, Stadt";1;"Albertstadt, Alt-Leuteritz/Brabschütz, Altfranken, Briesnitz, Cossebaude/Neu-Leuteritz, Cotta, Dölzschen, Flughafen, Friedrichstadt, Gohlis, Gomlitz, Gompitz, Gorbitz- Nord/Neu-Omsewitz, Gorbitz-Ost, Gorbitz-Süd, Heidehof, Hellerau, Hellerberge, Innere Altstadt, Innere Neustadt, Johannstadt-Nord, Johannstadt-Süd, Kaditz, Kemnitz, Klotzsche, Langebrück, Lausa/Friedersdorf, Leipziger Vorstadt, Leutewitz, Löbtau-Nord, Löbtau-Süd, Marsdorf, Merbitz/Podemus, Mickten, Mobschatz, Naußlitz, Niederwartha, Oberwartha, Ockerwitz, Omsewitz, Pennrich, Pieschen-Nord, Pieschen-Süd, Pirnaische Vorstadt, Radeberger Vorstadt, Rennersdorf, Roitzsch, Roßthal/Neunimptsch, Rähnitz, Schönborn, Seevorstadt-Ost/Großer Garten, Seevorstadt-West, Stadt Neudorf, Steinbach, Stetzsch, Trachau, Trachenberge, Unkersdorf, Weixdorf, Wilschdorf, Wilsdruffer Vorstadt, Wölfnitz, Zöllmen, Äußere Neustadt, Übigau";0,25;0,39
+"146120000000";"Dresden";"Sachsen";"Dresden, Stadt";2;"Blasewitz, Borsberg, Bühlau, Coschütz, Cunnersdorf, Dobritz, Dresdner Heide, Eschdorf, Gittersee, Gostritz, Großzschachwitz, Gruna, Gönnsdorf, Helfenberg/Eichbusch/ Rockau, Hosterwitz, Kaitz, Kauscha, Kleinpestitz, Kleinzschachwitz, Krieschendorf/Malschendorf, Laubegast, Leuben, Leubnitz-Neuostra, Lockwitz, Loschwitz, Luga, Meußlitz, Mockritz, Neugruna, Nickern, Niederpoyritz, Niedersedlitz, Oberpoyritz, Pappritz, Pillnitz, Plauen, Prohlis-Nord, Prohlis-Süd, Reick, Reitzendorf, Rochwitz, Rossendorf, Räcknitz, Schullwitz, Schönfeld, Seidnitz, Sporbitz, Strehlen, Striesen-Ost, Striesen-Süd, Striesen- West, Söbrigen, Südvorstadt-Ost, Südvorstadt-West, Tolkewitz, Torna, Wachwitz, Weißer Hirsch, Weißig, Zaschendorf, Zschertnitz, Zschieren";0,25;0,3
+"145245128160";"Lichtenstein/Sa.";"Sachsen";"Zwickau";-;"-";0,25;0,25
+"160770032032";"Meuselwitz";"Thüringen";"Altenburger Land";-;"-";0,26;0,26
+"145215133590";"Stollberg/Erzgeb.";"Sachsen";"Erzgebirgskreis";-;"-";0,26;0,26
+"091620000000";"München";"Bayern";"München, Landeshauptstadt";1;"nicht benannt";0,26;0,77
+"091620000000";"München";"Bayern";"München, Landeshauptstadt";2;"nicht benannt";0,26;0,98
+"091620000000";"München";"Bayern";"München, Landeshauptstadt";3;"nicht benannt";0,26;0,49
+"091620000000";"München";"Bayern";"München, Landeshauptstadt";4;"nicht benannt";0,26;0,62
+"091620000000";"München";"Bayern";"München, Landeshauptstadt";5;"nicht benannt";0,26;0,54
+"091620000000";"München";"Bayern";"München, Landeshauptstadt";6;"nicht benannt";0,26;0,43
+"091620000000";"München";"Bayern";"München, Landeshauptstadt";7;"nicht benannt";0,26;0,75
+"064120000000";"Frankfurt am Main";"Hessen";"Frankfurt am Main, Stadt";1;"nicht benannt";0,26;0,56
+"064120000000";"Frankfurt am Main";"Hessen";"Frankfurt am Main, Stadt";2;"nicht benannt";0,26;0,43
+"064120000000";"Frankfurt am Main";"Hessen";"Frankfurt am Main, Stadt";3;"nicht benannt";0,26;0,35
+"057700036036";"Preußisch Oldendorf";"Nordrhein-Westfalen";"Minden-Lübbecke";-;"-";0,26;0,26
+"040110000000";"Bremen";"Bremen";"Bremen, Stadt";1;"Süd";0,26;0,47
+"040110000000";"Bremen";"Bremen";"Bremen, Stadt";2;"Ost";0,26;0,49
+"040110000000";"Bremen";"Bremen";"Bremen, Stadt";3;"NordWest";0,26;0,4
+"146250240240";"Hoyerswerda";"Sachsen";"Bautzen";-;"-";0,27;0,27
+"145220050050";"Brand-Erbisdorf";"Sachsen";"Mittelsachsen";-;"-";0,27;0,27
+"145210530530";"Schneeberg";"Sachsen";"Erzgebirgskreis";-;"-";0,27;0,27
+"130580034034";"Grevesmühlen";"Mecklenburg-Vorpommern";"Nordwestmecklenburg";-;"-";0,27;0,27
+"097640000000";"Memmingen";"Bayern";"Memmingen";-;"-";0,27;0,27
+"150010000000";"Dessau-Roßlau";"Sachsen-Anhalt";"Dessau-Roßlau, Stadt";-;"-";0,28;0,28
+"147290140140";"Frohburg";"Sachsen";"Leipzig";-;"-";0,28;0,28
+"146255207040";"Bischofswerda";"Sachsen";"Bautzen";-;"-";0,28;0,28
+"145240330330";"Zwickau";"Sachsen";"Zwickau";-;"-";0,28;0,28
+"145215116390";"Marienberg";"Sachsen";"Erzgebirgskreis";-;"-";0,28;0,28
+"120720340340";"Rangsdorf";"Brandenburg";"Teltow-Fläming";-;"-";0,28;0,28
+"120650136136";"Hennigsdorf";"Brandenburg";"Oberhavel";-;"-";0,28;0,28
+"095730127127";"Stein";"Bayern";"Fürth";-;"-";0,28;0,28
+"032540020020";"Harsum";"Niedersachsen";"Hildesheim";-;"-";0,28;0,28
+"150020000000";"Halle (Saale)";"Sachsen-Anhalt";"Halle (Saale), Stadt";-;"-";0,29;0,29
+"147130000000";"Leipzig";"Sachsen";"Leipzig, Stadt";1;"Althen-Kleinpösna, Baalsdorf, Burghausen-Rückmarsdorf, Böhlitz-Ehrenberg, Connewitz, Dölitz-Dösen, Engelsdorf, Gohlis-Mitte, Gohlis-Süd, Grünau-Siedlung, Hartmannsdorf- Knautnaundorf, Heiterblick, Holzhausen, Knautkleeberg- Knauthain, Leutzsch, Liebertwolkwitz, Lindenthal, Lützschena-Stahmeln, Marienbrunn, Miltitz, Mölkau, Plaußig-Portitz, Probstheida, Schleußig, Seehausen, Stötteritz, Südvorstadt, Thekla, Wiederitzsch, Zentrum, Zentrum-Nord, Zentrum-Nordwest, Zentrum-Ost, Zentrum- Süd, Zentrum-West";0,29;0,44
+"147130000000";"Leipzig";"Sachsen";"Leipzig, Stadt";2;"Altlindenau, Anger-Crottendorf, Eutritzsch, Gohlis-Nord, Großzschocher, Grünau-Mitte, Grünau-Nord, Grünau-Ost, Kleinzschocher, Lausen-Grünau, Lindenau, Lößnig, Meusdorf, Mockau-Nord, Mockau-Süd, Möckern, Neulindenau, Neustadt-Neuschönefeld, Paunsdorf, Plagwitz, Reudnitz- Thonberg, Schönau, Schönefeld-Abtnaundorf, Schönefeld- Ost, Sellerhausen-Stünz, Volkmarsdorf, Wahren, Zentrum- Südost";0,29;0,39
+"146260370370";"Niesky";"Sachsen";"Görlitz";-;"-";0,29;0,29
+"145240200200";"Mülsen";"Sachsen";"Zwickau";-;"-";0,29;0,29
+"145210460460";"Olbernhau";"Sachsen";"Erzgebirgskreis";-;"-";0,29;0,29
+"095730120120";"Langenzenn";"Bayern";"Fürth";-;"-";0,29;0,29
+"034590024024";"Melle";"Niedersachsen";"Osnabrück";-;"-";0,29;0,29
+"031010000000";"Braunschweig";"Niedersachsen";"Braunschweig, Stadt";-;"-";0,29;0,29
+"160670072072";"Waltershausen";"Thüringen";"Gotha";-;"-";0,3;0,3
+"160520000000";"Gera";"Thüringen";"Gera, Stadt";-;"-";0,3;0,3
+"150830531531";"Wanzleben-Börde";"Sachsen-Anhalt";"Börde";-;"-";0,3;0,3
+"120640428428";"Rüdersdorf bei Berlin";"Brandenburg";"Märkisch-Oderland";-;"-";0,3;0,3
+"083365003050";"Lörrach";"Baden-Württemberg";"Lörrach";-;"-";0,3;0,3
+"051240000000";"Wuppertal";"Nordrhein-Westfalen";"Wuppertal, Stadt";-;"-";0,3;0,3
+"150850330330";"Thale";"Sachsen-Anhalt";"Harz";-;"-";0,31;0,31
+"147290260260";"Markkleeberg";"Sachsen";"Leipzig";-;"-";0,31;0,31
+"147290160160";"Grimma";"Sachsen";"Leipzig";-;"-";0,31;0,31
+"145230020020";"Auerbach/Vogtl.";"Sachsen";"Vogtlandkreis";-;"-";0,31;0,31
+"130510004004";"Bad Doberan";"Mecklenburg-Vorpommern";"Bad Doberan";-;"-";0,31;0,31
+"120640044044";"Bad Freienwalde (Oder)";"Brandenburg";"Märkisch-Oderland";-;"-";0,31;0,31
+"120510000000";"Brandenburg an der Havel";"Brandenburg";"Brandenburg an der Havel, Stadt";-;"-";0,31;0,31
+"081185002071";"Tamm";"Baden-Württemberg";"Ludwigsburg";-;"-";0,31;0,31
+"160745052018";"Eisenberg";"Thüringen";"Saale-Holzland-Kreis";-;"-";0,32;0,32
+"150830565565";"Wolmirstedt";"Sachsen-Anhalt";"Börde";-;"-";0,32;0,32
+"150820241241";"Muldestausee";"Sachsen-Anhalt";"Anhalt-Bitterfeld";-;"-";0,32;0,32
+"145240120120";"Hohenstein-Ernstthal";"Sachsen";"Zwickau";-;"-";0,32;0,32
+"130570036036";"Grimmen";"Mecklenburg-Vorpommern";"Nordvorpommern";-;"-";0,32;0,32
+"130030000000";"Rostock";"Mecklenburg-Vorpommern";"Rostock";-;"-";0,32;0,32
+"097720202202";"Stadtbergen";"Bayern";"Augsburg";-;"-";0,32;0,32
+"093730147147";"Neumarkt i.d. OPf.";"Bayern";"Neumarkt i.d.OPf.";-;"-";0,32;0,32
+"059130000000";"Dortmund";"Nordrhein-Westfalen";"Dortmund, Stadt";1;"Innenstadt-Nord, Innenstadt-Ost, Innenstadt-West";0,32;0,84
+"059130000000";"Dortmund";"Nordrhein-Westfalen";"Dortmund, Stadt";2;"Eving, Huckarde, Lütgendortmund, Mengede, Scharnhorst";0,32;0,36
+"059130000000";"Dortmund";"Nordrhein-Westfalen";"Dortmund, Stadt";3;"Aplerbeck, Brackel, Hombruch, Hörde";0,32;0,48
+"051700004004";"Alpen";"Nordrhein-Westfalen";"Wesel";-;"-";0,32;0,32
+"150850370370";"Wernigerode";"Sachsen-Anhalt";"Harz";-;"-";0,33;0,33
+"145240320320";"Wilkau-Haßlau";"Sachsen";"Zwickau";-;"-";0,33;0,33
+"130615120004";"Bergen auf Rügen";"Mecklenburg-Vorpommern";"Rügen";-;"-";0,33;0,33
+"120640472472";"Strausberg";"Brandenburg";"Märkisch-Oderland";-;"-";0,33;0,33
+"095740152152";"Röthenbach a.d. Pegnitz";"Bayern";"Nürnberger Land";-;"-";0,33;0,33
+"095640000000";"Nürnberg";"Bayern";"Nürnberg";1;"nicht benannt";0,33;0,91
+"095640000000";"Nürnberg";"Bayern";"Nürnberg";2;"nicht benannt";0,33;0,57
+"095640000000";"Nürnberg";"Bayern";"Nürnberg";3;"nicht benannt";0,33;0,41
+"066310018018";"Neuhof";"Hessen";"Fulda";-;"-";0,33;0,33
+"065320001001";"Aßlar";"Hessen";"Lahn-Dill-Kreis";-;"-";0,33;0,33
+"051130000000";"Essen";"Nordrhein-Westfalen";"Essen, Stadt";1;"Bergerhausen, Bredeney, Burgaltendorf, Byfang, Fischlaken, Fulerum, Haarzopf, Heidhausen, Heisingen, Kettwig, Kupferdreh, Margarethenhöhe, Rellinghausen, Rüttenscheid, Schuir, Stadtwald, Werden, Überruhr-Hinsel, Überruhr-Holthausen";0,33;0,65
+"051130000000";"Essen";"Nordrhein-Westfalen";"Essen, Stadt";2;"Altendorf, Bedingrade, Bergeborbeck, Bochold, Borbeck- Mitte, Dellwig, Frintrop, Frohnhausen, Gerschede, Holsterhausen, Huttrop, Schönebeck, Südostviertel, Südviertel";0,33;0,53
+"051130000000";"Essen";"Nordrhein-Westfalen";"Essen, Stadt";3;"Altenessen-Nord, Altenessen-Süd, Freisenbruch, Frillendorf, Horst, Karnap, Katernberg, Kray, Leithe, Nordviertel, Ostviertel, Schonnebeck, Stadtkern, Steele, Stoppenberg, Vogelheim, Westviertel";0,33;0,53
+"033550001001";"Adendorf";"Niedersachsen";"Lüneburg";-;"-";0,33;0,33
+"031540014014";"Lehre";"Niedersachsen";"Helmstedt";-;"-";0,33;0,33
+"160610115115";"Leinefelde-Worbis";"Thüringen";"Eichsfeld";-;"-";0,34;0,34
+"160510000000";"Erfurt";"Thüringen";"Erfurt, Stadt";-;"-";0,34;0,34
+"147300270270";"Schkeuditz";"Sachsen";"Nordsachsen";-;"-";0,34;0,34
+"146270010010";"Coswig";"Sachsen";"Meißen";-;"-";0,34;0,34
+"145110000000";"Chemnitz";"Sachsen";"Chemnitz, Stadt";-;"-";0,34;0,34
+"120530000000";"Frankfurt (Oder)";"Brandenburg";"Frankfurt (Oder), Stadt";-;"-";0,34;0,34
+"097750164164";"Weißenhorn";"Bayern";"Neu-Ulm";-;"-";0,34;0,34
+"097750162162";"Vöhringen";"Bayern";"Neu-Ulm";-;"-";0,34;0,34
+"094750154154";"Münchberg";"Bayern";"Hof";-;"-";0,34;0,34
+"092720151151";"Waldkirchen";"Bayern";"Freyung-Grafenau";-;"-";0,34;0,34
+"081190090090";"Remshalden";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,34;0,34
+"051120000000";"Duisburg";"Nordrhein-Westfalen";"Duisburg, Stadt";1;"nicht benannt";0,34;0,33
+"051120000000";"Duisburg";"Nordrhein-Westfalen";"Duisburg, Stadt";2;"nicht benannt";0,34;0,56
+"033610006006";"Langwedel";"Niedersachsen";"Verden";-;"-";0,34;0,34
+"032410001001";"Hannover";"Niedersachsen";"Region Hannover";1;"Innenstadt";0,34;0,7
+"032410001001";"Hannover";"Niedersachsen";"Region Hannover";2;"Außenstadt";0,34;0,33
+"160680051051";"Sömmerda";"Thüringen";"Sömmerda";-;"-";0,35;0,35
+"146250480480";"Radeberg";"Sachsen";"Bautzen";-;"-";0,35;0,35
+"145245104030";"Crimmitschau";"Sachsen";"Zwickau";-;"-";0,35;0,35
+"145240080080";"Glauchau";"Sachsen";"Zwickau";-;"-";0,35;0,35
+"120710076076";"Forst (Lausitz)";"Brandenburg";"Spree-Neiße";-;"-";0,35;0,35
+"120660112112";"Großräschen";"Brandenburg";"Oberspreewald-Lausitz";-;"-";0,35;0,35
+"120640380380";"Petershagen/Eggersdorf";"Brandenburg";"Märkisch-Oderland";-;"-";0,35;0,35
+"120640136136";"Fredersdorf-Vogelsdorf";"Brandenburg";"Märkisch-Oderland";-;"-";0,35;0,35
+"120540000000";"Potsdam";"Brandenburg";"Potsdam, Stadt";-;"-";0,35;0,35
+"097775748121";"Buchloe";"Bayern";"Ostallgäu";-;"-";0,35;0,35
+"095740123123";"Feucht";"Bayern";"Nürnberger Land";-;"-";0,35;0,35
+"084160041041";"Tübingen";"Baden-Württemberg";"Tübingen";-;"-";0,35;0,35
+"083260052052";"St. Georgen im Schwarzwald";"Baden-Württemberg";"Schwarzwald-Baar-Kreis";-;"-";0,35;0,35
+"082260076076";"Sandhausen";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,35;0,35
+"081260011011";"Bretzfeld";"Baden-Württemberg";"Hohenlohekreis";-;"-";0,35;0,35
+"081185005049";"Marbach am Neckar";"Baden-Württemberg";"Ludwigsburg";-;"-";0,35;0,35
+"081180081081";"Remseck am Neckar";"Baden-Württemberg";"Ludwigsburg";-;"-";0,35;0,35
+"034590008008";"Belm";"Niedersachsen";"Osnabrück";-;"-";0,35;0,35
+"034550007007";"Jever";"Niedersachsen";"Friesland";-;"-";0,35;0,35
+"034540032032";"Lingen (Ems)";"Niedersachsen";"Emsland";-;"-";0,35;0,35
+"031570004004";"Lahstedt";"Niedersachsen";"Peine";-;"-";0,35;0,35
+"031550012012";"Uslar";"Niedersachsen";"Northeim";-;"-";0,35;0,35
+"145240300300";"Werdau";"Sachsen";"Zwickau";-;"-";0,36;0,36
+"120730572572";"Templin";"Brandenburg";"Uckermark";-;"-";0,36;0,36
+"097770151151";"Marktoberdorf";"Bayern";"Ostallgäu";-;"-";0,36;0,36
+"095730122122";"Oberasbach";"Bayern";"Fürth";-;"-";0,36;0,36
+"092730137137";"Kelheim";"Bayern";"Kelheim";-;"-";0,36;0,36
+"091710111111";"Altötting";"Bayern";"Altötting";-;"-";0,36;0,36
+"081255001005";"Bad Friedrichshall";"Baden-Württemberg";"Heilbronn";-;"-";0,36;0,36
+"081190093093";"Kernen im Remstal";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,36;0,36
+"081185008073";"Vaihingen an der Enz";"Baden-Württemberg";"Ludwigsburg";-;"-";0,36;0,36
+"055130000000";"Gelsenkirchen";"Nordrhein-Westfalen";"Gelsenkirchen, Stadt";-;"-";0,36;0,36
+"051580036036";"Wülfrath";"Nordrhein-Westfalen";"Mettmann";-;"-";0,36;0,36
+"160750085085";"Pößneck";"Thüringen";"Saale-Orla-Kreis";-;"-";0,37;0,37
+"150890055055";"Calbe (Saale)";"Sachsen-Anhalt";"Salzlandkreis";-;"-";0,37;0,37
+"150880195195";"Landsberg";"Sachsen-Anhalt";"Saalekreis";-;"-";0,37;0,37
+"147300110110";"Eilenburg";"Sachsen";"Nordsachsen";-;"-";0,37;0,37
+"146255216250";"Kamenz";"Sachsen";"Bautzen";-;"-";0,37;0,37
+"130575725074";"Ribnitz-Damgarten";"Mecklenburg-Vorpommern";"Nordvorpommern";-;"-";0,37;0,37
+"120690020020";"Bad Belzig";"Brandenburg";"Potsdam-Mittelmark";-;"-";0,37;0,37
+"096770148148";"Karlstadt";"Bayern";"Main-Spessart";-;"-";0,37;0,37
+"095720121121";"Eckental";"Bayern";"Erlangen-Höchstadt";-;"-";0,37;0,37
+"094630000000";"Coburg";"Bayern";"Coburg";-;"-";0,37;0,37
+"092730111111";"Abensberg";"Bayern";"Kelheim";-;"-";0,37;0,37
+"091840145145";"Taufkirchen";"Bayern";"München";-;"-";0,37;0,37
+"084150061061";"Reutlingen";"Baden-Württemberg";"Reutlingen";-;"-";0,37;0,37
+"083355002028";"Gottmadingen";"Baden-Württemberg";"Konstanz";-;"-";0,37;0,37
+"082265001013";"Eberbach";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,37;0,37
+"081255003013";"Brackenheim";"Baden-Württemberg";"Heilbronn";-;"-";0,37;0,37
+"081165009071";"Wendlingen am Neckar";"Baden-Württemberg";"Esslingen";-;"-";0,37;0,37
+"081150045045";"Sindelfingen";"Baden-Württemberg";"Böblingen";-;"-";0,37;0,37
+"051700048048";"Wesel";"Nordrhein-Westfalen";"Wesel";-;"-";0,37;0,37
+"051700044044";"Voerde (Niederrhein)";"Nordrhein-Westfalen";"Wesel";-;"-";0,37;0,37
+"032410014014";"Ronnenberg";"Niedersachsen";"Region Hannover";-;"-";0,37;0,37
+"160710001001";"Apolda";"Thüringen";"Weimarer Land";-;"-";0,38;0,38
+"160670029029";"Gotha";"Thüringen";"Gotha";-;"-";0,38;0,38
+"160610045045";"Heilbad Heiligenstadt";"Thüringen";"Eichsfeld";-;"-";0,38;0,38
+"150910060060";"Coswig (Anhalt)";"Sachsen-Anhalt";"Wittenberg";-;"-";0,38;0,38
+"150840550550";"Weißenfels";"Sachsen-Anhalt";"Burgenlandkreis";-;"-";0,38;0,38
+"146280110110";"Freital";"Sachsen";"Sächsische Schweiz-Osterzgebirge";-;"-";0,38;0,38
+"145230320320";"Plauen";"Sachsen";"Vogtlandkreis";-;"-";0,38;0,38
+"120720232232";"Luckenwalde";"Brandenburg";"Teltow-Fläming";-;"-";0,38;0,38
+"120710160160";"Guben";"Brandenburg";"Spree-Neiße";-;"-";0,38;0,38
+"120660196196";"Lübbenau/Spreewald";"Brandenburg";"Oberspreewald-Lausitz";-;"-";0,38;0,38
+"120600181181";"Panketal";"Brandenburg";"Barnim";-;"-";0,38;0,38
+"097750129129";"Illertissen";"Bayern";"Neu-Ulm";-;"-";0,38;0,38
+"095760127127";"Hilpoltstein";"Bayern";"Roth";-;"-";0,38;0,38
+"095740132132";"Hersbruck";"Bayern";"Nürnberger Land";-;"-";0,38;0,38
+"095740112112";"Altdorf b. Nürnberg";"Bayern";"Nürnberger Land";-;"-";0,38;0,38
+"094760145145";"Kronach";"Bayern";"Kronach";-;"-";0,38;0,38
+"094730159159";"Rödental";"Bayern";"Coburg";-;"-";0,38;0,38
+"092730147147";"Mainburg";"Bayern";"Kelheim";-;"-";0,38;0,38
+"091750122122";"Grafing b. München";"Bayern";"Ebersberg";-;"-";0,38;0,38
+"083110000000";"Freiburg im Breisgau";"Baden-Württemberg";"Freiburg im Breisgau";-;"-";0,38;0,38
+"082260028028";"Heddesheim";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,38;0,38
+"082260009009";"Brühl";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,38;0,38
+"066340014014";"Melsungen";"Hessen";"Schwalm-Eder-Kreis";-;"-";0,38;0,38
+"066310020020";"Petersberg";"Hessen";"Fulda";-;"-";0,38;0,38
+"034540014014";"Geeste";"Niedersachsen";"Emsland";-;"-";0,38;0,38
+"032410016016";"Sehnde";"Niedersachsen";"Region Hannover";-;"-";0,38;0,38
+"031570005005";"Lengede";"Niedersachsen";"Peine";-;"-";0,38;0,38
+"031550003003";"Dassel";"Niedersachsen";"Northeim";-;"-";0,38;0,38
+"031540013013";"Königslutter am Elm";"Niedersachsen";"Helmstedt";-;"-";0,38;0,38
+"150890015015";"Aschersleben";"Sachsen-Anhalt";"Salzlandkreis";-;"-";0,39;0,39
+"150850235235";"Quedlinburg";"Sachsen-Anhalt";"Harz";-;"-";0,39;0,39
+"150820180180";"Köthen (Anhalt)";"Sachsen-Anhalt";"Anhalt-Bitterfeld";-;"-";0,39;0,39
+"150810135135";"Gardelegen";"Sachsen-Anhalt";"Altmarkkreis Salzwedel";-;"-";0,39;0,39
+"146280160160";"Heidenau";"Sachsen";"Sächsische Schweiz-Osterzgebirge";-;"-";0,39;0,39
+"146265220290";"Löbau";"Sachsen";"Görlitz";-;"-";0,39;0,39
+"145235125340";"Reichenbach im Vogtland";"Sachsen";"Vogtlandkreis";-;"-";0,39;0,39
+"130540043043";"Hagenow";"Mecklenburg-Vorpommern";"Ludwigslust";-;"-";0,39;0,39
+"120620140140";"Finsterwalde";"Brandenburg";"Elbe-Elster";-;"-";0,39;0,39
+"097620000000";"Kaufbeuren";"Bayern";"Kaufbeuren";-;"-";0,39;0,39
+"093760119119";"Burglengenfeld";"Bayern";"Schwandorf";-;"-";0,39;0,39
+"092740184184";"Vilsbiburg";"Bayern";"Landshut";-;"-";0,39;0,39
+"091890154154";"Traunreut";"Bayern";"Traunstein";-;"-";0,39;0,39
+"091840135135";"Oberschleißheim";"Bayern";"München";-;"-";0,39;0,39
+"091750135135";"Poing";"Bayern";"Ebersberg";-;"-";0,39;0,39
+"091750127127";"Markt Schwaben";"Bayern";"Ebersberg";-;"-";0,39;0,39
+"081180011011";"Ditzingen";"Baden-Württemberg";"Ludwigsburg";-;"-";0,39;0,39
+"073180000000";"Speyer";"Rheinland-Pfalz";"Speyer, kreisfreie Stadt";-;"-";0,39;0,39
+"053820068068";"Troisdorf";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,39;0,39
+"160705050004";"Arnstadt";"Thüringen";"Ilm-Kreis";-;"-";0,4;0,4
+"160560000000";"Eisenach";"Thüringen";"Eisenach, Stadt";-;"-";0,4;0,4
+"150830415415";"Oschersleben (Bode)";"Sachsen-Anhalt";"Börde";-;"-";0,4;0,4
+"146265242600";"Weißwasser/O.L.";"Sachsen";"Görlitz";-;"-";0,4;0,4
+"130020000000";"Neubrandenburg";"Mecklenburg-Vorpommern";"Neubrandenburg";-;"-";0,4;0,4
+"120670120120";"Eisenhüttenstadt";"Brandenburg";"Oder-Spree";-;"-";0,4;0,4
+"120640336336";"Neuenhagen bei Berlin";"Brandenburg";"Märkisch-Oderland";-;"-";0,4;0,4
+"120610320320";"Luckau";"Brandenburg";"Dahme-Spreewald";-;"-";0,4;0,4
+"100460117117";"St. Wendel";"Saarland";"St. Wendel";-;"-";0,4;0,4
+"097720147147";"Gersthofen";"Bayern";"Augsburg";-;"-";0,4;0,4
+"096720127127";"Hammelburg";"Bayern";"Bad Kissingen";-;"-";0,4;0,4
+"096610000000";"Aschaffenburg";"Bayern";"Aschaffenburg";-;"-";0,4;0,4
+"091760126126";"Gaimersheim";"Bayern";"Eichstätt";-;"-";0,4;0,4
+"084355002016";"Friedrichshafen";"Baden-Württemberg";"Bodenseekreis";-;"-";0,4;0,4
+"084175001079";"Albstadt";"Baden-Württemberg";"Zollernalbkreis";-;"-";0,4;0,4
+"082360072072";"Straubenhardt";"Baden-Württemberg";"Enzkreis";-;"-";0,4;0,4
+"081360042042";"Lorch";"Baden-Württemberg";"Ostalbkreis";-;"-";0,4;0,4
+"081190091091";"Weinstadt";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,4;0,4
+"059140000000";"Hagen";"Nordrhein-Westfalen";"Hagen, Stadt";-;"-";0,4;0,4
+"057700024024";"Minden";"Nordrhein-Westfalen";"Minden-Lübbecke";-;"-";0,4;0,4
+"055540016016";"Gescher";"Nordrhein-Westfalen";"Borken";-;"-";0,4;0,4
+"055120000000";"Bottrop";"Nordrhein-Westfalen";"Bottrop, Stadt";-;"-";0,4;0,4
+"051660028028";"Tönisvorst";"Nordrhein-Westfalen";"Viersen";-;"-";0,4;0,4
+"032410002002";"Barsinghausen";"Niedersachsen";"Region Hannover";-;"-";0,4;0,4
+"010580092092";"Kronshagen";"Schleswig-Holstein";"Rendsburg-Eckernförde";-;"-";0,4;0,4
+"160635051003";"Bad Salzungen";"Thüringen";"Wartburgkreis";-;"-";0,41;0,41
+"160620041041";"Nordhausen";"Thüringen";"Nordhausen";-;"-";0,41;0,41
+"150910145145";"Jessen (Elster)";"Sachsen-Anhalt";"Wittenberg";-;"-";0,41;0,41
+"150880295295";"Petersberg";"Sachsen-Anhalt";"Saalekreis";-;"-";0,41;0,41
+"150870130130";"Eisleben";"Sachsen-Anhalt";"Mansfeld-Südharz";-;"-";0,41;0,41
+"147300070070";"Delitzsch";"Sachsen";"Nordsachsen";-;"-";0,41;0,41
+"145245118190";"Meerane";"Sachsen";"Zwickau";-;"-";0,41;0,41
+"145235122300";"Oelsnitz/Vogtl.";"Sachsen";"Vogtlandkreis";-;"-";0,41;0,41
+"130550050050";"Neustrelitz";"Mecklenburg-Vorpommern";"Mecklenburg-Strelitz";-;"-";0,41;0,41
+"120690656656";"Werder (Havel)";"Brandenburg";"Potsdam-Mittelmark";-;"-";0,41;0,41
+"100450117117";"St. Ingbert";"Saarland";"Saarpfalz-Kreis";-;"-";0,41;0,41
+"097730125125";"Dillingen a.d. Donau";"Bayern";"Dillingen a.d.Donau";-;"-";0,41;0,41
+"097710142142";"Kissing";"Bayern";"Aichach-Friedberg";-;"-";0,41;0,41
+"095730134134";"Zirndorf";"Bayern";"Fürth";-;"-";0,41;0,41
+"094780139139";"Lichtenfels";"Bayern";"Lichtenfels";-;"-";0,41;0,41
+"094770128128";"Kulmbach";"Bayern";"Kulmbach";-;"-";0,41;0,41
+"094720175175";"Pegnitz";"Bayern";"Bayreuth";-;"-";0,41;0,41
+"091790118118";"Eichenau";"Bayern";"Fürstenfeldbruck";-;"-";0,41;0,41
+"084265005070";"Laupheim";"Baden-Württemberg";"Biberach";-;"-";0,41;0,41
+"084250039039";"Erbach";"Baden-Württemberg";"Alb-Donau-Kreis";-;"-";0,41;0,41
+"083360084084";"Steinen";"Baden-Württemberg";"Lörrach";-;"-";0,41;0,41
+"083175007065";"Lahr/Schwarzwald";"Baden-Württemberg";"Ortenaukreis";-;"-";0,41;0,41
+"081250058058";"Leingarten";"Baden-Württemberg";"Heilbronn";-;"-";0,41;0,41
+"081180076076";"Sachsenheim";"Baden-Württemberg";"Ludwigsburg";-;"-";0,41;0,41
+"073170000000";"Pirmasens";"Rheinland-Pfalz";"Pirmasens, kreisfreie Stadt";-;"-";0,41;0,41
+"073150000000";"Mainz";"Rheinland-Pfalz";"Mainz, kreisfreie Stadt";-;"-";0,41;0,41
+"066330003003";"Baunatal";"Hessen";"Kassel";-;"-";0,41;0,41
+"059580032032";"Meschede";"Nordrhein-Westfalen";"Hochsauerlandkreis";-;"-";0,41;0,41
+"057540040040";"Steinhagen";"Nordrhein-Westfalen";"Gütersloh";-;"-";0,41;0,41
+"033510006006";"Celle";"Niedersachsen";"Celle";-;"-";0,41;0,41
+"032410012012";"Neustadt am Rübenberge";"Niedersachsen";"Region Hannover";-;"-";0,41;0,41
+"031530013013";"Vienenburg";"Niedersachsen";"Goslar";-;"-";0,41;0,41
+"010620004004";"Bad Oldesloe";"Schleswig-Holstein";"Stormarn";-;"-";0,41;0,41
+"150890305305";"Schönebeck (Elbe)";"Sachsen-Anhalt";"Salzlandkreis";-;"-";0,42;0,42
+"150880220220";"Merseburg";"Sachsen-Anhalt";"Saalekreis";-;"-";0,42;0,42
+"150880020020";"Bad Dürrenberg";"Sachsen-Anhalt";"Saalekreis";-;"-";0,42;0,42
+"150870220220";"Hettstedt";"Sachsen-Anhalt";"Mansfeld-Südharz";-;"-";0,42;0,42
+"150840590590";"Zeitz";"Sachsen-Anhalt";"Burgenlandkreis";-;"-";0,42;0,42
+"150830270270";"Haldensleben";"Sachsen-Anhalt";"Börde";-;"-";0,42;0,42
+"147300230230";"Oschatz";"Sachsen";"Nordsachsen";-;"-";0,42;0,42
+"130540069069";"Ludwigslust";"Mecklenburg-Vorpommern";"Ludwigslust";-;"-";0,42;0,42
+"120650256256";"Oranienburg";"Brandenburg";"Oberhavel";-;"-";0,42;0,42
+"097740135135";"Günzburg";"Bayern";"Günzburg";-;"-";0,42;0,42
+"097730144144";"Lauingen (Donau)";"Bayern";"Dillingen a.d.Donau";-;"-";0,42;0,42
+"095750153153";"Neustadt a.d. Aisch";"Bayern";"Neustadt a.d.Aisch-Bad Windsheim";-;"-";0,42;0,42
+"092730116116";"Bad Abbach";"Bayern";"Kelheim";-;"-";0,42;0,42
+"091840123123";"Haar";"Bayern";"München";-;"-";0,42;0,42
+"084265007097";"Riedlingen";"Baden-Württemberg";"Biberach";-;"-";0,42;0,42
+"083275005049";"Trossingen";"Baden-Württemberg";"Tuttlingen";-;"-";0,42;0,42
+"082150046046";"Malsch";"Baden-Württemberg";"Karlsruhe";-;"-";0,42;0,42
+"081355002019";"Heidenheim an der Brenz";"Baden-Württemberg";"Heidenheim";-;"-";0,42;0,42
+"081280131131";"Wertheim";"Baden-Württemberg";"Main-Tauber-Kreis";-;"-";0,42;0,42
+"065340011011";"Kirchhain";"Hessen";"Marburg-Biedenkopf";-;"-";0,42;0,42
+"065310008008";"Hungen";"Hessen";"Gießen";-;"-";0,42;0,42
+"064330002002";"Bischofsheim";"Hessen";"Groß-Gerau";-;"-";0,42;0,42
+"059700020020";"Hilchenbach";"Nordrhein-Westfalen";"Siegen-Wittgenstein";-;"-";0,42;0,42
+"059660004004";"Attendorn";"Nordrhein-Westfalen";"Olpe";-;"-";0,42;0,42
+"055700016016";"Drensteinfurt";"Nordrhein-Westfalen";"Warendorf";-;"-";0,42;0,42
+"055620012012";"Dorsten";"Nordrhein-Westfalen";"Recklinghausen";-;"-";0,42;0,42
+"053740020020";"Lindlar";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";0,42;0,42
+"053580004004";"Aldenhoven";"Nordrhein-Westfalen";"Düren";-;"-";0,42;0,42
+"053150000000";"Köln";"Nordrhein-Westfalen";"Köln, Stadt";1;"Altstadt/Süd, Bayenthal, Godorf, Hahnwald, Immendorf, Klettenberg, Marienburg, Meschenich, Neustadt/Süd, Raderberg, Raderthal, Rodenkirchen, Rondorf, Sülz, Sürth, Weiß, Zollstock";0,42;0,8
+"053150000000";"Köln";"Nordrhein-Westfalen";"Köln, Stadt";2;"Bickendorf, Blumenberg, Bocklemünd/Mengenich, Braunsfeld, Chorweiler, Esch/Auweiler, Fühlingen, Heimersdorf, Junkersdorf, Lindenthal, Lindweiler, Lövenich, Merkenich, Müngersdorf, Ossendorf, Pesch, Roggendorf/ Thenhoven, Seeberg, Vogelsang, Volkhoven/Weiler, Weiden, Widdersdorf, Worringen";0,42;0,65
+"053150000000";"Köln";"Nordrhein-Westfalen";"Köln, Stadt";3;"Altstadt/Nord, Bilderstöckchen, Ehrenfeld, Longerich, Mauenheim, Neuehrenfeld, Neustadt/Nord, Niehl, Nippes, Riehl, Weidenpesch";0,42;0,99
+"053150000000";"Köln";"Nordrhein-Westfalen";"Köln, Stadt";4;"Buchforst, Buchheim, Dellbrück, Deutz, Dünnwald, Flittard, Holweide, Höhenhaus, Kalk, Mülheim, Stammheim";0,42;1,44
+"053150000000";"Köln";"Nordrhein-Westfalen";"Köln, Stadt";5;"Brück, Eil, Elsdorf, Ensen, Finkenberg, Gremberghoven, Grengel, Humboldt/Gremberg, Höhenberg, Langel, Libur, Lind, Merheim, Neubrück, Ostheim, Poll, Porz, Rath/Heumar, Urbach, Vingst, Wahn, Wahnheide, Westhoven, Zündorf";0,42;0,76
+"051660036036";"Willich";"Nordrhein-Westfalen";"Viersen";-;"-";0,42;0,42
+"051660016016";"Nettetal";"Nordrhein-Westfalen";"Viersen";-;"-";0,42;0,42
+"051160000000";"Mönchengladbach";"Nordrhein-Westfalen";"Mönchengladbach, Stadt";-;"-";0,42;0,42
+"032410003003";"Burgdorf";"Niedersachsen";"Region Hannover";-;"-";0,42;0,42
+"031520004004";"Bovenden";"Niedersachsen";"Göttingen";-;"-";0,42;0,42
+"160530000000";"Jena";"Thüringen";"Jena, Stadt";-;"-";0,43;0,43
+"150880305305";"Querfurt";"Sachsen-Anhalt";"Saalekreis";-;"-";0,43;0,43
+"150820340340";"Sandersdorf-Brehna";"Sachsen-Anhalt";"Anhalt-Bitterfeld";-;"-";0,43;0,43
+"146280060060";"Dippoldiswalde";"Sachsen";"Sächsische Schweiz-Osterzgebirge";-;"-";0,43;0,43
+"146270310310";"Weinböhla";"Sachsen";"Meißen";-;"-";0,43;0,43
+"145225105080";"Döbeln";"Sachsen";"Mittelsachsen";-;"-";0,43;0,43
+"145210450450";"Oelsnitz/Erzgeb.";"Sachsen";"Erzgebirgskreis";-;"-";0,43;0,43
+"145210030030";"Aue";"Sachsen";"Erzgebirgskreis";-;"-";0,43;0,43
+"145210020020";"Annaberg-Buchholz";"Sachsen";"Erzgebirgskreis";-;"-";0,43;0,43
+"120690616616";"Teltow";"Brandenburg";"Potsdam-Mittelmark";-;"-";0,43;0,43
+"120650332332";"Velten";"Brandenburg";"Oberhavel";-;"-";0,43;0,43
+"097720163163";"Königsbrunn";"Bayern";"Augsburg";-;"-";0,43;0,43
+"097610000000";"Augsburg";"Bayern";"Augsburg";-;"-";0,43;0,43
+"094620000000";"Bayreuth";"Bayern";"Bayreuth";-;"-";0,43;0,43
+"093750174174";"Neutraubling";"Bayern";"Regensburg";-;"-";0,43;0,43
+"083275006050";"Tuttlingen";"Baden-Württemberg";"Tuttlingen";-;"-";0,43;0,43
+"082260037037";"Ketsch";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,43;0,43
+"081255011110";"Obersulm";"Baden-Württemberg";"Heilbronn";-;"-";0,43;0,43
+"081195003067";"Schorndorf";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,43;0,43
+"081185006067";"Schwieberdingen";"Baden-Württemberg";"Ludwigsburg";-;"-";0,43;0,43
+"081180080080";"Korntal-Münchingen";"Baden-Württemberg";"Ludwigsburg";-;"-";0,43;0,43
+"081180003003";"Asperg";"Baden-Württemberg";"Ludwigsburg";-;"-";0,43;0,43
+"081175010051";"Uhingen";"Baden-Württemberg";"Göppingen";-;"-";0,43;0,43
+"081150041041";"Renningen";"Baden-Württemberg";"Böblingen";-;"-";0,43;0,43
+"081110000000";"Stuttgart";"Baden-Württemberg";"Stuttgart";1;"Mitte, Nord, Ost, Süd, West";0,43;0,67
+"081110000000";"Stuttgart";"Baden-Württemberg";"Stuttgart";2;"Bad Cannstatt, Botnang, Feuerbach, Hedelfingen, Mühlhausen, Münster, Obertürkheim, Stammheim, Untertürkheim, Wangen, Weilimdorf, Zuffenhausen";0,43;0,73
+"081110000000";"Stuttgart";"Baden-Württemberg";"Stuttgart";3;"Birkach, Degerloch, Möhringen, Plieningen, Sillenbuch, Vaihingen";0,43;0,78
+"071400501501";"Boppard";"Rheinland-Pfalz";"Rhein-Hunsrück-Kreis";-;"-";0,43;0,43
+"071380045045";"Neuwied";"Rheinland-Pfalz";"Neuwied";-;"-";0,43;0,43
+"066310017017";"Künzell";"Hessen";"Fulda";-;"-";0,43;0,43
+"066310015015";"Hünfeld";"Hessen";"Fulda";-;"-";0,43;0,43
+"065340007007";"Dautphetal";"Hessen";"Marburg-Biedenkopf";-;"-";0,43;0,43
+"059700044044";"Wilnsdorf";"Nordrhein-Westfalen";"Siegen-Wittgenstein";-;"-";0,43;0,43
+"051660032032";"Viersen";"Nordrhein-Westfalen";"Viersen";-;"-";0,43;0,43
+"034590019019";"Georgsmarienhütte";"Niedersachsen";"Osnabrück";-;"-";0,43;0,43
+"034030000000";"Oldenburg (Oldb)";"Niedersachsen";"Oldenburg (Oldenburg), Stadt";-;"-";0,43;0,43
+"032410021021";"Wunstorf";"Niedersachsen";"Region Hannover";-;"-";0,43;0,43
+"160550000000";"Weimar";"Thüringen";"Weimar, Stadt";-;"-";0,44;0,44
+"160540000000";"Suhl";"Thüringen";"Suhl, Stadt";-;"-";0,44;0,44
+"150910375375";"Wittenberg";"Sachsen-Anhalt";"Wittenberg";-;"-";0,44;0,44
+"150850228228";"Oberharz am Brocken";"Sachsen-Anhalt";"Harz";-;"-";0,44;0,44
+"150830298298";"Hohe Börde";"Sachsen-Anhalt";"Börde";-;"-";0,44;0,44
+"147305311310";"Torgau";"Sachsen";"Nordsachsen";-;"-";0,44;0,44
+"146270140140";"Meißen";"Sachsen";"Meißen";-;"-";0,44;0,44
+"146260110110";"Görlitz";"Sachsen";"Görlitz";-;"-";0,44;0,44
+"145220150150";"Frankenberg/Sa.";"Sachsen";"Mittelsachsen";-;"-";0,44;0,44
+"130590002002";"Anklam";"Mecklenburg-Vorpommern";"Ostvorpommern";-;"-";0,44;0,44
+"120720169169";"Jüterbog";"Brandenburg";"Teltow-Fläming";-;"-";0,44;0,44
+"120660176176";"Lauchhammer";"Brandenburg";"Oberspreewald-Lausitz";-;"-";0,44;0,44
+"120620224224";"Herzberg (Elster)";"Brandenburg";"Elbe-Elster";-;"-";0,44;0,44
+"120610260260";"Königs Wusterhausen";"Brandenburg";"Dahme-Spreewald";-;"-";0,44;0,44
+"097720125125";"Bobingen";"Bayern";"Augsburg";-;"-";0,44;0,44
+"094730151151";"Neustadt b. Coburg";"Bayern";"Coburg";-;"-";0,44;0,44
+"093760141141";"Maxhütte-Haidhof";"Bayern";"Schwandorf";-;"-";0,44;0,44
+"092790122122";"Landau a.d. Isar";"Bayern";"Dingolfing-Landau";-;"-";0,44;0,44
+"092790112112";"Dingolfing";"Bayern";"Dingolfing-Landau";-;"-";0,44;0,44
+"081365003019";"Ellwangen (Jagst)";"Baden-Württemberg";"Ostalbkreis";-;"-";0,44;0,44
+"081175006015";"Donzdorf";"Baden-Württemberg";"Göppingen";-;"-";0,44;0,44
+"081175002018";"Ebersbach an der Fils";"Baden-Württemberg";"Göppingen";-;"-";0,44;0,44
+"073140000000";"Ludwigshafen am Rhein";"Rheinland-Pfalz";"Ludwigshafen am Rhein, kreisfreie Stadt";-;"-";0,44;0,44
+"066330020020";"Niestetal";"Hessen";"Kassel";-;"-";0,44;0,44
+"059540036036";"Witten";"Nordrhein-Westfalen";"Ennepe-Ruhr-Kreis";-;"-";0,44;0,44
+"055580020020";"Havixbeck";"Nordrhein-Westfalen";"Coesfeld";-;"-";0,44;0,44
+"055150000000";"Münster";"Nordrhein-Westfalen";"Münster, Stadt";-;"-";0,44;0,44
+"053140000000";"Bonn";"Nordrhein-Westfalen";"Bonn, Stadt";-;"-";0,44;0,44
+"051660008008";"Grefrath";"Nordrhein-Westfalen";"Viersen";-;"-";0,44;0,44
+"051620024024";"Neuss";"Nordrhein-Westfalen";"Rhein-Kreis Neuss";-;"-";0,44;0,44
+"051540004004";"Bedburg-Hau";"Nordrhein-Westfalen";"Kleve";-;"-";0,44;0,44
+"034590003003";"Bad Essen";"Niedersachsen";"Osnabrück";-;"-";0,44;0,44
+"033570039039";"Rotenburg (Wümme)";"Niedersachsen";"Rotenburg (Wümme)";-;"-";0,44;0,44
+"033510012012";"Hambühren";"Niedersachsen";"Celle";-;"-";0,44;0,44
+"031570007007";"Vechelde";"Niedersachsen";"Peine";-;"-";0,44;0,44
+"010620006006";"Bargteheide";"Schleswig-Holstein";"Stormarn";-;"-";0,44;0,44
+"010530116116";"Schwarzenbek";"Schleswig-Holstein";"Herzogtum Lauenburg";-;"-";0,44;0,44
+"160690024024";"Hildburghausen";"Thüringen";"Hildburghausen";-;"-";0,45;0,45
+"160640046046";"Mühlhausen/Thüringen";"Thüringen";"Unstrut-Hainich-Kreis";-;"-";0,45;0,45
+"150890030030";"Bernburg (Saale)";"Sachsen-Anhalt";"Salzlandkreis";-;"-";0,45;0,45
+"150820430430";"Zerbst/Anhalt";"Sachsen-Anhalt";"Anhalt-Bitterfeld";-;"-";0,45;0,45
+"150810455455";"Salzwedel";"Sachsen-Anhalt";"Altmarkkreis Salzwedel";-;"-";0,45;0,45
+"150030000000";"Magdeburg";"Sachsen-Anhalt";"Magdeburg, Landeshauptstadt";-;"-";0,45;0,45
+"146280260260";"Neustadt i. Sa.";"Sachsen";"Sächsische Schweiz-Osterzgebirge";-;"-";0,45;0,45
+"146280050050";"Bannewitz";"Sachsen";"Sächsische Schweiz-Osterzgebirge";-;"-";0,45;0,45
+"146270230230";"Riesa";"Sachsen";"Meißen";-;"-";0,45;0,45
+"130620059059";"Ueckermünde";"Mecklenburg-Vorpommern";"Uecker-Randow";-;"-";0,45;0,45
+"130600056056";"Parchim";"Mecklenburg-Vorpommern";"Parchim";-;"-";0,45;0,45
+"130540013013";"Boizenburg/Elbe";"Mecklenburg-Vorpommern";"Ludwigslust";-;"-";0,45;0,45
+"130530031031";"Güstrow";"Mecklenburg-Vorpommern";"Güstrow";-;"-";0,45;0,45
+"120730532532";"Schwedt/Oder";"Brandenburg";"Uckermark";-;"-";0,45;0,45
+"120710372372";"Spremberg";"Brandenburg";"Spree-Neiße";-;"-";0,45;0,45
+"120630252252";"Rathenow";"Brandenburg";"Havelland";-;"-";0,45;0,45
+"120630080080";"Falkensee";"Brandenburg";"Havelland";-;"-";0,45;0,45
+"100460114114";"Nohfelden";"Saarland";"St. Wendel";-;"-";0,45;0,45
+"100450115115";"Kirkel";"Saarland";"Saarpfalz-Kreis";-;"-";0,45;0,45
+"100410517517";"Riegelsberg";"Saarland";"Regionalverband Saarbrücken";-;"-";0,45;0,45
+"096770131131";"Gemünden a. Main";"Bayern";"Main-Spessart";-;"-";0,45;0,45
+"095770173173";"Treuchtlingen";"Bayern";"Weißenburg-Gunzenhausen";-;"-";0,45;0,45
+"092610000000";"Landshut";"Bayern";"Landshut";-;"-";0,45;0,45
+"084170025025";"Haigerloch";"Baden-Württemberg";"Zollernalbkreis";-;"-";0,45;0,45
+"083170153153";"Rheinau";"Baden-Württemberg";"Ortenaukreis";-;"-";0,45;0,45
+"081255014102";"Weinsberg";"Baden-Württemberg";"Heilbronn";-;"-";0,45;0,45
+"081255013086";"Schwaigern";"Baden-Württemberg";"Heilbronn";-;"-";0,45;0,45
+"065340014014";"Marburg";"Hessen";"Marburg-Biedenkopf";-;"-";0,45;0,45
+"065320009009";"Eschenburg";"Hessen";"Lahn-Dill-Kreis";-;"-";0,45;0,45
+"064380001001";"Dietzenbach";"Hessen";"Offenbach";-;"-";0,45;0,45
+"059620048048";"Neuenrade";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,45;0,45
+"051110000000";"Düsseldorf";"Nordrhein-Westfalen";"Düsseldorf, Stadt";1;"Altstadt, Bilk, Carlstadt, Derendorf, Flehe, Friedrichstadt, Golzheim, Hafen, Hamm, Heerdt, Lörick, Niederkassel, Oberbilk, Oberkassel, Pempelfort, Stadtmitte, Unterbilk, Volmerswerth";0,45;0,82
+"051110000000";"Düsseldorf";"Nordrhein-Westfalen";"Düsseldorf, Stadt";2;"Angermund, Düsseltal, Flingern Nord, Flingern Süd, Gerresheim, Grafenberg, Hubbelrath, Kaiserswerth, Kalkum, Lichtenbroich, Lohausen, Ludenberg, Mörsenbroich, Rath, Stockum, Unterrath, Wittlaer";0,45;0,66
+"051110000000";"Düsseldorf";"Nordrhein-Westfalen";"Düsseldorf, Stadt";3;"Benrath, Eller, Garath, Hassels, Hellerhof, Himmelgeist, Holthausen, Itter, Lierenfeld, Reisholz, Unterbach, Urdenbach, Vennhausen, Wersten";0,45;0,83
+"034590033033";"Wallenhorst";"Niedersachsen";"Osnabrück";-;"-";0,45;0,45
+"034590021021";"Hasbergen";"Niedersachsen";"Osnabrück";-;"-";0,45;0,45
+"034540018018";"Haren (Ems)";"Niedersachsen";"Emsland";-;"-";0,45;0,45
+"034510004004";"Edewecht";"Niedersachsen";"Ammerland";-;"-";0,45;0,45
+"033520030030";"Langen";"Niedersachsen";"Cuxhaven";-;"-";0,45;0,45
+"010600044044";"Kaltenkirchen";"Schleswig-Holstein";"Segeberg";-;"-";0,45;0,45
+"160770001001";"Altenburg";"Thüringen";"Altenburger Land";-;"-";0,46;0,46
+"160765054087";"Zeulenroda-Triebes";"Thüringen";"Greiz";-;"-";0,46;0,46
+"147290270270";"Markranstädt";"Sachsen";"Leipzig";-;"-";0,46;0,46
+"147290050050";"Borna";"Sachsen";"Leipzig";-;"-";0,46;0,46
+"146250020020";"Bautzen";"Sachsen";"Bautzen";-;"-";0,46;0,46
+"120700296296";"Perleberg";"Brandenburg";"Prignitz";-;"-";0,46;0,46
+"120650225225";"Mühlenbecker Land";"Brandenburg";"Oberhavel";-;"-";0,46;0,46
+"120650144144";"Hohen Neuendorf";"Brandenburg";"Oberhavel";-;"-";0,46;0,46
+"120520000000";"Cottbus";"Brandenburg";"Cottbus, Stadt";-;"-";0,46;0,46
+"096620000000";"Schweinfurt";"Bayern";"Schweinfurt";-;"-";0,46;0,46
+"095720135135";"Höchstadt a.d. Aisch";"Bayern";"Erlangen-Höchstadt";-;"-";0,46;0,46
+"095710136136";"Dinkelsbühl";"Bayern";"Ansbach";-;"-";0,46;0,46
+"094780165165";"Bad Staffelstein";"Bayern";"Lichtenfels";-;"-";0,46;0,46
+"092750141141";"Pocking";"Bayern";"Passau";-;"-";0,46;0,46
+"091610000000";"Ingolstadt";"Bayern";"Ingolstadt";-;"-";0,46;0,46
+"083360091091";"Weil am Rhein";"Baden-Württemberg";"Lörrach";-;"-";0,46;0,46
+"083265004074";"Villingen-Schwenningen";"Baden-Württemberg";"Schwarzwald-Baar-Kreis";-;"-";0,46;0,46
+"083255003049";"Rottweil";"Baden-Württemberg";"Rottweil";-;"-";0,46;0,46
+"081185001007";"Besigheim";"Baden-Württemberg";"Ludwigsburg";-;"-";0,46;0,46
+"081165005049";"Nürtingen";"Baden-Württemberg";"Esslingen";-;"-";0,46;0,46
+"073160000000";"Neustadt an der Weinstraße";"Rheinland-Pfalz";"Neustadt an der Weinstraße, kreisfreie Stadt";-;"-";0,46;0,46
+"071370203203";"Bendorf";"Rheinland-Pfalz";"Mayen-Koblenz";-;"-";0,46;0,46
+"066110000000";"Kassel";"Hessen";"Kassel, documenta-Stadt";-;"-";0,46;0,46
+"065340010010";"Gladenbach";"Hessen";"Marburg-Biedenkopf";-;"-";0,46;0,46
+"064330014014";"Trebur";"Hessen";"Groß-Gerau";-;"-";0,46;0,46
+"059160000000";"Herne";"Nordrhein-Westfalen";"Herne, Stadt";-;"-";0,46;0,46
+"053820044044";"Niederkassel";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,46;0,46
+"053820004004";"Alfter";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,46;0,46
+"051580004004";"Erkrath";"Nordrhein-Westfalen";"Mettmann";-;"-";0,46;0,46
+"051540044044";"Rees";"Nordrhein-Westfalen";"Kleve";-;"-";0,46;0,46
+"034590022022";"Hilter am Teutoburger Wald";"Niedersachsen";"Osnabrück";-;"-";0,46;0,46
+"034560025025";"Wietmarschen";"Niedersachsen";"Grafschaft Bentheim";-;"-";0,46;0,46
+"034010000000";"Delmenhorst";"Niedersachsen";"Delmenhorst, Stadt";-;"-";0,46;0,46
+"032540021021";"Hildesheim";"Niedersachsen";"Hildesheim";-;"-";0,46;0,46
+"031550011011";"Northeim";"Niedersachsen";"Northeim";-;"-";0,46;0,46
+"031530007007";"Langelsheim";"Niedersachsen";"Goslar";-;"-";0,46;0,46
+"160765052022";"Greiz";"Thüringen";"Greiz";-;"-";0,47;0,47
+"160700029029";"Ilmenau";"Thüringen";"Ilm-Kreis";-;"-";0,47;0,47
+"160650067067";"Sondershausen";"Thüringen";"Kyffhäuserkreis";-;"-";0,47;0,47
+"150870370370";"Sangerhausen";"Sachsen-Anhalt";"Mansfeld-Südharz";-;"-";0,47;0,47
+"147290410410";"Wurzen";"Sachsen";"Leipzig";-;"-";0,47;0,47
+"146285229270";"Pirna";"Sachsen";"Sächsische Schweiz-Osterzgebirge";-;"-";0,47;0,47
+"146270060060";"Großenhain";"Sachsen";"Meißen";-;"-";0,47;0,47
+"130520018018";"Demmin";"Mecklenburg-Vorpommern";"Demmin";-;"-";0,47;0,47
+"120610572572";"Zeuthen";"Brandenburg";"Dahme-Spreewald";-;"-";0,47;0,47
+"100440112112";"Lebach";"Saarland";"Saarlouis";-;"-";0,47;0,47
+"097790131131";"Donauwörth";"Bayern";"Donau-Ries";-;"-";0,47;0,47
+"097760117117";"Lindenberg i. Allgäu";"Bayern";"Lindau (Bodensee)";-;"-";0,47;0,47
+"097740150150";"Krumbach (Schwaben)";"Bayern";"Günzburg";-;"-";0,47;0,47
+"095770136136";"Gunzenhausen";"Bayern";"Weißenburg-Gunzenhausen";-;"-";0,47;0,47
+"092780118118";"Bogen";"Bayern";"Straubing-Bogen";-;"-";0,47;0,47
+"092730152152";"Neustadt a.d. Donau";"Bayern";"Kelheim";-;"-";0,47;0,47
+"092710119119";"Deggendorf";"Bayern";"Deggendorf";-;"-";0,47;0,47
+"091860162162";"Wolnzach";"Bayern";"Pfaffenhofen a.d.Ilm";-;"-";0,47;0,47
+"091850158158";"Schrobenhausen";"Bayern";"Neuburg-Schrobenhausen";-;"-";0,47;0,47
+"091770115115";"Dorfen";"Bayern";"Erding";-;"-";0,47;0,47
+"083365007081";"Schopfheim";"Baden-Württemberg";"Lörrach";-;"-";0,47;0,47
+"083360105105";"Grenzach-Wyhlen";"Baden-Württemberg";"Lörrach";-;"-";0,47;0,47
+"083255006057";"Sulz am Neckar";"Baden-Württemberg";"Rottweil";-;"-";0,47;0,47
+"083175003034";"Gengenbach";"Baden-Württemberg";"Ortenaukreis";-;"-";0,47;0,47
+"082120000000";"Karlsruhe";"Baden-Württemberg";"Karlsruhe";-;"-";0,47;0,47
+"081365002010";"Bopfingen";"Baden-Württemberg";"Ostalbkreis";-;"-";0,47;0,47
+"081180046046";"Kornwestheim";"Baden-Württemberg";"Ludwigsburg";-;"-";0,47;0,47
+"081160072072";"Wernau (Neckar)";"Baden-Württemberg";"Esslingen";-;"-";0,47;0,47
+"081160047047";"Neuhausen auf den Fildern";"Baden-Württemberg";"Esslingen";-;"-";0,47;0,47
+"071310007007";"Bad Neuenahr-Ahrweiler";"Rheinland-Pfalz";"Ahrweiler";-;"-";0,47;0,47
+"066310009009";"Fulda";"Hessen";"Fulda";-;"-";0,47;0,47
+"064380010010";"Obertshausen";"Hessen";"Offenbach";-;"-";0,47;0,47
+"057700044044";"Stemwede";"Nordrhein-Westfalen";"Minden-Lübbecke";-;"-";0,47;0,47
+"057620016016";"Brakel";"Nordrhein-Westfalen";"Höxter";-;"-";0,47;0,47
+"057580008008";"Enger";"Nordrhein-Westfalen";"Herford";-;"-";0,47;0,47
+"055540048048";"Rhede";"Nordrhein-Westfalen";"Borken";-;"-";0,47;0,47
+"051200000000";"Remscheid";"Nordrhein-Westfalen";"Remscheid, Stadt";-;"-";0,47;0,47
+"034560015015";"Nordhorn";"Niedersachsen";"Grafschaft Bentheim";-;"-";0,47;0,47
+"033550022022";"Lüneburg";"Niedersachsen";"Lüneburg";-;"-";0,47;0,47
+"032540008008";"Bockenem";"Niedersachsen";"Hildesheim";-;"-";0,47;0,47
+"032520008008";"Salzhemmendorf";"Niedersachsen";"Hameln-Pyrmont";-;"-";0,47;0,47
+"031570006006";"Peine";"Niedersachsen";"Peine";-;"-";0,47;0,47
+"031530012012";"Seesen";"Niedersachsen";"Goslar";-;"-";0,47;0,47
+"031030000000";"Wolfsburg";"Niedersachsen";"Wolfsburg, Stadt";-;"-";0,47;0,47
+"010600063063";"Norderstedt";"Schleswig-Holstein";"Segeberg";-;"-";0,47;0,47
+"010550004004";"Bad Schwartau";"Schleswig-Holstein";"Ostholstein";-;"-";0,47;0,47
+"150880330330";"Schkopau";"Sachsen-Anhalt";"Saalekreis";-;"-";0,48;0,48
+"150810280280";"Klötze";"Sachsen-Anhalt";"Altmarkkreis Salzwedel";-;"-";0,48;0,48
+"120700424424";"Wittenberge";"Brandenburg";"Prignitz";-;"-";0,48;0,48
+"120670124124";"Erkner";"Brandenburg";"Oder-Spree";-;"-";0,48;0,48
+"100420112112";"Losheim am See";"Saarland";"Merzig-Wadern";-;"-";0,48;0,48
+"100420111111";"Beckingen";"Saarland";"Merzig-Wadern";-;"-";0,48;0,48
+"097780116116";"Bad Wörishofen";"Bayern";"Unterallgäu";-;"-";0,48;0,48
+"095730114114";"Cadolzburg";"Bayern";"Fürth";-;"-";0,48;0,48
+"091840131131";"Kirchheim b. München";"Bayern";"München";-;"-";0,48;0,48
+"091810114114";"Dießen am Ammersee";"Bayern";"Landsberg am Lech";-;"-";0,48;0,48
+"091770117117";"Erding";"Bayern";"Erding";-;"-";0,48;0,48
+"084365007081";"Wangen im Allgäu";"Baden-Württemberg";"Ravensburg";-;"-";0,48;0,48
+"083370116116";"Wehr";"Baden-Württemberg";"Waldshut";-;"-";0,48;0,48
+"083175009089";"Oberkirch";"Baden-Württemberg";"Ortenaukreis";-;"-";0,48;0,48
+"082260062062";"Oftersheim";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,48;0,48
+"082260018018";"Eppelheim";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,48;0,48
+"081365007065";"Schwäbisch Gmünd";"Baden-Württemberg";"Ostalbkreis";-;"-";0,48;0,48
+"081280139139";"Lauda-Königshofen";"Baden-Württemberg";"Main-Tauber-Kreis";-;"-";0,48;0,48
+"081165006056";"Plochingen";"Baden-Württemberg";"Esslingen";-;"-";0,48;0,48
+"081160080080";"Ostfildern";"Baden-Württemberg";"Esslingen";-;"-";0,48;0,48
+"081150050050";"Weil der Stadt";"Baden-Württemberg";"Böblingen";-;"-";0,48;0,48
+"073200000000";"Zweibrücken";"Rheinland-Pfalz";"Zweibrücken, kreisfreie Stadt";-;"-";0,48;0,48
+"073120000000";"Kaiserslautern";"Rheinland-Pfalz";"Kaiserslautern, kreisfreie Stadt";-;"-";0,48;0,48
+"071375008216";"Mülheim-Kärlich";"Rheinland-Pfalz";"Mayen-Koblenz";-;"-";0,48;0,48
+"066360006006";"Hessisch Lichtenau";"Hessen";"Werra-Meißner-Kreis";-;"-";0,48;0,48
+"065350001001";"Alsfeld";"Hessen";"Vogelsbergkreis";-;"-";0,48;0,48
+"064380003003";"Egelsbach";"Hessen";"Offenbach";-;"-";0,48;0,48
+"057580024024";"Löhne";"Nordrhein-Westfalen";"Herford";-;"-";0,48;0,48
+"053620020020";"Erftstadt";"Nordrhein-Westfalen";"Rhein-Erft-Kreis";-;"-";0,48;0,48
+"032410011011";"Lehrte";"Niedersachsen";"Region Hannover";-;"-";0,48;0,48
+"160660063063";"Schmalkalden";"Thüringen";"Schmalkalden-Meiningen";-;"-";0,49;0,49
+"150890310310";"Staßfurt";"Sachsen-Anhalt";"Salzlandkreis";-;"-";0,49;0,49
+"150860040040";"Genthin";"Sachsen-Anhalt";"Jerichower Land";-;"-";0,49;0,49
+"130610035035";"Sassnitz";"Mecklenburg-Vorpommern";"Rügen";-;"-";0,49;0,49
+"120730452452";"Prenzlau";"Brandenburg";"Uckermark";-;"-";0,49;0,49
+"120690604604";"Stahnsdorf";"Brandenburg";"Potsdam-Mittelmark";-;"-";0,49;0,49
+"120630208208";"Nauen";"Brandenburg";"Havelland";-;"-";0,49;0,49
+"100460112112";"Marpingen";"Saarland";"St. Wendel";-;"-";0,49;0,49
+"097710130130";"Friedberg";"Bayern";"Aichach-Friedberg";-;"-";0,49;0,49
+"097710113113";"Aichach";"Bayern";"Aichach-Friedberg";-;"-";0,49;0,49
+"095770177177";"Weißenburg i. Bay.";"Bayern";"Weißenburg-Gunzenhausen";-;"-";0,49;0,49
+"095760151151";"Wendelstein";"Bayern";"Roth";-;"-";0,49;0,49
+"093750190190";"Regenstauf";"Bayern";"Regensburg";-;"-";0,49;0,49
+"093710151151";"Sulzbach-Rosenberg";"Bayern";"Amberg-Sulzbach";-;"-";0,49;0,49
+"092710146146";"Plattling";"Bayern";"Deggendorf";-;"-";0,49;0,49
+"091870165165";"Raubling";"Bayern";"Rosenheim";-;"-";0,49;0,49
+"091780143143";"Moosburg a.d. Isar";"Bayern";"Freising";-;"-";0,49;0,49
+"091730126126";"Geretsried";"Bayern";"Bad Tölz-Wolfratshausen";-;"-";0,49;0,49
+"091720118118";"Freilassing";"Bayern";"Berchtesgadener Land";-;"-";0,49;0,49
+"082365004040";"Mühlacker";"Baden-Württemberg";"Enzkreis";-;"-";0,49;0,49
+"081365001088";"Aalen";"Baden-Württemberg";"Ostalbkreis";-;"-";0,49;0,49
+"081195005084";"Welzheim";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,49;0,49
+"073340007007";"Germersheim";"Rheinland-Pfalz";"Germersheim";-;"-";0,49;0,49
+"066350015015";"Korbach";"Hessen";"Waldeck-Frankenberg";-;"-";0,49;0,49
+"059740020020";"Geseke";"Nordrhein-Westfalen";"Soest";-;"-";0,49;0,49
+"059580004004";"Arnsberg";"Nordrhein-Westfalen";"Hochsauerlandkreis";-;"-";0,49;0,49
+"059150000000";"Hamm";"Nordrhein-Westfalen";"Hamm, Stadt";-;"-";0,49;0,49
+"057580004004";"Bünde";"Nordrhein-Westfalen";"Herford";-;"-";0,49;0,49
+"057540008008";"Gütersloh";"Nordrhein-Westfalen";"Gütersloh";-;"-";0,49;0,49
+"055660068068";"Ochtrup";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,49;0,49
+"053340008008";"Baesweiler";"Nordrhein-Westfalen";"Städteregion Aachen";-;"-";0,49;0,49
+"051700032032";"Rheinberg";"Nordrhein-Westfalen";"Wesel";-;"-";0,49;0,49
+"034540035035";"Meppen";"Niedersachsen";"Emsland";-;"-";0,49;0,49
+"033580016016";"Munster";"Niedersachsen";"Soltau-Fallingbostel";-;"-";0,49;0,49
+"032570009009";"Bückeburg";"Niedersachsen";"Schaumburg";-;"-";0,49;0,49
+"032540005005";"Bad Salzdetfurth";"Niedersachsen";"Hildesheim";-;"-";0,49;0,49
+"031520007007";"Duderstadt";"Niedersachsen";"Göttingen";-;"-";0,49;0,49
+"010560018018";"Halstenbek";"Schleswig-Holstein";"Pinneberg";-;"-";0,49;0,49
+"010020000000";"Kiel";"Schleswig-Holstein";"Kiel, Landeshauptstadt";-;"-";0,49;0,49
+"160770043043";"Schmölln";"Thüringen";"Altenburger Land";-;"-";0,5;0,5
+"160730076076";"Rudolstadt";"Thüringen";"Saalfeld-Rudolstadt";-;"-";0,5;0,5
+"150840235235";"Hohenmölsen";"Sachsen-Anhalt";"Burgenlandkreis";-;"-";0,5;0,5
+"150820377377";"Südliches Anhalt";"Sachsen-Anhalt";"Anhalt-Bitterfeld";-;"-";0,5;0,5
+"145245114180";"Limbach-Oberfrohna";"Sachsen";"Zwickau";-;"-";0,5;0,5
+"145225102060";"Burgstädt";"Sachsen";"Mittelsachsen";-;"-";0,5;0,5
+"130060000000";"Wismar";"Mecklenburg-Vorpommern";"Wismar";-;"-";0,5;0,5
+"120650356356";"Zehdenick";"Brandenburg";"Oberhavel";-;"-";0,5;0,5
+"097750135135";"Neu-Ulm";"Bayern";"Neu-Ulm";-;"-";0,5;0,5
+"095650000000";"Schwabach";"Bayern";"Schwabach";-;"-";0,5;0,5
+"092750154154";"Vilshofen an der Donau";"Bayern";"Passau";-;"-";0,5;0,5
+"091840149149";"Unterschleißheim";"Bayern";"München";-;"-";0,5;0,5
+"091840148148";"Unterhaching";"Bayern";"München";-;"-";0,5;0,5
+"091810130130";"Landsberg am Lech";"Bayern";"Landsberg am Lech";-;"-";0,5;0,5
+"091790123123";"Germering";"Bayern";"Fürstenfeldbruck";-;"-";0,5;0,5
+"091740115115";"Dachau";"Bayern";"Dachau";-;"-";0,5;0,5
+"084250141141";"Blaustein";"Baden-Württemberg";"Alb-Donau-Kreis";-;"-";0,5;0,5
+"084165003036";"Rottenburg am Neckar";"Baden-Württemberg";"Tübingen";-;"-";0,5;0,5
+"084155003053";"Münsingen";"Baden-Württemberg";"Reutlingen";-;"-";0,5;0,5
+"082255001109";"Walldürn";"Baden-Württemberg";"Neckar-Odenwald-Kreis";-;"-";0,5;0,5
+"081190044044";"Murrhardt";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,5;0,5
+"081185004078";"Freiberg am Neckar";"Baden-Württemberg";"Ludwigsburg";-;"-";0,5;0,5
+"081180050050";"Markgröningen";"Baden-Württemberg";"Ludwigsburg";-;"-";0,5;0,5
+"081165001033";"Kirchheim unter Teck";"Baden-Württemberg";"Esslingen";-;"-";0,5;0,5
+"081160019019";"Esslingen am Neckar";"Baden-Württemberg";"Esslingen";-;"-";0,5;0,5
+"071410075075";"Lahnstein";"Rheinland-Pfalz";"Rhein-Lahn-Kreis";-;"-";0,5;0,5
+"066330017017";"Lohfelden";"Hessen";"Kassel";-;"-";0,5;0,5
+"066330009009";"Fuldatal";"Hessen";"Kassel";-;"-";0,5;0,5
+"065330017017";"Weilburg";"Hessen";"Limburg-Weilburg";-;"-";0,5;0,5
+"065320023023";"Wetzlar";"Hessen";"Lahn-Dill-Kreis";-;"-";0,5;0,5
+"064350029029";"Wächtersbach";"Hessen";"Main-Kinzig-Kreis";-;"-";0,5;0,5
+"064350025025";"Schlüchtern";"Hessen";"Main-Kinzig-Kreis";-;"-";0,5;0,5
+"064350023023";"Rodenbach";"Hessen";"Main-Kinzig-Kreis";-;"-";0,5;0,5
+"064350017017";"Langenselbold";"Hessen";"Main-Kinzig-Kreis";-;"-";0,5;0,5
+"064330005005";"Ginsheim-Gustavsburg";"Hessen";"Groß-Gerau";-;"-";0,5;0,5
+"059780004004";"Bergkamen";"Nordrhein-Westfalen";"Unna";-;"-";0,5;0,5
+"059660008008";"Drolshagen";"Nordrhein-Westfalen";"Olpe";-;"-";0,5;0,5
+"059580040040";"Schmallenberg";"Nordrhein-Westfalen";"Hochsauerlandkreis";-;"-";0,5;0,5
+"057740040040";"Bad Wünnenberg";"Nordrhein-Westfalen";"Paderborn";-;"-";0,5;0,5
+"057740036036";"Salzkotten";"Nordrhein-Westfalen";"Paderborn";-;"-";0,5;0,5
+"057540048048";"Versmold";"Nordrhein-Westfalen";"Gütersloh";-;"-";0,5;0,5
+"053820012012";"Bornheim";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,5;0,5
+"053700020020";"Hückelhoven";"Nordrhein-Westfalen";"Heinsberg";-;"-";0,5;0,5
+"053160000000";"Leverkusen";"Nordrhein-Westfalen";"Leverkusen, Stadt";-;"-";0,5;0,5
+"032410017017";"Springe";"Niedersachsen";"Region Hannover";-;"-";0,5;0,5
+"032410009009";"Laatzen";"Niedersachsen";"Region Hannover";-;"-";0,5;0,5
+"032410008008";"Isernhagen";"Niedersachsen";"Region Hannover";-;"-";0,5;0,5
+"031580006006";"Cremlingen";"Niedersachsen";"Wolfenbüttel";-;"-";0,5;0,5
+"031510009009";"Gifhorn";"Niedersachsen";"Gifhorn";-;"-";0,5;0,5
+"031020000000";"Salzgitter";"Niedersachsen";"Salzgitter, Stadt";-;"-";0,5;0,5
+"010620018018";"Glinde";"Schleswig-Holstein";"Stormarn";-;"-";0,5;0,5
+"120630036036";"Brieselang";"Brandenburg";"Havelland";-;"-";0,51;0,51
+"100440118118";"Schwalbach";"Saarland";"Saarlouis";-;"-";0,51;0,51
+"100440117117";"Schmelz";"Saarland";"Saarlouis";-;"-";0,51;0,51
+"100430111111";"Eppelborn";"Saarland";"Neunkirchen";-;"-";0,51;0,51
+"097720177177";"Meitingen";"Bayern";"Augsburg";-;"-";0,51;0,51
+"091840136136";"Ottobrunn";"Bayern";"München";-;"-";0,51;0,51
+"091820120120";"Holzkirchen";"Bayern";"Miesbach";-;"-";0,51;0,51
+"091790145145";"Puchheim";"Bayern";"Fürstenfeldbruck";-;"-";0,51;0,51
+"084210000000";"Ulm";"Baden-Württemberg";"Ulm";-;"-";0,51;0,51
+"083175010096";"Offenburg";"Baden-Württemberg";"Ortenaukreis";-;"-";0,51;0,51
+"081195006085";"Winnenden";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,51;0,51
+"073310003003";"Alzey";"Rheinland-Pfalz";"Alzey-Worms";-;"-";0,51;0,51
+"071370068068";"Mayen";"Rheinland-Pfalz";"Mayen-Koblenz";-;"-";0,51;0,51
+"066330023023";"Schauenburg";"Hessen";"Kassel";-;"-";0,51;0,51
+"066320002002";"Bad Hersfeld";"Hessen";"Hersfeld-Rotenburg";-;"-";0,51;0,51
+"064400005005";"Butzbach";"Hessen";"Wetteraukreis";-;"-";0,51;0,51
+"064320015015";"Münster";"Hessen";"Darmstadt-Dieburg";-;"-";0,51;0,51
+"059780040040";"Werne";"Nordrhein-Westfalen";"Unna";-;"-";0,51;0,51
+"059580024024";"Marsberg";"Nordrhein-Westfalen";"Hochsauerlandkreis";-;"-";0,51;0,51
+"057660052052";"Lügde";"Nordrhein-Westfalen";"Lippe";-;"-";0,51;0,51
+"057580032032";"Spenge";"Nordrhein-Westfalen";"Herford";-;"-";0,51;0,51
+"055660040040";"Lengerich";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,51;0,51
+"051620028028";"Rommerskirchen";"Nordrhein-Westfalen";"Rhein-Kreis Neuss";-;"-";0,51;0,51
+"051220000000";"Solingen";"Nordrhein-Westfalen";"Solingen, Stadt";-;"-";0,51;0,51
+"034570017017";"Ostrhauderfehn";"Niedersachsen";"Leer";-;"-";0,51;0,51
+"034550015015";"Schortens";"Niedersachsen";"Friesland";-;"-";0,51;0,51
+"034050000000";"Wilhelmshaven";"Niedersachsen";"Wilhelmshaven, Stadt";-;"-";0,51;0,51
+"033610009009";"Oyten";"Niedersachsen";"Verden";-;"-";0,51;0,51
+"033590010010";"Buxtehude";"Niedersachsen";"Stade";-;"-";0,51;0,51
+"033560007007";"Osterholz-Scharmbeck";"Niedersachsen";"Osterholz";-;"-";0,51;0,51
+"032410004004";"Burgwedel";"Niedersachsen";"Region Hannover";-;"-";0,51;0,51
+"010530129129";"Wentorf bei Hamburg";"Schleswig-Holstein";"Herzogtum Lauenburg";-;"-";0,51;0,51
+"160735050077";"Saalfeld/Saale";"Thüringen";"Saalfeld-Rudolstadt";-;"-";0,52;0,52
+"097720200200";"Schwabmünchen";"Bayern";"Augsburg";-;"-";0,52;0,52
+"096770155155";"Lohr a. Main";"Bayern";"Main-Spessart";-;"-";0,52;0,52
+"096710111111";"Alzenau";"Bayern";"Aschaffenburg";-;"-";0,52;0,52
+"095740138138";"Lauf a.d. Pegnitz";"Bayern";"Nürnberger Land";-;"-";0,52;0,52
+"093750165165";"Lappersdorf";"Bayern";"Regensburg";-;"-";0,52;0,52
+"093720116116";"Cham";"Bayern";"Cham";-;"-";0,52;0,52
+"091860143143";"Pfaffenhofen a.d. Ilm";"Bayern";"Pfaffenhofen a.d.Ilm";-;"-";0,52;0,52
+"091860137137";"Manching";"Bayern";"Pfaffenhofen a.d.Ilm";-;"-";0,52;0,52
+"091840138138";"Planegg";"Bayern";"München";-;"-";0,52;0,52
+"091790126126";"Gröbenzell";"Bayern";"Fürstenfeldbruck";-;"-";0,52;0,52
+"091750115115";"Ebersberg";"Bayern";"Ebersberg";-;"-";0,52;0,52
+"083175002026";"Ettenheim";"Baden-Württemberg";"Ortenaukreis";-;"-";0,52;0,52
+"082260105105";"Edingen-Neckarhausen";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,52;0,52
+"082260103103";"St. Leon-Rot";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,52;0,52
+"082165003009";"Durmersheim";"Baden-Württemberg";"Rastatt";-;"-";0,52;0,52
+"081350020020";"Herbrechtingen";"Baden-Württemberg";"Heidenheim";-;"-";0,52;0,52
+"081190020020";"Fellbach";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,52;0,52
+"073130000000";"Landau in der Pfalz";"Rheinland-Pfalz";"Landau in der Pfalz, kreisfreie Stadt";-;"-";0,52;0,52
+"072110000000";"Trier";"Rheinland-Pfalz";"Trier, kreisfreie Stadt";-;"-";0,52;0,52
+"071110000000";"Koblenz";"Rheinland-Pfalz";"Koblenz, kreisfreie Stadt";-;"-";0,52;0,52
+"066330026026";"Vellmar";"Hessen";"Kassel";-;"-";0,52;0,52
+"064390012012";"Oestrich-Winkel";"Hessen";"Rheingau-Taunus-Kreis";-;"-";0,52;0,52
+"064360011011";"Schwalbach am Taunus";"Hessen";"Main-Taunus-Kreis";-;"-";0,52;0,52
+"057740020020";"Delbrück";"Nordrhein-Westfalen";"Paderborn";-;"-";0,52;0,52
+"057700028028";"Petershagen";"Nordrhein-Westfalen";"Minden-Lübbecke";-;"-";0,52;0,52
+"057620020020";"Höxter";"Nordrhein-Westfalen";"Höxter";-;"-";0,52;0,52
+"055660060060";"Neuenkirchen";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,52;0,52
+"053740044044";"Waldbröl";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";0,52;0,52
+"034520012012";"Ihlow";"Niedersachsen";"Aurich";-;"-";0,52;0,52
+"032540002002";"Alfeld (Leine)";"Niedersachsen";"Hildesheim";-;"-";0,52;0,52
+"032410007007";"Hemmingen";"Niedersachsen";"Region Hannover";-;"-";0,52;0,52
+"031530005005";"Goslar";"Niedersachsen";"Goslar";-;"-";0,52;0,52
+"120720477477";"Zossen";"Brandenburg";"Teltow-Fläming";-;"-";0,53;0,53
+"096710143143";"Mömbris";"Bayern";"Aschaffenburg";-;"-";0,53;0,53
+"096710122122";"Großostheim";"Bayern";"Aschaffenburg";-;"-";0,53;0,53
+"092760138138";"Regen";"Bayern";"Regen";-;"-";0,53;0,53
+"091820125125";"Miesbach";"Bayern";"Miesbach";-;"-";0,53;0,53
+"084255005033";"Ehingen (Donau)";"Baden-Württemberg";"Alb-Donau-Kreis";-;"-";0,53;0,53
+"084175004031";"Hechingen";"Baden-Württemberg";"Zollernalbkreis";-;"-";0,53;0,53
+"084150019019";"Eningen unter Achalm";"Baden-Württemberg";"Reutlingen";-;"-";0,53;0,53
+"083355005100";"Rielasingen-Worblingen";"Baden-Württemberg";"Konstanz";-;"-";0,53;0,53
+"082355007046";"Nagold";"Baden-Württemberg";"Calw";-;"-";0,53;0,53
+"081175005026";"Göppingen";"Baden-Württemberg";"Göppingen";-;"-";0,53;0,53
+"064380008008";"Mühlheim am Main";"Hessen";"Offenbach";-;"-";0,53;0,53
+"064380005005";"Heusenstamm";"Hessen";"Offenbach";-;"-";0,53;0,53
+"064360009009";"Kriftel";"Hessen";"Main-Taunus-Kreis";-;"-";0,53;0,53
+"057660044044";"Lemgo";"Nordrhein-Westfalen";"Lippe";-;"-";0,53;0,53
+"057620032032";"Steinheim";"Nordrhein-Westfalen";"Höxter";-;"-";0,53;0,53
+"057620004004";"Bad Driburg";"Nordrhein-Westfalen";"Höxter";-;"-";0,53;0,53
+"057580020020";"Kirchlengern";"Nordrhein-Westfalen";"Herford";-;"-";0,53;0,53
+"057110000000";"Bielefeld";"Nordrhein-Westfalen";"Bielefeld, Stadt";-;"-";0,53;0,53
+"055700008008";"Beckum";"Nordrhein-Westfalen";"Warendorf";-;"-";0,53;0,53
+"055620014014";"Gladbeck";"Nordrhein-Westfalen";"Recklinghausen";-;"-";0,53;0,53
+"055580044044";"Senden";"Nordrhein-Westfalen";"Coesfeld";-;"-";0,53;0,53
+"053820064064";"Swisttal";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,53;0,53
+"051660020020";"Niederkrüchten";"Nordrhein-Westfalen";"Viersen";-;"-";0,53;0,53
+"033520011011";"Cuxhaven";"Niedersachsen";"Cuxhaven";-;"-";0,53;0,53
+"031540010010";"Helmstedt";"Niedersachsen";"Helmstedt";-;"-";0,53;0,53
+"010620001001";"Ahrensburg";"Schleswig-Holstein";"Stormarn";-;"-";0,53;0,53
+"010530032032";"Geesthacht";"Schleswig-Holstein";"Herzogtum Lauenburg";-;"-";0,53;0,53
+"010510011011";"Brunsbüttel";"Schleswig-Holstein";"Dithmarschen";-;"-";0,53;0,53
+"150860015015";"Burg";"Sachsen-Anhalt";"Jerichower Land";-;"-";0,54;0,54
+"120690397397";"Michendorf";"Brandenburg";"Potsdam-Mittelmark";-;"-";0,54;0,54
+"120690304304";"Kleinmachnow";"Brandenburg";"Potsdam-Mittelmark";-;"-";0,54;0,54
+"120650251251";"Oberkrämer";"Brandenburg";"Oberhavel";-;"-";0,54;0,54
+"100420116116";"Wadern";"Saarland";"Merzig-Wadern";-;"-";0,54;0,54
+"100410518518";"Sulzbach/Saar";"Saarland";"Regionalverband Saarbrücken";-;"-";0,54;0,54
+"100410515515";"Püttlingen";"Saarland";"Regionalverband Saarbrücken";-;"-";0,54;0,54
+"097715705146";"Mering";"Bayern";"Aichach-Friedberg";-;"-";0,54;0,54
+"093760161161";"Schwandorf";"Bayern";"Schwandorf";-;"-";0,54;0,54
+"092770138138";"Pfarrkirchen";"Bayern";"Rottal-Inn";-;"-";0,54;0,54
+"091900139139";"Peißenberg";"Bayern";"Weilheim-Schongau";-;"-";0,54;0,54
+"084170013013";"Burladingen";"Baden-Württemberg";"Zollernalbkreis";-;"-";0,54;0,54
+"082265004032";"Hockenheim";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,54;0,54
+"081365006028";"Heubach";"Baden-Württemberg";"Ostalbkreis";-;"-";0,54;0,54
+"073375004038";"Herxheim bei Landau/Pfalz";"Rheinland-Pfalz";"Südliche Weinstraße";-;"-";0,54;0,54
+"073320024024";"Grünstadt";"Rheinland-Pfalz";"Bad Dürkheim";-;"-";0,54;0,54
+"072355003068";"Konz";"Rheinland-Pfalz";"Trier-Saarburg";-;"-";0,54;0,54
+"065330007007";"Hadamar";"Hessen";"Limburg-Weilburg";-;"-";0,54;0,54
+"064400003003";"Bad Vilbel";"Hessen";"Wetteraukreis";-;"-";0,54;0,54
+"064360005005";"Hattersheim am Main";"Hessen";"Main-Taunus-Kreis";-;"-";0,54;0,54
+"064330010010";"Raunheim";"Hessen";"Groß-Gerau";-;"-";0,54;0,54
+"064330009009";"Nauheim";"Hessen";"Groß-Gerau";-;"-";0,54;0,54
+"064320016016";"Ober-Ramstadt";"Hessen";"Darmstadt-Dieburg";-;"-";0,54;0,54
+"059780016016";"Holzwickede";"Nordrhein-Westfalen";"Unna";-;"-";0,54;0,54
+"059740008008";"Bad Sassendorf";"Nordrhein-Westfalen";"Soest";-;"-";0,54;0,54
+"057740016016";"Büren";"Nordrhein-Westfalen";"Paderborn";-;"-";0,54;0,54
+"057740012012";"Borchen";"Nordrhein-Westfalen";"Paderborn";-;"-";0,54;0,54
+"057700012012";"Hille";"Nordrhein-Westfalen";"Minden-Lübbecke";-;"-";0,54;0,54
+"057540028028";"Rheda-Wiedenbrück";"Nordrhein-Westfalen";"Gütersloh";-;"-";0,54;0,54
+"055660076076";"Rheine";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,54;0,54
+"055620004004";"Castrop-Rauxel";"Nordrhein-Westfalen";"Recklinghausen";-;"-";0,54;0,54
+"055580016016";"Dülmen";"Nordrhein-Westfalen";"Coesfeld";-;"-";0,54;0,54
+"055540020020";"Gronau (Westf.)";"Nordrhein-Westfalen";"Borken";-;"-";0,54;0,54
+"053820032032";"Meckenheim";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,54;0,54
+"053780028028";"Rösrath";"Nordrhein-Westfalen";"Rheinisch-Bergischer Kreis";-;"-";0,54;0,54
+"051700012012";"Hamminkeln";"Nordrhein-Westfalen";"Wesel";-;"-";0,54;0,54
+"051700008008";"Dinslaken";"Nordrhein-Westfalen";"Wesel";-;"-";0,54;0,54
+"051660012012";"Kempen";"Nordrhein-Westfalen";"Viersen";-;"-";0,54;0,54
+"051580026026";"Monheim am Rhein";"Nordrhein-Westfalen";"Mettmann";-;"-";0,54;0,54
+"051170000000";"Mülheim an der Ruhr";"Nordrhein-Westfalen";"Mülheim an der Ruhr, Stadt";-;"-";0,54;0,54
+"034520001001";"Aurich";"Niedersachsen";"Aurich";-;"-";0,54;0,54
+"033535406035";"Tostedt";"Niedersachsen";"Harburg";-;"-";0,54;0,54
+"031570001001";"Edemissen";"Niedersachsen";"Peine";-;"-";0,54;0,54
+"031535402004";"Clausthal-Zellerfeld";"Niedersachsen";"Goslar";-;"-";0,54;0,54
+"010600039039";"Henstedt-Ulzburg";"Schleswig-Holstein";"Segeberg";-;"-";0,54;0,54
+"010560049049";"Uetersen";"Schleswig-Holstein";"Pinneberg";-;"-";0,54;0,54
+"160665050042";"Meiningen";"Thüringen";"Schmalkalden-Meiningen";-;"-";0,55;0,55
+"150820301301";"Raguhn-Jeßnitz";"Sachsen-Anhalt";"Anhalt-Bitterfeld";-;"-";0,55;0,55
+"147300300300";"Taucha";"Sachsen";"Nordsachsen";-;"-";0,55;0,55
+"145225119360";"Mittweida";"Sachsen";"Mittelsachsen";-;"-";0,55;0,55
+"120720017017";"Blankenfelde-Mahlow";"Brandenburg";"Teltow-Fläming";-;"-";0,55;0,55
+"120690017017";"Beelitz";"Brandenburg";"Potsdam-Mittelmark";-;"-";0,55;0,55
+"120600269269";"Wandlitz";"Brandenburg";"Barnim";-;"-";0,55;0,55
+"100430114114";"Neunkirchen";"Saarland";"Neunkirchen";-;"-";0,55;0,55
+"094790136136";"Marktredwitz";"Bayern";"Wunsiedel i.Fichtelgebirge";-;"-";0,55;0,55
+"094740126126";"Forchheim";"Bayern";"Forchheim";-;"-";0,55;0,55
+"094710145145";"Hirschaid";"Bayern";"Bamberg";-;"-";0,55;0,55
+"091760123123";"Eichstätt";"Bayern";"Eichstätt";-;"-";0,55;0,55
+"091740126126";"Karlsfeld";"Bayern";"Dachau";-;"-";0,55;0,55
+"084365002009";"Bad Waldsee";"Baden-Württemberg";"Ravensburg";-;"-";0,55;0,55
+"083375005096";"Bad Säckingen";"Baden-Württemberg";"Waldshut";-;"-";0,55;0,55
+"083260005005";"Blumberg";"Baden-Württemberg";"Schwarzwald-Baar-Kreis";-;"-";0,55;0,55
+"082220000000";"Mannheim";"Baden-Württemberg";"Mannheim";-;"-";0,55;0,55
+"082165004017";"Gernsbach";"Baden-Württemberg";"Rastatt";-;"-";0,55;0,55
+"082150102102";"Eggenstein-Leopoldshafen";"Baden-Württemberg";"Karlsruhe";-;"-";0,55;0,55
+"081265005066";"Öhringen";"Baden-Württemberg";"Hohenlohekreis";-;"-";0,55;0,55
+"073340501501";"Wörth am Rhein";"Rheinland-Pfalz";"Germersheim";-;"-";0,55;0,55
+"072320018018";"Bitburg";"Rheinland-Pfalz";"Eifelkreis Bitburg-Prüm";-;"-";0,55;0,55
+"066340005005";"Fritzlar";"Hessen";"Schwalm-Eder-Kreis";-;"-";0,55;0,55
+"064400008008";"Friedberg (Hessen)";"Hessen";"Wetteraukreis";-;"-";0,55;0,55
+"064350012012";"Gründau";"Hessen";"Main-Kinzig-Kreis";-;"-";0,55;0,55
+"064330011011";"Riedstadt";"Hessen";"Groß-Gerau";-;"-";0,55;0,55
+"059780024024";"Lünen";"Nordrhein-Westfalen";"Unna";-;"-";0,55;0,55
+"059740024024";"Lippetal";"Nordrhein-Westfalen";"Soest";-;"-";0,55;0,55
+"059740012012";"Ense";"Nordrhein-Westfalen";"Soest";-;"-";0,55;0,55
+"059660016016";"Kirchhundem";"Nordrhein-Westfalen";"Olpe";-;"-";0,55;0,55
+"059620008008";"Balve";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,55;0,55
+"057660020020";"Detmold";"Nordrhein-Westfalen";"Lippe";-;"-";0,55;0,55
+"057580036036";"Vlotho";"Nordrhein-Westfalen";"Herford";-;"-";0,55;0,55
+"055700048048";"Wadersloh";"Nordrhein-Westfalen";"Warendorf";-;"-";0,55;0,55
+"055660004004";"Altenberge";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,55;0,55
+"055540044044";"Reken";"Nordrhein-Westfalen";"Borken";-;"-";0,55;0,55
+"053700040040";"Wegberg";"Nordrhein-Westfalen";"Heinsberg";-;"-";0,55;0,55
+"053620032032";"Kerpen";"Nordrhein-Westfalen";"Rhein-Erft-Kreis";-;"-";0,55;0,55
+"053580028028";"Kreuzau";"Nordrhein-Westfalen";"Düren";-;"-";0,55;0,55
+"051700016016";"Hünxe";"Nordrhein-Westfalen";"Wesel";-;"-";0,55;0,55
+"051620022022";"Meerbusch";"Nordrhein-Westfalen";"Rhein-Kreis Neuss";-;"-";0,55;0,55
+"040120000000";"Bremerhaven";"Bremen";"Bremerhaven, Stadt";-;"-";0,55;0,55
+"034590014014";"Bramsche";"Niedersachsen";"Osnabrück";-;"-";0,55;0,55
+"032540028028";"Sarstedt";"Niedersachsen";"Hildesheim";-;"-";0,55;0,55
+"010530100100";"Ratzeburg";"Schleswig-Holstein";"Herzogtum Lauenburg";-;"-";0,55;0,55
+"097800139139";"Sonthofen";"Bayern";"Oberallgäu";-;"-";0,56;0,56
+"096770157157";"Marktheidenfeld";"Bayern";"Main-Spessart";-;"-";0,56;0,56
+"091790142142";"Olching";"Bayern";"Fürstenfeldbruck";-;"-";0,56;0,56
+"091790121121";"Fürstenfeldbruck";"Bayern";"Fürstenfeldbruck";-;"-";0,56;0,56
+"084165002025";"Mössingen";"Baden-Württemberg";"Tübingen";-;"-";0,56;0,56
+"083355001022";"Engen";"Baden-Württemberg";"Konstanz";-;"-";0,56;0,56
+"082310000000";"Pforzheim";"Baden-Württemberg";"Pforzheim";-;"-";0,56;0,56
+"082160015015";"Gaggenau";"Baden-Württemberg";"Rastatt";-;"-";0,56;0,56
+"081285004115";"Tauberbischofsheim";"Baden-Württemberg";"Main-Tauber-Kreis";-;"-";0,56;0,56
+"081275006025";"Gaildorf";"Baden-Württemberg";"Schwäbisch Hall";-;"-";0,56;0,56
+"081255004026";"Eppingen";"Baden-Württemberg";"Heilbronn";-;"-";0,56;0,56
+"066360016016";"Witzenhausen";"Hessen";"Werra-Meißner-Kreis";-;"-";0,56;0,56
+"064340011011";"Usingen";"Hessen";"Hochtaunuskreis";-;"-";0,56;0,56
+"064340008008";"Oberursel (Taunus)";"Hessen";"Hochtaunuskreis";-;"-";0,56;0,56
+"059660028028";"Wenden";"Nordrhein-Westfalen";"Olpe";-;"-";0,56;0,56
+"059660012012";"Finnentrop";"Nordrhein-Westfalen";"Olpe";-;"-";0,56;0,56
+"059580008008";"Bestwig";"Nordrhein-Westfalen";"Hochsauerlandkreis";-;"-";0,56;0,56
+"059540032032";"Wetter (Ruhr)";"Nordrhein-Westfalen";"Ennepe-Ruhr-Kreis";-;"-";0,56;0,56
+"059540024024";"Schwelm";"Nordrhein-Westfalen";"Ennepe-Ruhr-Kreis";-;"-";0,56;0,56
+"057540012012";"Halle (Westf.)";"Nordrhein-Westfalen";"Gütersloh";-;"-";0,56;0,56
+"055540008008";"Bocholt";"Nordrhein-Westfalen";"Borken";-;"-";0,56;0,56
+"053700016016";"Heinsberg";"Nordrhein-Westfalen";"Heinsberg";-;"-";0,56;0,56
+"034510008008";"Wiefelstede";"Niedersachsen";"Ammerland";-;"-";0,56;0,56
+"033530040040";"Winsen (Luhe)";"Niedersachsen";"Harburg";-;"-";0,56;0,56
+"032570035035";"Stadthagen";"Niedersachsen";"Schaumburg";-;"-";0,56;0,56
+"032520006006";"Hameln";"Niedersachsen";"Hameln-Pyrmont";-;"-";0,56;0,56
+"031570008008";"Wendeburg";"Niedersachsen";"Peine";-;"-";0,56;0,56
+"010580135135";"Rendsburg";"Schleswig-Holstein";"Rendsburg-Eckernförde";-;"-";0,56;0,56
+"010580034034";"Büdelsdorf";"Schleswig-Holstein";"Rendsburg-Eckernförde";-;"-";0,56;0,56
+"150820015015";"Bitterfeld-Wolfen";"Sachsen-Anhalt";"Anhalt-Bitterfeld";-;"-";0,57;0,57
+"130620043043";"Pasewalk";"Mecklenburg-Vorpommern";"Uecker-Randow";-;"-";0,57;0,57
+"120670440440";"Schöneiche bei Berlin";"Brandenburg";"Oder-Spree";-;"-";0,57;0,57
+"120620024024";"Bad Liebenwerda";"Brandenburg";"Elbe-Elster";-;"-";0,57;0,57
+"120610316316";"Lübben (Spreewald)";"Brandenburg";"Dahme-Spreewald";-;"-";0,57;0,57
+"100460118118";"Tholey";"Saarland";"St. Wendel";-;"-";0,57;0,57
+"096720114114";"Bad Kissingen";"Bayern";"Bad Kissingen";-;"-";0,57;0,57
+"091870130130";"Feldkirchen-Westerham";"Bayern";"Rosenheim";-;"-";0,57;0,57
+"091710112112";"Burghausen";"Bayern";"Altötting";-;"-";0,57;0,57
+"084255002020";"Blaubeuren";"Baden-Württemberg";"Alb-Donau-Kreis";-;"-";0,57;0,57
+"083255005053";"Schramberg";"Baden-Württemberg";"Rottweil";-;"-";0,57;0,57
+"083255002045";"Oberndorf am Neckar";"Baden-Württemberg";"Rottweil";-;"-";0,57;0,57
+"082150097097";"Kraichtal";"Baden-Württemberg";"Karlsruhe";-;"-";0,57;0,57
+"081180048048";"Ludwigsburg";"Baden-Württemberg";"Ludwigsburg";-;"-";0,57;0,57
+"081160077077";"Filderstadt";"Baden-Württemberg";"Esslingen";-;"-";0,57;0,57
+"065320006006";"Dillenburg";"Hessen";"Lahn-Dill-Kreis";-;"-";0,57;0,57
+"065310006006";"Grünberg";"Hessen";"Gießen";-;"-";0,57;0,57
+"064350026026";"Schöneck";"Hessen";"Main-Kinzig-Kreis";-;"-";0,57;0,57
+"064350021021";"Nidderau";"Hessen";"Main-Kinzig-Kreis";-;"-";0,57;0,57
+"059700032032";"Netphen";"Nordrhein-Westfalen";"Siegen-Wittgenstein";-;"-";0,57;0,57
+"059700016016";"Freudenberg";"Nordrhein-Westfalen";"Siegen-Wittgenstein";-;"-";0,57;0,57
+"059660020020";"Lennestadt";"Nordrhein-Westfalen";"Olpe";-;"-";0,57;0,57
+"057700032032";"Porta Westfalica";"Nordrhein-Westfalen";"Minden-Lübbecke";-;"-";0,57;0,57
+"057700008008";"Espelkamp";"Nordrhein-Westfalen";"Minden-Lübbecke";-;"-";0,57;0,57
+"055700020020";"Ennigerloh";"Nordrhein-Westfalen";"Warendorf";-;"-";0,57;0,57
+"055660028028";"Ibbenbüren";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,57;0,57
+"055580028028";"Nordkirchen";"Nordrhein-Westfalen";"Coesfeld";-;"-";0,57;0,57
+"053780004004";"Bergisch Gladbach";"Nordrhein-Westfalen";"Rheinisch-Bergischer Kreis";-;"-";0,57;0,57
+"053740004004";"Bergneustadt";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";0,57;0,57
+"051540024024";"Kalkar";"Nordrhein-Westfalen";"Kleve";-;"-";0,57;0,57
+"034590012012";"Bissendorf";"Niedersachsen";"Osnabrück";-;"-";0,57;0,57
+"034520014014";"Krummhörn";"Niedersachsen";"Aurich";-;"-";0,57;0,57
+"034510007007";"Westerstede";"Niedersachsen";"Ammerland";-;"-";0,57;0,57
+"033590013013";"Drochtersen";"Niedersachsen";"Stade";-;"-";0,57;0,57
+"033570041041";"Scheeßel";"Niedersachsen";"Rotenburg (Wümme)";-;"-";0,57;0,57
+"033510024024";"Winsen (Aller)";"Niedersachsen";"Celle";-;"-";0,57;0,57
+"032510037037";"Stuhr";"Niedersachsen";"Diepholz";-;"-";0,57;0,57
+"032510007007";"Bassum";"Niedersachsen";"Diepholz";-;"-";0,57;0,57
+"032410005005";"Garbsen";"Niedersachsen";"Region Hannover";-;"-";0,57;0,57
+"031580037037";"Wolfenbüttel";"Niedersachsen";"Wolfenbüttel";-;"-";0,57;0,57
+"031550004004";"Einbeck";"Niedersachsen";"Northeim";-;"-";0,57;0,57
+"010590120120";"Harrislee";"Schleswig-Holstein";"Schleswig-Flensburg";-;"-";0,57;0,57
+"160640003003";"Bad Langensalza";"Thüringen";"Unstrut-Hainich-Kreis";-;"-";0,58;0,58
+"146270210210";"Radebeul";"Sachsen";"Meißen";-;"-";0,58;0,58
+"130040000000";"Schwerin";"Mecklenburg-Vorpommern";"Schwerin";-;"-";0,58;0,58
+"120690590590";"Schwielowsee";"Brandenburg";"Potsdam-Mittelmark";-;"-";0,58;0,58
+"120600020020";"Bernau bei Berlin";"Brandenburg";"Barnim";-;"-";0,58;0,58
+"100450112112";"Blieskastel";"Saarland";"Saarpfalz-Kreis";-;"-";0,58;0,58
+"097630000000";"Kempten (Allgäu)";"Bayern";"Kempten (Allgäu)";-;"-";0,58;0,58
+"096780193193";"Werneck";"Bayern";"Schweinfurt";-;"-";0,58;0,58
+"095750112112";"Bad Windsheim";"Bayern";"Neustadt a.d.Aisch-Bad Windsheim";-;"-";0,58;0,58
+"095710145145";"Feuchtwangen";"Bayern";"Ansbach";-;"-";0,58;0,58
+"094610000000";"Bamberg";"Bayern";"Bamberg";-;"-";0,58;0,58
+"092740126126";"Ergolding";"Bayern";"Landshut";-;"-";0,58;0,58
+"091890155155";"Traunstein";"Bayern";"Traunstein";-;"-";0,58;0,58
+"091870162162";"Prien a. Chiemsee";"Bayern";"Rosenheim";-;"-";0,58;0,58
+"091800124124";"Murnau a. Staffelsee";"Bayern";"Garmisch-Partenkirchen";-;"-";0,58;0,58
+"091780124124";"Freising";"Bayern";"Freising";-;"-";0,58;0,58
+"083260003003";"Bad Dürrheim";"Baden-Württemberg";"Schwarzwald-Baar-Kreis";-;"-";0,58;0,58
+"083155005047";"Gundelfingen";"Baden-Württemberg";"Breisgau-Hochschwarzwald";-;"-";0,58;0,58
+"082355008079";"Bad Wildbad";"Baden-Württemberg";"Calw";-;"-";0,58;0,58
+"082265008085";"Sinsheim";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,58;0,58
+"082260082082";"Schriesheim";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,58;0,58
+"082255005058";"Mosbach";"Baden-Württemberg";"Neckar-Odenwald-Kreis";-;"-";0,58;0,58
+"082155003009";"Bruchsal";"Baden-Württemberg";"Karlsruhe";-;"-";0,58;0,58
+"081255006056";"Lauffen am Neckar";"Baden-Württemberg";"Heilbronn";-;"-";0,58;0,58
+"081255002006";"Bad Rappenau";"Baden-Württemberg";"Heilbronn";-;"-";0,58;0,58
+"081210000000";"Heilbronn";"Baden-Württemberg";"Heilbronn";-;"-";0,58;0,58
+"066340022022";"Schwalmstadt";"Hessen";"Schwalm-Eder-Kreis";-;"-";0,58;0,58
+"065310003003";"Buseck";"Hessen";"Gießen";-;"-";0,58;0,58
+"064380013013";"Seligenstadt";"Hessen";"Offenbach";-;"-";0,58;0,58
+"064360006006";"Hochheim am Main";"Hessen";"Main-Taunus-Kreis";-;"-";0,58;0,58
+"064350014014";"Hanau";"Hessen";"Main-Kinzig-Kreis";-;"-";0,58;0,58
+"059700008008";"Burbach";"Nordrhein-Westfalen";"Siegen-Wittgenstein";-;"-";0,58;0,58
+"059540028028";"Sprockhövel";"Nordrhein-Westfalen";"Ennepe-Ruhr-Kreis";-;"-";0,58;0,58
+"059540016016";"Hattingen";"Nordrhein-Westfalen";"Ennepe-Ruhr-Kreis";-;"-";0,58;0,58
+"055660048048";"Lotte";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,58;0,58
+"055620036036";"Waltrop";"Nordrhein-Westfalen";"Recklinghausen";-;"-";0,58;0,58
+"055580004004";"Ascheberg";"Nordrhein-Westfalen";"Coesfeld";-;"-";0,58;0,58
+"053740016016";"Hückeswagen";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";0,58;0,58
+"053620008008";"Bergheim";"Nordrhein-Westfalen";"Rhein-Erft-Kreis";-;"-";0,58;0,58
+"034610002002";"Brake (Unterweser)";"Niedersachsen";"Wesermarsch";-;"-";0,58;0,58
+"034600002002";"Damme";"Niedersachsen";"Vechta";-;"-";0,58;0,58
+"033610012012";"Verden (Aller)";"Niedersachsen";"Verden";-;"-";0,58;0,58
+"033610005005";"Kirchlinteln";"Niedersachsen";"Verden";-;"-";0,58;0,58
+"033560008008";"Ritterhude";"Niedersachsen";"Osterholz";-;"-";0,58;0,58
+"032510047047";"Weyhe";"Niedersachsen";"Diepholz";-;"-";0,58;0,58
+"010570091091";"Schwentinental";"Schleswig-Holstein";"Plön";-;"-";0,58;0,58
+"010550040040";"Stockelsdorf";"Schleswig-Holstein";"Ostholstein";-;"-";0,58;0,58
+"150880065065";"Braunsbedra";"Sachsen-Anhalt";"Saalekreis";-;"-";0,59;0,59
+"130050000000";"Stralsund";"Mecklenburg-Vorpommern";"Stralsund";-;"-";0,59;0,59
+"120600052052";"Eberswalde";"Brandenburg";"Barnim";-;"-";0,59;0,59
+"100430116116";"Schiffweiler";"Saarland";"Neunkirchen";-;"-";0,59;0,59
+"100410511511";"Friedrichsthal";"Saarland";"Regionalverband Saarbrücken";-;"-";0,59;0,59
+"097800124124";"Immenstadt i. Allgäu";"Bayern";"Oberallgäu";-;"-";0,59;0,59
+"097770129129";"Füssen";"Bayern";"Ostallgäu";-;"-";0,59;0,59
+"093620000000";"Regensburg";"Bayern";"Regensburg";-;"-";0,59;0,59
+"091750132132";"Vaterstetten";"Bayern";"Ebersberg";-;"-";0,59;0,59
+"091730112112";"Bad Tölz";"Bayern";"Bad Tölz-Wolfratshausen";-;"-";0,59;0,59
+"084365004055";"Leutkirch im Allgäu";"Baden-Württemberg";"Ravensburg";-;"-";0,59;0,59
+"084255008072";"Langenau";"Baden-Württemberg";"Alb-Donau-Kreis";-;"-";0,59;0,59
+"083150076076";"Neuenburg am Rhein";"Baden-Württemberg";"Breisgau-Hochschwarzwald";-;"-";0,59;0,59
+"082360004004";"Birkenfeld";"Baden-Württemberg";"Enzkreis";-;"-";0,59;0,59
+"082355006085";"Calw";"Baden-Württemberg";"Calw";-;"-";0,59;0,59
+"082265003031";"Hemsbach";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,59;0,59
+"082260095095";"Walldorf";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,59;0,59
+"082260060060";"Nußloch";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,59;0,59
+"082250014014";"Buchen (Odenwald)";"Baden-Württemberg";"Neckar-Odenwald-Kreis";-;"-";0,59;0,59
+"081275002014";"Crailsheim";"Baden-Württemberg";"Schwäbisch Hall";-;"-";0,59;0,59
+"081195001008";"Backnang";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,59;0,59
+"081185002079";"Bietigheim-Bissingen";"Baden-Württemberg";"Ludwigsburg";-;"-";0,59;0,59
+"081155002015";"Gärtringen";"Baden-Württemberg";"Böblingen";-;"-";0,59;0,59
+"081150042042";"Rutesheim";"Baden-Württemberg";"Böblingen";-;"-";0,59;0,59
+"066340003003";"Felsberg";"Hessen";"Schwalm-Eder-Kreis";-;"-";0,59;0,59
+"065310009009";"Langgöns";"Hessen";"Gießen";-;"-";0,59;0,59
+"065310005005";"Gießen";"Hessen";"Gießen";-;"-";0,59;0,59
+"065310002002";"Biebertal";"Hessen";"Gießen";-;"-";0,59;0,59
+"064350007007";"Erlensee";"Hessen";"Main-Kinzig-Kreis";-;"-";0,59;0,59
+"064310020020";"Viernheim";"Hessen";"Bergstraße";-;"-";0,59;0,59
+"059780020020";"Kamen";"Nordrhein-Westfalen";"Unna";-;"-";0,59;0,59
+"053780012012";"Kürten";"Nordrhein-Westfalen";"Rheinisch-Bergischer Kreis";-;"-";0,59;0,59
+"051700052052";"Xanten";"Nordrhein-Westfalen";"Wesel";-;"-";0,59;0,59
+"051700028028";"Neukirchen-Vluyn";"Nordrhein-Westfalen";"Wesel";-;"-";0,59;0,59
+"051540016016";"Goch";"Nordrhein-Westfalen";"Kleve";-;"-";0,59;0,59
+"034580009009";"Hatten";"Niedersachsen";"Oldenburg";-;"-";0,59;0,59
+"034530004004";"Cloppenburg";"Niedersachsen";"Cloppenburg";-;"-";0,59;0,59
+"034040000000";"Osnabrück";"Niedersachsen";"Osnabrück, Stadt";-;"-";0,59;0,59
+"033560005005";"Lilienthal";"Niedersachsen";"Osterholz";-;"-";0,59;0,59
+"032410010010";"Langenhagen";"Niedersachsen";"Region Hannover";-;"-";0,59;0,59
+"032410006006";"Gehrden";"Niedersachsen";"Region Hannover";-;"-";0,59;0,59
+"010560043043";"Rellingen";"Schleswig-Holstein";"Pinneberg";-;"-";0,59;0,59
+"150900550550";"Tangermünde";"Sachsen-Anhalt";"Stendal";-;"-";0,6;0,6
+"150830411411";"Oebisfelde-Weferlingen";"Sachsen-Anhalt";"Börde";-;"-";0,6;0,6
+"120680468468";"Wittstock/Dosse";"Brandenburg";"Ostprignitz-Ruppin";-;"-";0,6;0,6
+"120670144144";"Fürstenwalde/Spree";"Brandenburg";"Oder-Spree";-;"-";0,6;0,6
+"120640227227";"Hoppegarten";"Brandenburg";"Märkisch-Oderland";-;"-";0,6;0,6
+"100450111111";"Bexbach";"Saarland";"Saarpfalz-Kreis";-;"-";0,6;0,6
+"100430117117";"Spiesen-Elversberg";"Saarland";"Neunkirchen";-;"-";0,6;0,6
+"100430115115";"Ottweiler";"Saarland";"Neunkirchen";-;"-";0,6;0,6
+"097720184184";"Neusäß";"Bayern";"Augsburg";-;"-";0,6;0,6
+"095720132132";"Herzogenaurach";"Bayern";"Erlangen-Höchstadt";-;"-";0,6;0,6
+"093720153153";"Roding";"Bayern";"Cham";-;"-";0,6;0,6
+"093610000000";"Amberg";"Bayern";"Amberg";-;"-";0,6;0,6
+"084375004088";"Pfullendorf";"Baden-Württemberg";"Sigmaringen";-;"-";0,6;0,6
+"082360071071";"Remchingen";"Baden-Württemberg";"Enzkreis";-;"-";0,6;0,6
+"082110000000";"Baden-Baden";"Baden-Württemberg";"Baden-Baden";-;"-";0,6;0,6
+"081355001016";"Giengen an der Brenz";"Baden-Württemberg";"Heidenheim";-;"-";0,6;0,6
+"081275009076";"Schwäbisch Hall";"Baden-Württemberg";"Schwäbisch Hall";-;"-";0,6;0,6
+"072310134134";"Wittlich";"Rheinland-Pfalz";"Bernkastel-Wittlich";-;"-";0,6;0,6
+"065350011011";"Lauterbach (Hessen)";"Hessen";"Vogelsbergkreis";-;"-";0,6;0,6
+"065330003003";"Bad Camberg";"Hessen";"Limburg-Weilburg";-;"-";0,6;0,6
+"065320012012";"Herborn";"Hessen";"Lahn-Dill-Kreis";-;"-";0,6;0,6
+"065310018018";"Wettenberg";"Hessen";"Gießen";-;"-";0,6;0,6
+"064320018018";"Pfungstadt";"Hessen";"Darmstadt-Dieburg";-;"-";0,6;0,6
+"059740016016";"Erwitte";"Nordrhein-Westfalen";"Soest";-;"-";0,6;0,6
+"055700044044";"Telgte";"Nordrhein-Westfalen";"Warendorf";-;"-";0,6;0,6
+"055620032032";"Recklinghausen";"Nordrhein-Westfalen";"Recklinghausen";-;"-";0,6;0,6
+"053780032032";"Wermelskirchen";"Nordrhein-Westfalen";"Rheinisch-Bergischer Kreis";-;"-";0,6;0,6
+"053700036036";"Wassenberg";"Nordrhein-Westfalen";"Heinsberg";-;"-";0,6;0,6
+"053620036036";"Pulheim";"Nordrhein-Westfalen";"Rhein-Erft-Kreis";-;"-";0,6;0,6
+"053620016016";"Elsdorf";"Nordrhein-Westfalen";"Rhein-Erft-Kreis";-;"-";0,6;0,6
+"053580048048";"Niederzier";"Nordrhein-Westfalen";"Düren";-;"-";0,6;0,6
+"051580024024";"Mettmann";"Nordrhein-Westfalen";"Mettmann";-;"-";0,6;0,6
+"034590013013";"Bohmte";"Niedersachsen";"Osnabrück";-;"-";0,6;0,6
+"033590028028";"Jork";"Niedersachsen";"Stade";-;"-";0,6;0,6
+"033520050050";"Schiffdorf";"Niedersachsen";"Cuxhaven";-;"-";0,6;0,6
+"032575403006";"Bad Nenndorf";"Niedersachsen";"Schaumburg";-;"-";0,6;0,6
+"032410020020";"Wennigsen (Deister)";"Niedersachsen";"Region Hannover";-;"-";0,6;0,6
+"032410019019";"Wedemark";"Niedersachsen";"Region Hannover";-;"-";0,6;0,6
+"010030000000";"Lübeck";"Schleswig-Holstein";"Lübeck, Hansestadt";-;"-";0,6;0,6
+"145225109180";"Freiberg";"Sachsen";"Mittelsachsen";-;"-";0,61;0,61
+"120600005005";"Ahrensfelde";"Brandenburg";"Barnim";-;"-";0,61;0,61
+"100440111111";"Dillingen/Saar";"Saarland";"Saarlouis";-;"-";0,61;0,61
+"095740117117";"Burgthann";"Bayern";"Nürnberger Land";-;"-";0,61;0,61
+"091900141141";"Penzberg";"Bayern";"Weilheim-Schongau";-;"-";0,61;0,61
+"091840134134";"Oberhaching";"Bayern";"München";-;"-";0,61;0,61
+"091790134134";"Maisach";"Bayern";"Fürstenfeldbruck";-;"-";0,61;0,61
+"091730147147";"Wolfratshausen";"Bayern";"Bad Tölz-Wolfratshausen";-;"-";0,61;0,61
+"091710113113";"Burgkirchen a.d. Alz";"Bayern";"Altötting";-;"-";0,61;0,61
+"084365005082";"Weingarten";"Baden-Württemberg";"Ravensburg";-;"-";0,61;0,61
+"084360010010";"Bad Wurzach";"Baden-Württemberg";"Ravensburg";-;"-";0,61;0,61
+"082150110110";"Waldbronn";"Baden-Württemberg";"Karlsruhe";-;"-";0,61;0,61
+"081350015015";"Gerstetten";"Baden-Württemberg";"Heidenheim";-;"-";0,61;0,61
+"081190041041";"Korb";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,61;0,61
+"073390030030";"Ingelheim am Rhein";"Rheinland-Pfalz";"Mainz-Bingen";-;"-";0,61;0,61
+"073380019019";"Mutterstadt";"Rheinland-Pfalz";"Rhein-Pfalz-Kreis";-;"-";0,61;0,61
+"064340006006";"Kronberg im Taunus";"Hessen";"Hochtaunuskreis";-;"-";0,61;0,61
+"064310013013";"Lampertheim";"Hessen";"Bergstraße";-;"-";0,61;0,61
+"059700028028";"Bad Laasphe";"Nordrhein-Westfalen";"Siegen-Wittgenstein";-;"-";0,61;0,61
+"059700004004";"Bad Berleburg";"Nordrhein-Westfalen";"Siegen-Wittgenstein";-;"-";0,61;0,61
+"059620028028";"Kierspe";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,61;0,61
+"059620024024";"Iserlohn";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,61;0,61
+"059580044044";"Sundern (Sauerland)";"Nordrhein-Westfalen";"Hochsauerlandkreis";-;"-";0,61;0,61
+"057700004004";"Bad Oeynhausen";"Nordrhein-Westfalen";"Minden-Lübbecke";-;"-";0,61;0,61
+"057660056056";"Oerlinghausen";"Nordrhein-Westfalen";"Lippe";-;"-";0,61;0,61
+"055620024024";"Marl";"Nordrhein-Westfalen";"Recklinghausen";-;"-";0,61;0,61
+"055620020020";"Herten";"Nordrhein-Westfalen";"Recklinghausen";-;"-";0,61;0,61
+"055580008008";"Billerbeck";"Nordrhein-Westfalen";"Coesfeld";-;"-";0,61;0,61
+"053740048048";"Wiehl";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";0,61;0,61
+"053740036036";"Radevormwald";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";0,61;0,61
+"051140000000";"Krefeld";"Nordrhein-Westfalen";"Krefeld, Stadt";-;"-";0,61;0,61
+"034580005005";"Ganderkesee";"Niedersachsen";"Oldenburg";-;"-";0,61;0,61
+"034020000000";"Emden";"Niedersachsen";"Emden, Stadt";-;"-";0,61;0,61
+"033530026026";"Neu Wulmstorf";"Niedersachsen";"Harburg";-;"-";0,61;0,61
+"032540026026";"Nordstemmen";"Niedersachsen";"Hildesheim";-;"-";0,61;0,61
+"032520007007";"Hessisch Oldendorf";"Niedersachsen";"Hameln-Pyrmont";-;"-";0,61;0,61
+"032520002002";"Bad Münder am Deister";"Niedersachsen";"Hameln-Pyrmont";-;"-";0,61;0,61
+"032510012012";"Diepholz";"Niedersachsen";"Diepholz";-;"-";0,61;0,61
+"010600004004";"Bad Bramstedt";"Schleswig-Holstein";"Segeberg";-;"-";0,61;0,61
+"010550032032";"Neustadt in Holstein";"Schleswig-Holstein";"Ostholstein";-;"-";0,61;0,61
+"010550012012";"Eutin";"Schleswig-Holstein";"Ostholstein";-;"-";0,61;0,61
+"010530090090";"Mölln";"Schleswig-Holstein";"Herzogtum Lauenburg";-;"-";0,61;0,61
+"130010000000";"Greifswald";"Mecklenburg-Vorpommern";"Greifswald";-;"-";0,62;0,62
+"120650096096";"Glienicke/Nordbahn";"Brandenburg";"Oberhavel";-;"-";0,62;0,62
+"120610433433";"Schönefeld";"Brandenburg";"Dahme-Spreewald";-;"-";0,62;0,62
+"100440114114";"Rehlingen-Siersburg";"Saarland";"Saarlouis";-;"-";0,62;0,62
+"097760116116";"Lindau (Bodensee)";"Bayern";"Lindau (Bodensee)";-;"-";0,62;0,62
+"095760143143";"Roth";"Bayern";"Roth";-;"-";0,62;0,62
+"094790152152";"Selb";"Bayern";"Wunsiedel i.Fichtelgebirge";-;"-";0,62;0,62
+"091780145145";"Neufahrn b. Freising";"Bayern";"Freising";-;"-";0,62;0,62
+"091780120120";"Eching";"Bayern";"Freising";-;"-";0,62;0,62
+"091630000000";"Rosenheim";"Bayern";"Rosenheim";-;"-";0,62;0,62
+"083375007126";"Waldshut-Tiengen";"Baden-Württemberg";"Waldshut";-;"-";0,62;0,62
+"083355006079";"Stockach";"Baden-Württemberg";"Konstanz";-;"-";0,62;0,62
+"083155012074";"Müllheim";"Baden-Württemberg";"Breisgau-Hochschwarzwald";-;"-";0,62;0,62
+"081265003046";"Künzelsau";"Baden-Württemberg";"Hohenlohekreis";-;"-";0,62;0,62
+"081255008065";"Neckarsulm";"Baden-Württemberg";"Heilbronn";-;"-";0,62;0,62
+"065320021021";"Solms";"Hessen";"Lahn-Dill-Kreis";-;"-";0,62;0,62
+"065310011011";"Lich";"Hessen";"Gießen";-;"-";0,62;0,62
+"064380011011";"Rodgau";"Hessen";"Offenbach";-;"-";0,62;0,62
+"064340007007";"Neu-Anspach";"Hessen";"Hochtaunuskreis";-;"-";0,62;0,62
+"059780036036";"Unna";"Nordrhein-Westfalen";"Unna";-;"-";0,62;0,62
+"057700020020";"Lübbecke";"Nordrhein-Westfalen";"Minden-Lübbecke";-;"-";0,62;0,62
+"057660040040";"Lage";"Nordrhein-Westfalen";"Lippe";-;"-";0,62;0,62
+"057660016016";"Blomberg";"Nordrhein-Westfalen";"Lippe";-;"-";0,62;0,62
+"055540064064";"Velen";"Nordrhein-Westfalen";"Borken";-;"-";0,62;0,62
+"053780016016";"Leichlingen (Rhld.)";"Nordrhein-Westfalen";"Rheinisch-Bergischer Kreis";-;"-";0,62;0,62
+"051540052052";"Straelen";"Nordrhein-Westfalen";"Kleve";-;"-";0,62;0,62
+"051540008008";"Emmerich am Rhein";"Nordrhein-Westfalen";"Kleve";-;"-";0,62;0,62
+"034610007007";"Nordenham";"Niedersachsen";"Wesermarsch";-;"-";0,62;0,62
+"034600009009";"Vechta";"Niedersachsen";"Vechta";-;"-";0,62;0,62
+"033610001001";"Achim";"Niedersachsen";"Verden";-;"-";0,62;0,62
+"033560009009";"Schwanewede";"Niedersachsen";"Osterholz";-;"-";0,62;0,62
+"032520001001";"Aerzen";"Niedersachsen";"Hameln-Pyrmont";-;"-";0,62;0,62
+"032410015015";"Seelze";"Niedersachsen";"Region Hannover";-;"-";0,62;0,62
+"031540019019";"Schöningen";"Niedersachsen";"Helmstedt";-;"-";0,62;0,62
+"031520021021";"Rosdorf";"Niedersachsen";"Göttingen";-;"-";0,62;0,62
+"031520016016";"Hann. Münden";"Niedersachsen";"Göttingen";-;"-";0,62;0,62
+"010620009009";"Barsbüttel";"Schleswig-Holstein";"Stormarn";-;"-";0,62;0,62
+"010560044044";"Schenefeld";"Schleswig-Holstein";"Pinneberg";-;"-";0,62;0,62
+"010560041041";"Quickborn";"Schleswig-Holstein";"Pinneberg";-;"-";0,62;0,62
+"010560039039";"Pinneberg";"Schleswig-Holstein";"Pinneberg";-;"-";0,62;0,62
+"150900535535";"Stendal";"Sachsen-Anhalt";"Stendal";-;"-";0,63;0,63
+"096750141141";"Kitzingen";"Bayern";"Kitzingen";-;"-";0,63;0,63
+"096710130130";"Hösbach";"Bayern";"Aschaffenburg";-;"-";0,63;0,63
+"095620000000";"Erlangen";"Bayern";"Erlangen";-;"-";0,63;0,63
+"091900140140";"Peiting";"Bayern";"Weilheim-Schongau";-;"-";0,63;0,63
+"091870182182";"Wasserburg a. Inn";"Bayern";"Rosenheim";-;"-";0,63;0,63
+"084255007071";"Laichingen";"Baden-Württemberg";"Alb-Donau-Kreis";-;"-";0,63;0,63
+"083165001009";"Denzlingen";"Baden-Württemberg";"Emmendingen";-;"-";0,63;0,63
+"082260012012";"Dossenheim";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,63;0,63
+"082150108108";"Rheinstetten";"Baden-Württemberg";"Karlsruhe";-;"-";0,63;0,63
+"081190079079";"Waiblingen";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,63;0,63
+"071310090090";"Grafschaft";"Rheinland-Pfalz";"Ahrweiler";-;"-";0,63;0,63
+"066320018018";"Rotenburg a.d. Fulda";"Hessen";"Hersfeld-Rotenburg";-;"-";0,63;0,63
+"065340018018";"Stadtallendorf";"Hessen";"Marburg-Biedenkopf";-;"-";0,63;0,63
+"065310016016";"Reiskirchen";"Hessen";"Gießen";-;"-";0,63;0,63
+"064380006006";"Langen (Hessen)";"Hessen";"Offenbach";-;"-";0,63;0,63
+"064330006006";"Groß-Gerau";"Hessen";"Groß-Gerau";-;"-";0,63;0,63
+"059780008008";"Bönen";"Nordrhein-Westfalen";"Unna";-;"-";0,63;0,63
+"059620060060";"Werdohl";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,63;0,63
+"059620052052";"Plettenberg";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,63;0,63
+"059620036036";"Meinerzhagen";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,63;0,63
+"059620032032";"Lüdenscheid";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,63;0,63
+"057740024024";"Hövelhof";"Nordrhein-Westfalen";"Paderborn";-;"-";0,63;0,63
+"057740008008";"Bad Lippspringe";"Nordrhein-Westfalen";"Paderborn";-;"-";0,63;0,63
+"055700004004";"Ahlen";"Nordrhein-Westfalen";"Warendorf";-;"-";0,63;0,63
+"053660028028";"Mechernich";"Nordrhein-Westfalen";"Euskirchen";-;"-";0,63;0,63
+"053620040040";"Wesseling";"Nordrhein-Westfalen";"Rhein-Erft-Kreis";-;"-";0,63;0,63
+"053580036036";"Linnich";"Nordrhein-Westfalen";"Düren";-;"-";0,63;0,63
+"051700020020";"Kamp-Lintfort";"Nordrhein-Westfalen";"Wesel";-;"-";0,63;0,63
+"033570008008";"Bremervörde";"Niedersachsen";"Rotenburg (Wümme)";-;"-";0,63;0,63
+"150850055055";"Blankenburg (Harz)";"Sachsen-Anhalt";"Harz";-;"-";0,64;0,64
+"120730008008";"Angermünde";"Brandenburg";"Uckermark";-;"-";0,64;0,64
+"097790194194";"Nördlingen";"Bayern";"Donau-Ries";-;"-";0,64;0,64
+"094640000000";"Hof";"Bayern";"Hof";-;"-";0,64;0,64
+"092750126126";"Hauzenberg";"Bayern";"Passau";-;"-";0,64;0,64
+"091880124124";"Herrsching a. Ammersee";"Bayern";"Starnberg";-;"-";0,64;0,64
+"091800117117";"Garmisch-Partenkirchen";"Bayern";"Garmisch-Partenkirchen";-;"-";0,64;0,64
+"084355006057";"Tettnang";"Baden-Württemberg";"Bodenseekreis";-;"-";0,64;0,64
+"083265001012";"Donaueschingen";"Baden-Württemberg";"Schwarzwald-Baar-Kreis";-;"-";0,64;0,64
+"082375002028";"Freudenstadt";"Baden-Württemberg";"Freudenstadt";-;"-";0,64;0,64
+"081195006042";"Leutenbach";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,64;0,64
+"073320002002";"Bad Dürkheim";"Rheinland-Pfalz";"Bad Dürkheim";-;"-";0,64;0,64
+"066350002002";"Bad Arolsen";"Hessen";"Waldeck-Frankenberg";-;"-";0,64;0,64
+"064320023023";"Weiterstadt";"Hessen";"Darmstadt-Dieburg";-;"-";0,64;0,64
+"059620012012";"Halver";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,64;0,64
+"057540020020";"Herzebrock-Clarholz";"Nordrhein-Westfalen";"Gütersloh";-;"-";0,64;0,64
+"055540056056";"Stadtlohn";"Nordrhein-Westfalen";"Borken";-;"-";0,64;0,64
+"051540036036";"Kleve";"Nordrhein-Westfalen";"Kleve";-;"-";0,64;0,64
+"034570018018";"Rhauderfehn";"Niedersachsen";"Leer";-;"-";0,64;0,64
+"032520005005";"Emmerthal";"Niedersachsen";"Hameln-Pyrmont";-;"-";0,64;0,64
+"010510044044";"Heide";"Schleswig-Holstein";"Dithmarschen";-;"-";0,64;0,64
+"146280410410";"Wilsdruff";"Sachsen";"Sächsische Schweiz-Osterzgebirge";-;"-";0,65;0,65
+"100420113113";"Merzig";"Saarland";"Merzig-Wadern";-;"-";0,65;0,65
+"100410516516";"Quierschied";"Saarland";"Regionalverband Saarbrücken";-;"-";0,65;0,65
+"100410513513";"Heusweiler";"Saarland";"Regionalverband Saarbrücken";-;"-";0,65;0,65
+"084360049049";"Isny im Allgäu";"Baden-Württemberg";"Ravensburg";-;"-";0,65;0,65
+"082375003040";"Horb am Neckar";"Baden-Württemberg";"Freudenstadt";-;"-";0,65;0,65
+"082260084084";"Schwetzingen";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,65;0,65
+"082165005043";"Rastatt";"Baden-Württemberg";"Rastatt";-;"-";0,65;0,65
+"081150003003";"Böblingen";"Baden-Württemberg";"Böblingen";-;"-";0,65;0,65
+"071435004048";"Montabaur";"Rheinland-Pfalz";"Westerwaldkreis";-;"-";0,65;0,65
+"071325002006";"Betzdorf";"Rheinland-Pfalz";"Altenkirchen (Westerwald)";-;"-";0,65;0,65
+"066340001001";"Borken (Hessen)";"Hessen";"Schwalm-Eder-Kreis";-;"-";0,65;0,65
+"065320011011";"Haiger";"Hessen";"Lahn-Dill-Kreis";-;"-";0,65;0,65
+"064340001001";"Bad Homburg v.d. Höhe";"Hessen";"Hochtaunuskreis";-;"-";0,65;0,65
+"064330003003";"Büttelborn";"Hessen";"Groß-Gerau";-;"-";0,65;0,65
+"064320011011";"Groß-Zimmern";"Hessen";"Darmstadt-Dieburg";-;"-";0,65;0,65
+"064110000000";"Darmstadt";"Hessen";"Darmstadt, Wissenschaftsstadt";-;"-";0,65;0,65
+"059700036036";"Neunkirchen";"Nordrhein-Westfalen";"Siegen-Wittgenstein";-;"-";0,65;0,65
+"055660084084";"Steinfurt";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,65;0,65
+"053820024024";"Königswinter";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,65;0,65
+"053740032032";"Nümbrecht";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";0,65;0,65
+"053340002002";"Aachen";"Nordrhein-Westfalen";"Städteregion Aachen";-;"-";0,65;0,65
+"034570022022";"Westoverledingen";"Niedersachsen";"Leer";-;"-";0,65;0,65
+"033580021021";"Soltau";"Niedersachsen";"Soltau-Fallingbostel";-;"-";0,65;0,65
+"032510042042";"Twistringen";"Niedersachsen";"Diepholz";-;"-";0,65;0,65
+"010590183183";"Handewitt";"Schleswig-Holstein";"Schleswig-Flensburg";-;"-";0,65;0,65
+"010580043043";"Eckernförde";"Schleswig-Holstein";"Rendsburg-Eckernförde";-;"-";0,65;0,65
+"010570062062";"Preetz";"Schleswig-Holstein";"Plön";-;"-";0,65;0,65
+"120660304304";"Senftenberg";"Brandenburg";"Oberspreewald-Lausitz";-;"-";0,66;0,66
+"097750152152";"Senden";"Bayern";"Neu-Ulm";-;"-";0,66;0,66
+"084365005064";"Ravensburg";"Baden-Württemberg";"Ravensburg";-;"-";0,66;0,66
+"084355003034";"Markdorf";"Baden-Württemberg";"Bodenseekreis";-;"-";0,66;0,66
+"082265010098";"Wiesloch";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,66;0,66
+"082260041041";"Leimen";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,66;0,66
+"066360003003";"Eschwege";"Hessen";"Werra-Meißner-Kreis";-;"-";0,66;0,66
+"065330009009";"Limburg a.d. Lahn";"Hessen";"Limburg-Weilburg";-;"-";0,66;0,66
+"059740036036";"Rüthen";"Nordrhein-Westfalen";"Soest";-;"-";0,66;0,66
+"059620004004";"Altena";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,66;0,66
+"059580036036";"Olsberg";"Nordrhein-Westfalen";"Hochsauerlandkreis";-;"-";0,66;0,66
+"057740032032";"Paderborn";"Nordrhein-Westfalen";"Paderborn";-;"-";0,66;0,66
+"057660036036";"Kalletal";"Nordrhein-Westfalen";"Lippe";-;"-";0,66;0,66
+"055700032032";"Ostbevern";"Nordrhein-Westfalen";"Warendorf";-;"-";0,66;0,66
+"055700028028";"Oelde";"Nordrhein-Westfalen";"Warendorf";-;"-";0,66;0,66
+"053820048048";"Rheinbach";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,66;0,66
+"053820020020";"Hennef (Sieg)";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,66;0,66
+"053700004004";"Erkelenz";"Nordrhein-Westfalen";"Heinsberg";-;"-";0,66;0,66
+"051700024024";"Moers";"Nordrhein-Westfalen";"Wesel";-;"-";0,66;0,66
+"034540041041";"Papenburg";"Niedersachsen";"Emsland";-;"-";0,66;0,66
+"032510041041";"Syke";"Niedersachsen";"Diepholz";-;"-";0,66;0,66
+"031560011011";"Osterode am Harz";"Niedersachsen";"Osterode am Harz";-;"-";0,66;0,66
+"010610029029";"Glückstadt";"Schleswig-Holstein";"Steinburg";-;"-";0,66;0,66
+"150880205205";"Leuna";"Sachsen-Anhalt";"Saalekreis";-;"-";0,67;0,67
+"150840355355";"Naumburg (Saale)";"Sachsen-Anhalt";"Burgenlandkreis";-;"-";0,67;0,67
+"100440120120";"Wadgassen";"Saarland";"Saarlouis";-;"-";0,67;0,67
+"096630000000";"Würzburg";"Bayern";"Würzburg";-;"-";0,67;0,67
+"084350035035";"Meckenbeuren";"Baden-Württemberg";"Bodenseekreis";-;"-";0,67;0,67
+"083170057057";"Kehl";"Baden-Württemberg";"Ortenaukreis";-;"-";0,67;0,67
+"082150084084";"Ubstadt-Weiher";"Baden-Württemberg";"Karlsruhe";-;"-";0,67;0,67
+"071330006006";"Bad Kreuznach";"Rheinland-Pfalz";"Bad Kreuznach";-;"-";0,67;0,67
+"065340004004";"Biedenkopf";"Hessen";"Marburg-Biedenkopf";-;"-";0,67;0,67
+"065310014014";"Pohlheim";"Hessen";"Gießen";-;"-";0,67;0,67
+"064400001001";"Altenstadt";"Hessen";"Wetteraukreis";-;"-";0,67;0,67
+"064390004004";"Geisenheim";"Hessen";"Rheingau-Taunus-Kreis";-;"-";0,67;0,67
+"064390003003";"Eltville am Rhein";"Hessen";"Rheingau-Taunus-Kreis";-;"-";0,67;0,67
+"059660024024";"Olpe";"Nordrhein-Westfalen";"Olpe";-;"-";0,67;0,67
+"057660032032";"Horn-Bad Meinberg";"Nordrhein-Westfalen";"Lippe";-;"-";0,67;0,67
+"057620008008";"Beverungen";"Nordrhein-Westfalen";"Höxter";-;"-";0,67;0,67
+"057580012012";"Herford";"Nordrhein-Westfalen";"Herford";-;"-";0,67;0,67
+"057540052052";"Werther (Westf.)";"Nordrhein-Westfalen";"Gütersloh";-;"-";0,67;0,67
+"057540044044";"Verl";"Nordrhein-Westfalen";"Gütersloh";-;"-";0,67;0,67
+"057540016016";"Harsewinkel";"Nordrhein-Westfalen";"Gütersloh";-;"-";0,67;0,67
+"055580032032";"Nottuln";"Nordrhein-Westfalen";"Coesfeld";-;"-";0,67;0,67
+"055540032032";"Isselburg";"Nordrhein-Westfalen";"Borken";-;"-";0,67;0,67
+"053780008008";"Burscheid";"Nordrhein-Westfalen";"Rheinisch-Bergischer Kreis";-;"-";0,67;0,67
+"053620012012";"Brühl";"Nordrhein-Westfalen";"Rhein-Erft-Kreis";-;"-";0,67;0,67
+"053340012012";"Eschweiler";"Nordrhein-Westfalen";"Städteregion Aachen";-;"-";0,67;0,67
+"051580020020";"Langenfeld (Rhld.)";"Nordrhein-Westfalen";"Mettmann";-;"-";0,67;0,67
+"034570014014";"Moormerland";"Niedersachsen";"Leer";-;"-";0,67;0,67
+"034570013013";"Leer (Ostfriesland)";"Niedersachsen";"Leer";-;"-";0,67;0,67
+"034550026026";"Varel";"Niedersachsen";"Friesland";-;"-";0,67;0,67
+"034530005005";"Emstek";"Niedersachsen";"Cloppenburg";-;"-";0,67;0,67
+"034510002002";"Bad Zwischenahn";"Niedersachsen";"Ammerland";-;"-";0,67;0,67
+"032570031031";"Rinteln";"Niedersachsen";"Schaumburg";-;"-";0,67;0,67
+"031510040040";"Wittingen";"Niedersachsen";"Gifhorn";-;"-";0,67;0,67
+"010590075075";"Schleswig";"Schleswig-Holstein";"Schleswig-Flensburg";-;"-";0,67;0,67
+"120700316316";"Pritzwalk";"Brandenburg";"Prignitz";-;"-";0,68;0,68
+"120690306306";"Kloster Lehnin";"Brandenburg";"Potsdam-Mittelmark";-;"-";0,68;0,68
+"096730114114";"Bad Neustadt a.d. Saale";"Bayern";"Rhön-Grabfeld";-;"-";0,68;0,68
+"091870122122";"Bruckmühl";"Bayern";"Rosenheim";-;"-";0,68;0,68
+"083155002015";"Breisach am Rhein";"Baden-Württemberg";"Breisgau-Hochschwarzwald";-;"-";0,68;0,68
+"082155004099";"Graben-Neudorf";"Baden-Württemberg";"Karlsruhe";-;"-";0,68;0,68
+"081180019019";"Gerlingen";"Baden-Württemberg";"Ludwigsburg";-;"-";0,68;0,68
+"066330013013";"Hofgeismar";"Hessen";"Kassel";-;"-";0,68;0,68
+"064390011011";"Niedernhausen";"Hessen";"Rheingau-Taunus-Kreis";-;"-";0,68;0,68
+"064380012012";"Rödermark";"Hessen";"Offenbach";-;"-";0,68;0,68
+"064310007007";"Fürth";"Hessen";"Bergstraße";-;"-";0,68;0,68
+"059110000000";"Bochum";"Nordrhein-Westfalen";"Bochum, Stadt";-;"-";0,68;0,68
+"057660008008";"Bad Salzuflen";"Nordrhein-Westfalen";"Lippe";-;"-";0,68;0,68
+"053580032032";"Langerwehe";"Nordrhein-Westfalen";"Düren";-;"-";0,68;0,68
+"051660024024";"Schwalmtal";"Nordrhein-Westfalen";"Viersen";-;"-";0,68;0,68
+"051660004004";"Brüggen";"Nordrhein-Westfalen";"Viersen";-;"-";0,68;0,68
+"051620004004";"Dormagen";"Nordrhein-Westfalen";"Rhein-Kreis Neuss";-;"-";0,68;0,68
+"051580016016";"Hilden";"Nordrhein-Westfalen";"Mettmann";-;"-";0,68;0,68
+"051580008008";"Haan";"Nordrhein-Westfalen";"Mettmann";-;"-";0,68;0,68
+"034580014014";"Wildeshausen";"Niedersachsen";"Oldenburg";-;"-";0,68;0,68
+"033600025025";"Uelzen";"Niedersachsen";"Uelzen";-;"-";0,68;0,68
+"032560022022";"Nienburg (Weser)";"Niedersachsen";"Nienburg (Weser)";-;"-";0,68;0,68
+"032550023023";"Holzminden";"Niedersachsen";"Holzminden";-;"-";0,68;0,68
+"031550001001";"Bad Gandersheim";"Niedersachsen";"Northeim";-;"-";0,68;0,68
+"031510025025";"Sassenburg";"Niedersachsen";"Gifhorn";-;"-";0,68;0,68
+"010560050050";"Wedel";"Schleswig-Holstein";"Pinneberg";-;"-";0,68;0,68
+"160720018018";"Sonneberg";"Thüringen";"Sonneberg";-;"-";0,69;0,69
+"150850135135";"Halberstadt";"Sachsen-Anhalt";"Harz";-;"-";0,69;0,69
+"130595922101";"Wolgast";"Mecklenburg-Vorpommern";"Ostvorpommern";-;"-";0,69;0,69
+"091870117117";"Bad Aibling";"Bayern";"Rosenheim";-;"-";0,69;0,69
+"071310077077";"Sinzig";"Rheinland-Pfalz";"Ahrweiler";-;"-";0,69;0,69
+"064400012012";"Karben";"Hessen";"Wetteraukreis";-;"-";0,69;0,69
+"064360007007";"Hofheim am Taunus";"Hessen";"Main-Taunus-Kreis";-;"-";0,69;0,69
+"064350028028";"Steinau an der Straße";"Hessen";"Main-Kinzig-Kreis";-;"-";0,69;0,69
+"064350009009";"Freigericht";"Hessen";"Main-Kinzig-Kreis";-;"-";0,69;0,69
+"064320002002";"Babenhausen";"Hessen";"Darmstadt-Dieburg";-;"-";0,69;0,69
+"064140000000";"Wiesbaden";"Hessen";"Wiesbaden, Landeshauptstadt";-;"-";0,69;0,69
+"059740056056";"Wickede (Ruhr)";"Nordrhein-Westfalen";"Soest";-;"-";0,69;0,69
+"059540008008";"Ennepetal";"Nordrhein-Westfalen";"Ennepe-Ruhr-Kreis";-;"-";0,69;0,69
+"055660008008";"Emsdetten";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,69;0,69
+"055580024024";"Lüdinghausen";"Nordrhein-Westfalen";"Coesfeld";-;"-";0,69;0,69
+"053820056056";"Sankt Augustin";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,69;0,69
+"053660044044";"Zülpich";"Nordrhein-Westfalen";"Euskirchen";-;"-";0,69;0,69
+"053660016016";"Euskirchen";"Nordrhein-Westfalen";"Euskirchen";-;"-";0,69;0,69
+"053620028028";"Hürth";"Nordrhein-Westfalen";"Rhein-Erft-Kreis";-;"-";0,69;0,69
+"053620004004";"Bedburg";"Nordrhein-Westfalen";"Rhein-Erft-Kreis";-;"-";0,69;0,69
+"034530011011";"Löningen";"Niedersachsen";"Cloppenburg";-;"-";0,69;0,69
+"034520006006";"Großefehn";"Niedersachsen";"Aurich";-;"-";0,69;0,69
+"033570051051";"Visselhövede";"Niedersachsen";"Rotenburg (Wümme)";-;"-";0,69;0,69
+"033510004004";"Bergen";"Niedersachsen";"Celle";-;"-";0,69;0,69
+"032510040040";"Sulingen";"Niedersachsen";"Diepholz";-;"-";0,69;0,69
+"010540056056";"Husum";"Schleswig-Holstein";"Nordfriesland";-;"-";0,69;0,69
+"100440115115";"Saarlouis";"Saarland";"Saarlouis";-;"-";0,7;0,7
+"100410519519";"Völklingen";"Saarland";"Regionalverband Saarbrücken";-;"-";0,7;0,7
+"091900157157";"Weilheim i. OB";"Bayern";"Weilheim-Schongau";-;"-";0,7;0,7
+"091840130130";"Ismaning";"Bayern";"München";-;"-";0,7;0,7
+"083365004069";"Rheinfelden (Baden)";"Baden-Württemberg";"Lörrach";-;"-";0,7;0,7
+"083175001001";"Achern";"Baden-Württemberg";"Ortenaukreis";-;"-";0,7;0,7
+"082155006066";"Philippsburg";"Baden-Württemberg";"Karlsruhe";-;"-";0,7;0,7
+"082150109109";"Stutensee";"Baden-Württemberg";"Karlsruhe";-;"-";0,7;0,7
+"082150017017";"Ettlingen";"Baden-Württemberg";"Karlsruhe";-;"-";0,7;0,7
+"081160078078";"Leinfelden-Echterdingen";"Baden-Württemberg";"Esslingen";-;"-";0,7;0,7
+"073320025025";"Haßloch";"Rheinland-Pfalz";"Bad Dürkheim";-;"-";0,7;0,7
+"066310006006";"Eichenzell";"Hessen";"Fulda";-;"-";0,7;0,7
+"064400002002";"Bad Nauheim";"Hessen";"Wetteraukreis";-;"-";0,7;0,7
+"064370006006";"Erbach";"Hessen";"Odenwaldkreis";-;"-";0,7;0,7
+"064340005005";"Königstein im Taunus";"Hessen";"Hochtaunuskreis";-;"-";0,7;0,7
+"064340002002";"Friedrichsdorf";"Hessen";"Hochtaunuskreis";-;"-";0,7;0,7
+"064310002002";"Bensheim";"Hessen";"Bergstraße";-;"-";0,7;0,7
+"059700040040";"Siegen";"Nordrhein-Westfalen";"Siegen-Wittgenstein";-;"-";0,7;0,7
+"059540012012";"Gevelsberg";"Nordrhein-Westfalen";"Ennepe-Ruhr-Kreis";-;"-";0,7;0,7
+"057700016016";"Hüllhorst";"Nordrhein-Westfalen";"Minden-Lübbecke";-;"-";0,7;0,7
+"057580016016";"Hiddenhausen";"Nordrhein-Westfalen";"Herford";-;"-";0,7;0,7
+"057540032032";"Rietberg";"Nordrhein-Westfalen";"Gütersloh";-;"-";0,7;0,7
+"053820052052";"Ruppichteroth";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,7;0,7
+"053820040040";"Neunkirchen-Seelscheid";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,7;0,7
+"051620012012";"Jüchen";"Nordrhein-Westfalen";"Rhein-Kreis Neuss";-;"-";0,7;0,7
+"051620008008";"Grevenbroich";"Nordrhein-Westfalen";"Rhein-Kreis Neuss";-;"-";0,7;0,7
+"051580028028";"Ratingen";"Nordrhein-Westfalen";"Mettmann";-;"-";0,7;0,7
+"051540012012";"Geldern";"Nordrhein-Westfalen";"Kleve";-;"-";0,7;0,7
+"034595401030";"Quakenbrück";"Niedersachsen";"Osnabrück";-;"-";0,7;0,7
+"034560001001";"Bad Bentheim";"Niedersachsen";"Grafschaft Bentheim";-;"-";0,7;0,7
+"034550027027";"Zetel";"Niedersachsen";"Friesland";-;"-";0,7;0,7
+"031520012012";"Göttingen";"Niedersachsen";"Göttingen";-;"-";0,7;0,7
+"100420114114";"Mettlach";"Saarland";"Merzig-Wadern";-;"-";0,71;0,71
+"095610000000";"Ansbach";"Bayern";"Ansbach";-;"-";0,71;0,71
+"092770116116";"Eggenfelden";"Bayern";"Rottal-Inn";-;"-";0,71;0,71
+"091900148148";"Schongau";"Bayern";"Weilheim-Schongau";-;"-";0,71;0,71
+"091870150150";"Kolbermoor";"Bayern";"Rosenheim";-;"-";0,71;0,71
+"082150106106";"Waghäusel";"Baden-Württemberg";"Karlsruhe";-;"-";0,71;0,71
+"066330015015";"Kaufungen";"Hessen";"Kassel";-;"-";0,71;0,71
+"066320003003";"Bebra";"Hessen";"Hersfeld-Rotenburg";-;"-";0,71;0,71
+"064380004004";"Hainburg";"Hessen";"Offenbach";-;"-";0,71;0,71
+"064380002002";"Dreieich";"Hessen";"Offenbach";-;"-";0,71;0,71
+"064350019019";"Maintal";"Hessen";"Main-Kinzig-Kreis";-;"-";0,71;0,71
+"064330008008";"Mörfelden-Walldorf";"Hessen";"Groß-Gerau";-;"-";0,71;0,71
+"064320019019";"Reinheim";"Hessen";"Darmstadt-Dieburg";-;"-";0,71;0,71
+"064310016016";"Lorsch";"Hessen";"Bergstraße";-;"-";0,71;0,71
+"059780012012";"Fröndenberg/Ruhr";"Nordrhein-Westfalen";"Unna";-;"-";0,71;0,71
+"057620036036";"Warburg";"Nordrhein-Westfalen";"Höxter";-;"-";0,71;0,71
+"055660056056";"Mettingen";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,71;0,71
+"053700008008";"Gangelt";"Nordrhein-Westfalen";"Heinsberg";-;"-";0,71;0,71
+"034590004004";"Bad Iburg";"Niedersachsen";"Osnabrück";-;"-";0,71;0,71
+"010600005005";"Bad Segeberg";"Schleswig-Holstein";"Segeberg";-;"-";0,71;0,71
+"091720114114";"Bad Reichenhall";"Bayern";"Berchtesgadener Land";-;"-";0,72;0,72
+"083355004043";"Konstanz";"Baden-Württemberg";"Konstanz";-;"-";0,72;0,72
+"065310012012";"Linden";"Hessen";"Gießen";-;"-";0,72;0,72
+"064390002002";"Bad Schwalbach";"Hessen";"Rheingau-Taunus-Kreis";-;"-";0,72;0,72
+"064320020020";"Roßdorf";"Hessen";"Darmstadt-Dieburg";-;"-";0,72;0,72
+"064320014014";"Mühltal";"Hessen";"Darmstadt-Dieburg";-;"-";0,72;0,72
+"064320010010";"Groß-Umstadt";"Hessen";"Darmstadt-Dieburg";-;"-";0,72;0,72
+"064310011011";"Heppenheim (Bergstraße)";"Hessen";"Bergstraße";-;"-";0,72;0,72
+"059740040040";"Soest";"Nordrhein-Westfalen";"Soest";-;"-";0,72;0,72
+"055580040040";"Rosendahl";"Nordrhein-Westfalen";"Coesfeld";-;"-";0,72;0,72
+"051540032032";"Kevelaer";"Nordrhein-Westfalen";"Kleve";-;"-";0,72;0,72
+"034620005005";"Friedeburg";"Niedersachsen";"Wittmund";-;"-";0,72;0,72
+"034600003003";"Dinklage";"Niedersachsen";"Vechta";-;"-";0,72;0,72
+"034570020020";"Uplengen";"Niedersachsen";"Leer";-;"-";0,72;0,72
+"034530013013";"Saterland";"Niedersachsen";"Cloppenburg";-;"-";0,72;0,72
+"034530001001";"Barßel";"Niedersachsen";"Cloppenburg";-;"-";0,72;0,72
+"034520023023";"Südbrookmerland";"Niedersachsen";"Aurich";-;"-";0,72;0,72
+"100450116116";"Mandelbachtal";"Saarland";"Saarpfalz-Kreis";-;"-";0,73;0,73
+"092740113113";"Altdorf";"Bayern";"Landshut";-;"-";0,73;0,73
+"091880139139";"Starnberg";"Bayern";"Starnberg";-;"-";0,73;0,73
+"082265005056";"Neckargemünd";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,73;0,73
+"081190061061";"Rudersberg";"Baden-Württemberg";"Rems-Murr-Kreis";-;"-";0,73;0,73
+"081175003019";"Eislingen/Fils";"Baden-Württemberg";"Göppingen";-;"-";0,73;0,73
+"071415003029";"Diez";"Rheinland-Pfalz";"Rhein-Lahn-Kreis";-;"-";0,73;0,73
+"065310010010";"Laubach";"Hessen";"Gießen";-;"-";0,73;0,73
+"064390015015";"Taunusstein";"Hessen";"Rheingau-Taunus-Kreis";-;"-";0,73;0,73
+"064380009009";"Neu-Isenburg";"Hessen";"Offenbach";-;"-";0,73;0,73
+"064350002002";"Bad Soden-Salmünster";"Hessen";"Main-Kinzig-Kreis";-;"-";0,73;0,73
+"064330012012";"Rüsselsheim";"Hessen";"Groß-Gerau";-;"-";0,73;0,73
+"064330007007";"Kelsterbach";"Hessen";"Groß-Gerau";-;"-";0,73;0,73
+"059740044044";"Warstein";"Nordrhein-Westfalen";"Soest";-;"-";0,73;0,73
+"059740032032";"Möhnesee";"Nordrhein-Westfalen";"Soest";-;"-";0,73;0,73
+"055660092092";"Westerkappeln";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,73;0,73
+"055620008008";"Datteln";"Nordrhein-Westfalen";"Recklinghausen";-;"-";0,73;0,73
+"053780024024";"Overath";"Nordrhein-Westfalen";"Rheinisch-Bergischer Kreis";-;"-";0,73;0,73
+"051540028028";"Kerken";"Nordrhein-Westfalen";"Kleve";-;"-";0,73;0,73
+"051540020020";"Issum";"Nordrhein-Westfalen";"Kleve";-;"-";0,73;0,73
+"033595403023";"Harsefeld";"Niedersachsen";"Stade";-;"-";0,73;0,73
+"033590038038";"Stade";"Niedersachsen";"Stade";-;"-";0,73;0,73
+"033580022022";"Walsrode";"Niedersachsen";"Soltau-Fallingbostel";-;"-";0,73;0,73
+"031570003003";"Ilsede";"Niedersachsen";"Peine";-;"-";0,73;0,73
+"010620060060";"Reinbek";"Schleswig-Holstein";"Stormarn";-;"-";0,73;0,73
+"010560015015";"Elmshorn";"Schleswig-Holstein";"Pinneberg";-;"-";0,73;0,73
+"150880319319";"Salzatal";"Sachsen-Anhalt";"Saalekreis";-;"-";0,74;0,74
+"120680320320";"Neuruppin";"Brandenburg";"Ostprignitz-Ruppin";-;"-";0,74;0,74
+"091880121121";"Gilching";"Bayern";"Starnberg";-;"-";0,74;0,74
+"091840122122";"Grünwald";"Bayern";"München";-;"-";0,74;0,74
+"082260096096";"Weinheim";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,74;0,74
+"082165002007";"Bühl";"Baden-Württemberg";"Rastatt";-;"-";0,74;0,74
+"082155002007";"Bretten";"Baden-Württemberg";"Karlsruhe";-;"-";0,74;0,74
+"073380005005";"Böhl-Iggelheim";"Rheinland-Pfalz";"Rhein-Pfalz-Kreis";-;"-";0,74;0,74
+"064400023023";"Rosbach v.d. Höhe";"Hessen";"Wetteraukreis";-;"-";0,74;0,74
+"064360004004";"Flörsheim am Main";"Hessen";"Main-Taunus-Kreis";-;"-";0,74;0,74
+"064360003003";"Eschborn";"Hessen";"Main-Taunus-Kreis";-;"-";0,74;0,74
+"064310017017";"Mörlenbach";"Hessen";"Bergstraße";-;"-";0,74;0,74
+"057540036036";"Schloß Holte-Stukenbrock";"Nordrhein-Westfalen";"Gütersloh";-;"-";0,74;0,74
+"055620028028";"Oer-Erkenschwick";"Nordrhein-Westfalen";"Recklinghausen";-;"-";0,74;0,74
+"055620016016";"Haltern am See";"Nordrhein-Westfalen";"Recklinghausen";-;"-";0,74;0,74
+"055580012012";"Coesfeld";"Nordrhein-Westfalen";"Coesfeld";-;"-";0,74;0,74
+"055540004004";"Ahaus";"Nordrhein-Westfalen";"Borken";-;"-";0,74;0,74
+"053660004004";"Bad Münstereifel";"Nordrhein-Westfalen";"Euskirchen";-;"-";0,74;0,74
+"051190000000";"Oberhausen";"Nordrhein-Westfalen";"Oberhausen, Stadt";-;"-";0,74;0,74
+"033580019019";"Schneverdingen";"Niedersachsen";"Soltau-Fallingbostel";-;"-";0,74;0,74
+"032410018018";"Uetze";"Niedersachsen";"Region Hannover";-;"-";0,74;0,74
+"032410013013";"Pattensen";"Niedersachsen";"Region Hannover";-;"-";0,74;0,74
+"010610046046";"Itzehoe";"Schleswig-Holstein";"Steinburg";-;"-";0,74;0,74
+"010040000000";"Neumünster";"Schleswig-Holstein";"Neumünster, Stadt";-;"-";0,74;0,74
+"010010000000";"Flensburg";"Schleswig-Holstein";"Flensburg, Stadt";-;"-";0,74;0,74
+"100430112112";"Illingen";"Saarland";"Neunkirchen";-;"-";0,75;0,75
+"084375005100";"Bad Saulgau";"Baden-Württemberg";"Sigmaringen";-;"-";0,75;0,75
+"082150105105";"Linkenheim-Hochstetten";"Baden-Württemberg";"Karlsruhe";-;"-";0,75;0,75
+"081175004024";"Geislingen an der Steige";"Baden-Württemberg";"Göppingen";-;"-";0,75;0,75
+"081155003021";"Herrenberg";"Baden-Württemberg";"Böblingen";-;"-";0,75;0,75
+"065320003003";"Braunfels";"Hessen";"Lahn-Dill-Kreis";-;"-";0,75;0,75
+"064350006006";"Bruchköbel";"Hessen";"Main-Kinzig-Kreis";-;"-";0,75;0,75
+"059780032032";"Selm";"Nordrhein-Westfalen";"Unna";-;"-";0,75;0,75
+"057700040040";"Rahden";"Nordrhein-Westfalen";"Minden-Lübbecke";-;"-";0,75;0,75
+"053580052052";"Nörvenich";"Nordrhein-Westfalen";"Düren";-;"-";0,75;0,75
+"034620019019";"Wittmund";"Niedersachsen";"Wittmund";-;"-";0,75;0,75
+"034520019019";"Norden";"Niedersachsen";"Aurich";-;"-";0,75;0,75
+"033575408057";"Zeven";"Niedersachsen";"Rotenburg (Wümme)";-;"-";0,75;0,75
+"031560002002";"Bad Lauterberg im Harz";"Niedersachsen";"Osterode am Harz";-;"-";0,75;0,75
+"160660092092";"Zella-Mehlis";"Thüringen";"Schmalkalden-Meiningen";-;"-";0,76;0,76
+"100450114114";"Homburg";"Saarland";"Saarpfalz-Kreis";-;"-";0,76;0,76
+"091890157157";"Trostberg";"Bayern";"Traunstein";-;"-";0,76;0,76
+"084160048048";"Ammerbuch";"Baden-Württemberg";"Tübingen";-;"-";0,76;0,76
+"083165006056";"Waldkirch";"Baden-Württemberg";"Emmendingen";-;"-";0,76;0,76
+"082360046046";"Niefern-Öschelbronn";"Baden-Württemberg";"Enzkreis";-;"-";0,76;0,76
+"065350016016";"Schotten";"Hessen";"Vogelsbergkreis";-;"-";0,76;0,76
+"064390008008";"Idstein";"Hessen";"Rheingau-Taunus-Kreis";-;"-";0,76;0,76
+"064320022022";"Seeheim-Jugenheim";"Hessen";"Darmstadt-Dieburg";-;"-";0,76;0,76
+"059620056056";"Schalksmühle";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,76;0,76
+"053820028028";"Lohmar";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,76;0,76
+"053660040040";"Weilerswist";"Nordrhein-Westfalen";"Euskirchen";-;"-";0,76;0,76
+"034530007007";"Friesoythe";"Niedersachsen";"Cloppenburg";-;"-";0,76;0,76
+"120600198198";"Schorfheide";"Brandenburg";"Barnim";-;"-";0,77;0,77
+"096790170170";"Ochsenfurt";"Bayern";"Würzburg";-;"-";0,77;0,77
+"093630000000";"Weiden i.d. OPf.";"Bayern";"Weiden i.d.OPf.";-;"-";0,77;0,77
+"092630000000";"Straubing";"Bayern";"Straubing";-;"-";0,77;0,77
+"091850149149";"Neuburg a.d. Donau";"Bayern";"Neuburg-Schrobenhausen";-;"-";0,77;0,77
+"084175002002";"Balingen";"Baden-Württemberg";"Zollernalbkreis";-;"-";0,77;0,77
+"083355005075";"Singen (Hohentwiel)";"Baden-Württemberg";"Konstanz";-;"-";0,77;0,77
+"073110000000";"Frankenthal (Pfalz)";"Rheinland-Pfalz";"Frankenthal (Pfalz), kreisfreie Stadt";-;"-";0,77;0,77
+"066330028028";"Wolfhagen";"Hessen";"Kassel";-;"-";0,77;0,77
+"064370011011";"Michelstadt";"Hessen";"Odenwaldkreis";-;"-";0,77;0,77
+"064360002002";"Eppstein";"Hessen";"Main-Taunus-Kreis";-;"-";0,77;0,77
+"064320008008";"Griesheim";"Hessen";"Darmstadt-Dieburg";-;"-";0,77;0,77
+"059740052052";"Werl";"Nordrhein-Westfalen";"Soest";-;"-";0,77;0,77
+"053820060060";"Siegburg";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,77;0,77
+"053740012012";"Gummersbach";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";0,77;0,77
+"053700012012";"Geilenkirchen";"Nordrhein-Westfalen";"Heinsberg";-;"-";0,77;0,77
+"053660024024";"Kall";"Nordrhein-Westfalen";"Euskirchen";-;"-";0,77;0,77
+"053580024024";"Jülich";"Nordrhein-Westfalen";"Düren";-;"-";0,77;0,77
+"051580012012";"Heiligenhaus";"Nordrhein-Westfalen";"Mettmann";-;"-";0,77;0,77
+"034540019019";"Haselünne";"Niedersachsen";"Emsland";-;"-";0,77;0,77
+"033610008008";"Ottersberg";"Niedersachsen";"Verden";-;"-";0,77;0,77
+"032560025025";"Rehburg-Loccum";"Niedersachsen";"Nienburg (Weser)";-;"-";0,77;0,77
+"130560072072";"Waren (Müritz)";"Mecklenburg-Vorpommern";"Müritz";-;"-";0,78;0,78
+"100440119119";"Überherrn";"Saarland";"Saarlouis";-;"-";0,78;0,78
+"084265003021";"Biberach an der Riß";"Baden-Württemberg";"Biberach";-;"-";0,78;0,78
+"083165003011";"Emmendingen";"Baden-Württemberg";"Emmendingen";-;"-";0,78;0,78
+"064350010010";"Gelnhausen";"Hessen";"Main-Kinzig-Kreis";-;"-";0,78;0,78
+"059780028028";"Schwerte";"Nordrhein-Westfalen";"Unna";-;"-";0,78;0,78
+"059740028028";"Lippstadt";"Nordrhein-Westfalen";"Soest";-;"-";0,78;0,78
+"034600006006";"Lohne (Oldenburg)";"Niedersachsen";"Vechta";-;"-";0,78;0,78
+"010550035035";"Ratekau";"Schleswig-Holstein";"Ostholstein";-;"-";0,78;0,78
+"150900415415";"Osterburg (Altmark)";"Sachsen-Anhalt";"Stendal";-;"-";0,79;0,79
+"150880365365";"Teutschenthal";"Sachsen-Anhalt";"Saalekreis";-;"-";0,79;0,79
+"150850230230";"Osterwieck";"Sachsen-Anhalt";"Harz";-;"-";0,79;0,79
+"100410514514";"Kleinblittersdorf";"Saarland";"Regionalverband Saarbrücken";-;"-";0,79;0,79
+"095710193193";"Rothenburg ob der Tauber";"Bayern";"Ansbach";-;"-";0,79;0,79
+"082165007049";"Sinzheim";"Baden-Württemberg";"Rastatt";-;"-";0,79;0,79
+"082150064064";"Östringen";"Baden-Württemberg";"Karlsruhe";-;"-";0,79;0,79
+"081155004024";"Holzgerlingen";"Baden-Württemberg";"Böblingen";-;"-";0,79;0,79
+"059580048048";"Winterberg";"Nordrhein-Westfalen";"Hochsauerlandkreis";-;"-";0,79;0,79
+"059540020020";"Herdecke";"Nordrhein-Westfalen";"Ennepe-Ruhr-Kreis";-;"-";0,79;0,79
+"055700052052";"Warendorf";"Nordrhein-Westfalen";"Warendorf";-;"-";0,79;0,79
+"055540068068";"Vreden";"Nordrhein-Westfalen";"Borken";-;"-";0,79;0,79
+"055540012012";"Borken";"Nordrhein-Westfalen";"Borken";-;"-";0,79;0,79
+"053620024024";"Frechen";"Nordrhein-Westfalen";"Rhein-Erft-Kreis";-;"-";0,79;0,79
+"053340016016";"Herzogenrath";"Nordrhein-Westfalen";"Städteregion Aachen";-;"-";0,79;0,79
+"051700036036";"Schermbeck";"Nordrhein-Westfalen";"Wesel";-;"-";0,79;0,79
+"100430113113";"Merchweiler";"Saarland";"Neunkirchen";-;"-";0,8;0,8
+"091840119119";"Garching b. München";"Bayern";"München";-;"-";0,8;0,8
+"084375006104";"Sigmaringen";"Baden-Württemberg";"Sigmaringen";-;"-";0,8;0,8
+"084355005052";"Salem";"Baden-Württemberg";"Bodenseekreis";-;"-";0,8;0,8
+"057660048048";"Leopoldshöhe";"Nordrhein-Westfalen";"Lippe";-;"-";0,8;0,8
+"033580008008";"Bad Fallingbostel";"Niedersachsen";"Soltau-Fallingbostel";-;"-";0,8;0,8
+"010530083083";"Lauenburg/Elbe";"Schleswig-Holstein";"Herzogtum Lauenburg";-;"-";0,8;0,8
+"084175005044";"Meßstetten";"Baden-Württemberg";"Zollernalbkreis";-;"-";0,81;0,81
+"082150096096";"Karlsbad";"Baden-Württemberg";"Karlsruhe";-;"-";0,81;0,81
+"081150028028";"Leonberg";"Baden-Württemberg";"Böblingen";-;"-";0,81;0,81
+"091880120120";"Gauting";"Bayern";"Starnberg";-;"-";0,82;0,82
+"071370003003";"Andernach";"Rheinland-Pfalz";"Mayen-Koblenz";-;"-";0,82;0,82
+"066340009009";"Homberg (Efze)";"Hessen";"Schwalm-Eder-Kreis";-;"-";0,82;0,82
+"064310005005";"Bürstadt";"Hessen";"Bergstraße";-;"-";0,82;0,82
+"055660016016";"Hörstel";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,82;0,82
+"053820076076";"Windeck";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,82;0,82
+"053820016016";"Eitorf";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,82;0,82
+"053780020020";"Odenthal";"Nordrhein-Westfalen";"Rheinisch-Bergischer Kreis";-;"-";0,82;0,82
+"010570057057";"Plön";"Schleswig-Holstein";"Plön";-;"-";0,82;0,82
+"091840120120";"Gräfelfing";"Bayern";"München";-;"-";0,83;0,83
+"084355007059";"Überlingen";"Baden-Württemberg";"Bodenseekreis";-;"-";0,83;0,83
+"083165003043";"Teningen";"Baden-Württemberg";"Emmendingen";-;"-";0,83;0,83
+"083155017113";"Titisee-Neustadt";"Baden-Württemberg";"Breisgau-Hochschwarzwald";-;"-";0,83;0,83
+"081285001007";"Bad Mergentheim";"Baden-Württemberg";"Main-Tauber-Kreis";-;"-";0,83;0,83
+"066350011011";"Frankenberg (Eder)";"Hessen";"Waldeck-Frankenberg";-;"-";0,83;0,83
+"064320004004";"Dieburg";"Hessen";"Darmstadt-Dieburg";-;"-";0,83;0,83
+"059700024024";"Kreuztal";"Nordrhein-Westfalen";"Siegen-Wittgenstein";-;"-";0,83;0,83
+"053820072072";"Wachtberg";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,83;0,83
+"032520003003";"Bad Pyrmont";"Niedersachsen";"Hameln-Pyrmont";-;"-";0,83;0,83
+"010550044044";"Scharbeutz";"Schleswig-Holstein";"Ostholstein";-;"-";0,83;0,83
+"146260610610";"Zittau";"Sachsen";"Görlitz";-;"-";0,84;0,84
+"092620000000";"Passau";"Bayern";"Passau";-;"-";0,84;0,84
+"073380025025";"Schifferstadt";"Rheinland-Pfalz";"Rhein-Pfalz-Kreis";-;"-";0,84;0,84
+"064400004004";"Büdingen";"Hessen";"Wetteraukreis";-;"-";0,84;0,84
+"064360008008";"Kelkheim (Taunus)";"Hessen";"Main-Taunus-Kreis";-;"-";0,84;0,84
+"053340028028";"Simmerath";"Nordrhein-Westfalen";"Städteregion Aachen";-;"-";0,84;0,84
+"033530031031";"Seevetal";"Niedersachsen";"Harburg";-;"-";0,84;0,84
+"010560048048";"Tornesch";"Schleswig-Holstein";"Pinneberg";-;"-";0,84;0,84
+"092710141141";"Osterhofen";"Bayern";"Deggendorf";-;"-";0,85;0,85
+"091840146146";"Neubiberg";"Bayern";"München";-;"-";0,85;0,85
+"084150059059";"Pfullingen";"Baden-Württemberg";"Reutlingen";-;"-";0,85;0,85
+"083170031031";"Friesenheim";"Baden-Württemberg";"Ortenaukreis";-;"-";0,85;0,85
+"072310502502";"Morbach";"Rheinland-Pfalz";"Bernkastel-Wittlich";-;"-";0,85;0,85
+"051580032032";"Velbert";"Nordrhein-Westfalen";"Mettmann";-;"-";0,85;0,85
+"031530002002";"Bad Harzburg";"Niedersachsen";"Goslar";-;"-";0,85;0,85
+"082155005059";"Oberderdingen";"Baden-Württemberg";"Karlsruhe";-;"-";0,86;0,86
+"082150101101";"Pfinztal";"Baden-Württemberg";"Karlsruhe";-;"-";0,86;0,86
+"073190000000";"Worms";"Rheinland-Pfalz";"Worms, kreisfreie Stadt";-;"-";0,86;0,86
+"071310070070";"Remagen";"Rheinland-Pfalz";"Ahrweiler";-;"-";0,86;0,86
+"059740004004";"Anröchte";"Nordrhein-Westfalen";"Soest";-;"-";0,86;0,86
+"053740040040";"Reichshof";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";0,86;0,86
+"053700024024";"Selfkant";"Nordrhein-Westfalen";"Heinsberg";-;"-";0,86;0,86
+"053580008008";"Düren";"Nordrhein-Westfalen";"Düren";-;"-";0,86;0,86
+"150910160160";"Kemberg";"Sachsen-Anhalt";"Wittenberg";-;"-";0,87;0,87
+"081185007070";"Steinheim an der Murr";"Baden-Württemberg";"Ludwigsburg";-;"-";0,87;0,87
+"053740024024";"Marienheide";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";0,87;0,87
+"053340032032";"Stolberg (Rhld.)";"Nordrhein-Westfalen";"Städteregion Aachen";-;"-";0,87;0,87
+"031560009009";"Herzberg am Harz";"Niedersachsen";"Osterode am Harz";-;"-";0,87;0,87
+"082260038038";"Ladenburg";"Baden-Württemberg";"Rhein-Neckar-Kreis";-;"-";0,88;0,88
+"064360001001";"Bad Soden am Taunus";"Hessen";"Main-Taunus-Kreis";-;"-";0,88;0,88
+"053340020020";"Monschau";"Nordrhein-Westfalen";"Städteregion Aachen";-;"-";0,88;0,88
+"051620020020";"Korschenbroich";"Nordrhein-Westfalen";"Rhein-Kreis Neuss";-;"-";0,88;0,88
+"033530029029";"Rosengarten";"Niedersachsen";"Harburg";-;"-";0,88;0,88
+"033530005005";"Buchholz in der Nordheide";"Niedersachsen";"Harburg";-;"-";0,88;0,88
+"082355001006";"Altensteig";"Baden-Württemberg";"Calw";-;"-";0,89;0,89
+"081160015015";"Denkendorf";"Baden-Württemberg";"Esslingen";-;"-";0,89;0,89
+"055660012012";"Greven";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,89;0,89
+"053660036036";"Schleiden";"Nordrhein-Westfalen";"Euskirchen";-;"-";0,89;0,89
+"034580013013";"Wardenburg";"Niedersachsen";"Oldenburg";-;"-";0,89;0,89
+"034580010010";"Hude (Oldb)";"Niedersachsen";"Oldenburg";-;"-";0,89;0,89
+"034510001001";"Apen";"Niedersachsen";"Ammerland";-;"-";0,89;0,89
+"071340045045";"Idar-Oberstein";"Rheinland-Pfalz";"Birkenfeld";-;"-";0,9;0,9
+"053740052052";"Wipperfürth";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";0,9;0,9
+"053700028028";"Übach-Palenberg";"Nordrhein-Westfalen";"Heinsberg";-;"-";0,9;0,9
+"053340036036";"Würselen";"Nordrhein-Westfalen";"Städteregion Aachen";-;"-";0,9;0,9
+"082370004004";"Baiersbronn";"Baden-Württemberg";"Freudenstadt";-;"-";0,91;0,91
+"150860055055";"Gommern";"Sachsen-Anhalt";"Jerichower Land";-;"-";0,92;0,92
+"100440116116";"Saarwellingen";"Saarland";"Saarlouis";-;"-";0,92;0,92
+"059740048048";"Welver";"Nordrhein-Westfalen";"Soest";-;"-";0,92;0,92
+"059620016016";"Hemer";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,92;0,92
+"055540040040";"Raesfeld";"Nordrhein-Westfalen";"Borken";-;"-";0,92;0,92
+"064130000000";"Offenbach am Main";"Hessen";"Offenbach am Main, Stadt";-;"-";0,93;0,93
+"053820036036";"Much";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";0,93;0,93
+"073390005005";"Bingen am Rhein";"Rheinland-Pfalz";"Mainz-Bingen";-;"-";0,94;0,94
+"059620040040";"Menden (Sauerland)";"Nordrhein-Westfalen";"Märkischer Kreis";-;"-";0,94;0,94
+"053740008008";"Engelskirchen";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";0,94;0,94
+"051540064064";"Weeze";"Nordrhein-Westfalen";"Kleve";-;"-";0,94;0,94
+"033530032032";"Stelle";"Niedersachsen";"Harburg";-;"-";0,94;0,94
+"082155001100";"Bad Schönborn";"Baden-Württemberg";"Karlsruhe";-;"-";0,95;0,95
+"064400016016";"Nidda";"Hessen";"Wetteraukreis";-;"-";0,95;0,95
+"064310021021";"Wald-Michelbach";"Hessen";"Bergstraße";-;"-";0,95;0,95
+"034510005005";"Rastede";"Niedersachsen";"Ammerland";-;"-";0,95;0,95
+"065320014014";"Hüttenberg";"Hessen";"Lahn-Dill-Kreis";-;"-";0,96;0,96
+"053580044044";"Nideggen";"Nordrhein-Westfalen";"Düren";-;"-";0,96;0,96
+"034565403021";"Schüttorf";"Niedersachsen";"Grafschaft Bentheim";-;"-";0,96;0,96
+"010550028028";"Malente";"Schleswig-Holstein";"Ostholstein";-;"-";0,96;0,96
+"150860140140";"Möckern";"Sachsen-Anhalt";"Jerichower Land";-;"-";0,97;0,97
+"083350063063";"Radolfzell am Bodensee";"Baden-Württemberg";"Konstanz";-;"-";0,97;0,97
+"073380017017";"Limburgerhof";"Rheinland-Pfalz";"Rhein-Pfalz-Kreis";-;"-";0,97;0,97
+"031520009009";"Friedland";"Niedersachsen";"Göttingen";-;"-";0,97;0,97
+"097780173173";"Mindelheim";"Bayern";"Unterallgäu";-;"-";0,98;0,98
+"055660072072";"Recke";"Nordrhein-Westfalen";"Steinfurt";-;"-";0,98;0,98
+"082210000000";"Heidelberg";"Baden-Württemberg";"Heidelberg";-;"-";0,99;0,99
+"059580012012";"Brilon";"Nordrhein-Westfalen";"Hochsauerlandkreis";-;"-";0,99;0,99
+"057660028028";"Extertal";"Nordrhein-Westfalen";"Lippe";-;"-";0,99;0,99
+"034550020020";"Wangerland";"Niedersachsen";"Friesland";-;"-";0,99;0,99
+"100410100100";"Saarbrücken";"Saarland";"Regionalverband Saarbrücken";-;"-";1;1
+"081180051051";"Möglingen";"Baden-Württemberg";"Ludwigsburg";-;"-";1;1
+"053820008008";"Bad Honnef";"Nordrhein-Westfalen";"Rhein-Sieg-Kreis";-;"-";1;1
+"034570021021";"Weener";"Niedersachsen";"Leer";-;"-";1;1
+"053740028028";"Morsbach";"Nordrhein-Westfalen";"Oberbergischer Kreis";-;"-";1,02;1,02
+"053340004004";"Alsdorf";"Nordrhein-Westfalen";"Städteregion Aachen";-;"-";1,02;1,02
+"034580007007";"Großenkneten";"Niedersachsen";"Oldenburg";-;"-";1,02;1,02
+"095630000000";"Fürth";"Bayern";"Fürth";-;"-";1,03;1,03
+"092740128128";"Essenbach";"Bayern";"Landshut";-;"-";1,03;1,03
+"084155005078";"Bad Urach";"Baden-Württemberg";"Reutlingen";-;"-";1,03;1,03
+"057740028028";"Lichtenau";"Nordrhein-Westfalen";"Paderborn";-;"-";1,03;1,03
+"055700040040";"Sendenhorst";"Nordrhein-Westfalen";"Warendorf";-;"-";1,03;1,03
+"083155001006";"Bad Krozingen";"Baden-Württemberg";"Breisgau-Hochschwarzwald";-;"-";1,04;1,04
+"066350003003";"Bad Wildungen";"Hessen";"Waldeck-Frankenberg";-;"-";1,04;1,04
+"055580036036";"Olfen";"Nordrhein-Westfalen";"Coesfeld";-;"-";1,08;1,08
+"051620016016";"Kaarst";"Nordrhein-Westfalen";"Rhein-Kreis Neuss";-;"-";1,08;1,08
+"034520025025";"Wiesmoor";"Niedersachsen";"Aurich";-;"-";1,09;1,09
+"083275004046";"Spaichingen";"Baden-Württemberg";"Tuttlingen";-;"-";1,1;1,1
+"034530008008";"Garrel";"Niedersachsen";"Cloppenburg";-;"-";1,1;1,1
+"010550046046";"Fehmarn";"Schleswig-Holstein";"Ostholstein";-;"-";1,1;1,1
+"091830148148";"Waldkraiburg";"Bayern";"Mühldorf a.Inn";-;"-";1,11;1,11
+"084155002050";"Metzingen";"Baden-Württemberg";"Reutlingen";-;"-";1,11;1,11
+"033520032032";"Loxstedt";"Niedersachsen";"Cuxhaven";-;"-";1,11;1,11
+"091830128128";"Mühldorf a. Inn";"Bayern";"Mühldorf a.Inn";-;"-";1,12;1,12
+"034590020020";"Hagen am Teutoburger Wald";"Niedersachsen";"Osnabrück";-;"-";1,13;1,13
+"096740147147";"Haßfurt";"Bayern";"Haßberge";-;"-";1,14;1,14
+"055700036036";"Sassenberg";"Nordrhein-Westfalen";"Warendorf";-;"-";1,15;1,15
+"010540168168";"Sylt";"Schleswig-Holstein";"Nordfriesland";-;"-";1,21;1,21
+"064390007007";"Hünstetten";"Hessen";"Rheingau-Taunus-Kreis";-;"-";1,23;1,23

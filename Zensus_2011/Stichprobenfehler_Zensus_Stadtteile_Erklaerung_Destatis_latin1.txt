@@ -1,0 +1,37 @@
+Die folgende Erklärung gab das Statistische Bundesamt am 08. November 2013 mit der Lieferung der Zensus-Stichprobenfehler für die Stadteile nach IFG-Antrag von Spiegel Online an:
+
+"Mit § 7 ZensG 2011 wurde für Großstädte mit mindestens 400.000 Einwohnern die rechtliche Grundlage geschaffen, hinreichend zuverlässige Zensusergebnisse nicht nur für die Gemeinde insgesamt, sondern auch für Teile der Stadt ("Zensus-Stadtteile") zu erhalten. Den betroffenen Städten wurden dabei seitens der Statistischen Ämter des Bundes und der Länder keine Vorgaben gemacht, wie sie die konkrete Abgrenzung der Zensus-Stadtteile vorzunehmen hatten. Die "Zensus-Stadtteile" mussten lediglich flächendeckend und überschneidungsfrei zugeschnitten sein. Es gab keine Vorgaben an die Gemeinden, sich beim Zuschnitt der Zensus-Stadtteile an den Grenzen von Verwaltungsbezirken zu orientieren. Sie mussten auch nicht aus geografisch benachbarten Anschriften, Straßenzügen oder Ortsteilen zusammengesetzt sein. 
+
+Die Gemeinden waren auch nicht verpflichtet, die "Zensus-Stadtteile" so zu schneiden, dass jeder Stadtteil etwa 200.000 Einwohner umfasst. Mit der gesetzlichen Vorgabe "für Teile der Stadt mit etwa 200.000 Einwohnern" sollte lediglich eine Obergrenze für die Anzahl der "Zensus-Stadtteile", die eine Großstadt maximal bilden durfte, festgelegt werden. Nicht alle Großstädte haben von dieser Obergrenze Gebrauch gemacht. So hätte beispielsweise Berlin, das im Jahresdurchschnitt 2010 nach der bisherigen Bevölkerungsfortschreibung ca. 3,46 Millionen Einwohner hatte, 17 "Zensus-Stadtteile" bilden dürfen. Es hat sich jedoch auf 12 "Zensus-Stadtteile" beschränkt, nämlich auf die 12 verwaltungsmäßig abgegrenzten Stadtbezirke. 
+
+Ebensowenig waren die betroffenen Großstädte verpflichtet, an die nach ihren Vorstellungen gebildeten "Zensus-Stadtteile" "sprechende Namen" zu vergeben. D.h. in den Datenbeständen des Zensus sind für die "Zensus-Stadtteile" keine Namen gespeichert, sondern sie sind lediglich innerhalb jeder Stadt durchnummeriert. 
+
+Auf der Grundlage der vorstehenden Rahmenbedingungen haben die betroffenen Kommunen drei verschiedene Varianten der Bildung der Zensus-Stadtteile gewählt:
+
+1. Aufteilung 1:1 nach den bestehenden Verwaltungsbezirken mit den entsprechenden sprechenden Namen der Stadtteile. Diese Variante haben Berlin und Hamburg gewählt und deshalb ist auch der einfache relative Stichprobenfehler für die einzelnen Stadtteile ausgewiesen.
+
+Beispiel:
+
+Gemeinde: Berlin, Stadt
+Stadtteilnummer: 06
+Stadtteilname: Berlin Steglitz-Zehlendorf
+Einfacher relativer Standardfehler des Stadtteils 06: 0,50
+
+2. Weitgehend frei zugeschnitten haben Duisburg, Frankfurt, München und Nürnberg ihre "Zensus-Stadtteile" mit der Folge, dass hier kein Name zur Zensus-Stadtteil-Nummer vorhanden ist und der einfache relative Stichprobenfehler nur der Zensus-Stadtteil-Nummer zugeordnet werden kann. Das führt dazu, dass nicht feststellbar ist, welchen Stichprobenfehler etwa der real existierende Stadtteil Bornheim aufweist, einfach deshalb, weil er nicht ermittelt wurde, sondern Bornheim oder Teile davon in den Zensus-Stadtteilen Frankfurts aufgegangen ist / sind. 
+
+Beispiel:
+
+Gemeinde: Frankfurt am Main, Stadt
+Stadtteilnummer: 01
+Einfacher relativer Standardfehler des Stadtteils 01: 0,56
+
+3. Alle übrigen betroffenen Gemeinden haben mehrere komplette Verwaltungseinheiten (reale Stadtteile) zu einer Zensus-Stadtteilnummer zusammengefasst. Hier können zwar die Namen der Stadtteile mitgeteilt werden, die zu einer Zensus-Stadtteil-Nummer gehören. Der Stichprobenfehler bezieht sich jedoch nur auf die Zensus-Stadtteil-Nummer, so dass auch hier keine Angaben zu Stichprobenfehlern für einzelne reale Stadtteile gemacht werden können.
+
+Beispiel:
+
+Gemeinde: Stuttgart
+Stadtteilnummer: 2
+Zugehörige Stadtteile: Bad Cannstadt, Botnang, Feuerbach, Hedelfingen, Mühlhausen, Obertürkheim, Stammheim, Untertürkheim, Wangen, Weilimdorf, Zuffenhausen
+Einfacher relativer Stichprobenfehler des Stadtteils 2: 0,73
+
+Dies führt dazu, dass nicht gesagt werden kann, in z.B. Untertürkheim läge der einfache relative Stichprobenfehler bei 0,73."

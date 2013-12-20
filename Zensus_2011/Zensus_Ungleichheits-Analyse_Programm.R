@@ -33,7 +33,7 @@
 # Per Default wird die Input-Datei mit den Zensustdaten, 'Zensus_GESAMT_latin1.csv',
 # automatisch von GitHub heruntergeladen. In der Variable daten.pfad
 # lässt sich aber auch ein Verzeichnispfad auf der eigenen Festplatte angeben
-daten.pfad <- 'https://raw.github.com/DerSpiegel/datenlese/master/Zensus_2011/Zensus_GESAMT_latin1.csv'
+daten.pfad <- 'http://data.demografie-blog.de/zensus-unzensiert/Zensus_GESAMT_latin1.csv'
 
 
 # WICHTIG: Pfad für Output-Dateien setzen

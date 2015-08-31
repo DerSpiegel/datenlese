@@ -2,7 +2,7 @@ The file PLZ_regions_Germany.geojson contains all German ZIP code areas as used 
 
 Geographic boundaries taken from [suche-postleitzahl.org](http://www.suche-postleitzahl.org/downloads), a frequently renewed collection of Open Street Map data (© OpenStreetMap contributors under Open Database Licence)
 
-Names taken from [ESRI / Nexiga GmbH](http://www.arcgis.com/home/item.html?id=8d58da2e71704bb79360a877ea0623b9) (© Nexiga GmbH 2012 under CC BY-NC License)
+Names taken from [OpenGeoDB](http://opengeodb.org/wiki/OpenGeoDB_Downloads) (Public Domain)
 
 Further names have been added manually. Geographic boundaries have been cleaned (slivers or gaps between polygons in OSM data) with GrassGIS v.clean as well as manually.
 

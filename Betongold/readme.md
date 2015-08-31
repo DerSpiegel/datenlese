@@ -1,4 +1,4 @@
-The file PLZ_regions_Germany.geojson contains all German ZIP code areas as used for the SPIEGEL ONLINE project [Betongold](spiegel.de/betongold)
+The file PLZ_regions_Germany.geojson contains all German ZIP code areas as used for the SPIEGEL ONLINE project [Betongold](http://www.spiegel.de/betongold)
 
 Geographic boundaries taken from [suche-postleitzahl.org](http://www.suche-postleitzahl.org/downloads), a frequently renewed collection of Open Street Map data (© OpenStreetMap contributors under Open Database Licence)
 

@@ -6,4 +6,4 @@ Names taken from [ESRI / Nexiga GmbH](http://www.arcgis.com/home/item.html?id=8d
 
 Further names have been added manually. Geographic boundaries have been cleaned (slivers or gaps between polygons in OSM data) with GrassGIS v.clean as well as manually.
 
-The data set might still posess some minor inaccuracies.
+The data set might still possess some minor inaccuracies.

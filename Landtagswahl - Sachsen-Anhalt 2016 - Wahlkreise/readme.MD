@@ -4,6 +4,7 @@ This repository host a .geojson-File with **electoral districts for 2016 state e
 The State's statistical office apparently was unable to provide valid geodata for the election.
 We were forced to manually combine spatial data from different administrative levels and redraw some boundaries by hand.
 
+Official dataset --> cleanded dataset
 ![pre](before.jpg?raw=true "official dataset")
 ![post](after.jpg?raw=true "cleaned dataset")
 

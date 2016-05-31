@@ -1,554 +1,554 @@
-﻿Von;Nach;Dringlichkeit;Link_Projektbeschreibung;Verkehrsträger;Stimmen;Quote_notwendig;notwendig_ja;notwendig_nein;notwendig_weiss_nicht;betroffen_häufig;betroffe_selten;betroffe_nie
-ABS Ulm - Friedrichshafen - Lindau (Südbahn);;VB;http://bvwp-projekte.de/schiene/2-001-V02/2-001-V02.html;schiene;310;0,926;287;19;4;168;117;25
-ABS/NBS Hanau - Würzburg / Fulda - Erfurt;;VB;http://bvwp-projekte.de/schiene/2-002-V02/2-002-V02.html;schiene;125;0,92;115;9;1;86;30;9
-Optimiertes Alpha-E;;VB;http://bvwp-projekte.de/schiene/2-003-V02/2-003-V02.html;schiene;328;0,808;265;56;7;176;104;48
-Korridor Mittelrhein: Zielnetz II;;PB;http://bvwp-projekte.de/schiene/2-004-V04/2-004-V04.html;schiene;545;0,864;471;53;21;317;162;66
-ABS/NBS Karlsruhe - Basel (BAB-Trasse);;VB;http://bvwp-projekte.de/schiene/2-005-V02/2-005-V02.html;schiene;360;0,958;345;12;3;224;123;13
-ABS/NBS Hanau - Fulda - Erfurt / Aschaffenburg - Nantenbach;;VB;http://bvwp-projekte.de/schiene/2-007-V01/2-007-V01.html;schiene;479;0,925;443;25;11;332;125;22
-ABS München - Mühldorf - Freilassing;;VB;http://bvwp-projekte.de/schiene/2-008-V02/2-008-V02.html;schiene;184;0,951;175;7;2;101;60;23
-ABS/NBS München - Rosenheim - Kiefersfelden - Grenze D/A (- Kufstein);;VB;http://bvwp-projekte.de/schiene/2-009-V03/2-009-V03.html;schiene;237;0,89;211;21;5;133;79;25
-ABS/NBS Nürnberg - Erfurt (VDE 8.1);;VB;http://bvwp-projekte.de/schiene/2-010-V02/2-010-V02.html;schiene;146;0,87;127;16;3;98;38;10
-ABS/NBS Hamburg - Lübeck - Puttgarden (Hinterlandanbindung FBQ);;VB;http://bvwp-projekte.de/schiene/2-011-V01/2-011-V01.html;schiene;371;0,852;316;49;6;149;172;50
-ABS Burgsinn - Gemünden - Würzburg - Nürnberg;;VB-E;http://bvwp-projekte.de/schiene/2-013-V01/2-013-V01.html;schiene;268;0,937;251;10;7;175;83;10
-ABS Nürnberg - Passau;;VB;http://bvwp-projekte.de/schiene/2-014-V01/2-014-V01.html;schiene;130;0,885;115;12;3;71;48;11
-ABS/NBS Hannover - Bielefeld;;VB;http://bvwp-projekte.de/schiene/2-016-V01/2-016-V01.html;schiene;357;0,608;217;132;8;179;96;82
-ABS Uelzen - Stendal - Magdeburg - Halle (Ostkorridor Nord);;VB-E;http://bvwp-projekte.de/schiene/2-018-V01/2-018-V01.html;schiene;213;0,873;186;20;7;104;81;28
-Rhein-Ruhr-Express (RRX): Köln - Düsseldorf - Dortmund/ Münster;;PB;http://bvwp-projekte.de/schiene/2-020-V02/2-020-V02.html;schiene;400;0,98;392;4;4;309;78;13
-ABS Grenze D/NL - Bad Bentheim - Löhne;;PB;http://bvwp-projekte.de/schiene/2-021-V01/2-021-V01.html;schiene;111;0,874;97;6;8;70;33;8
-ABS Hochstadt-Marktzeuln - Hof / Nürnberg - Bayreuth - Neuenmarkt-Wirsberg;;PB;http://bvwp-projekte.de/schiene/2-024-V01/2-024-V01.html;schiene;106;0,896;95;9;2;53;48;5
-ABS Dresden - Görlitz - Grenze D/PL;;PB;http://bvwp-projekte.de/schiene/2-029-V01/2-029-V01.html;schiene;110;0,909;100;5;5;59;43;8
-ABS Hannover - Berlin (Lehrter Stammbahn);;PB;http://bvwp-projekte.de/schiene/2-032-V01/2-032-V01.html;schiene;222;0,887;197;16;9;154;56;12
-ABS Stuttgart - Backnang - Nürnberg;;PB;http://bvwp-projekte.de/schiene/2-033-V01/2-033-V01.html;schiene;253;0,885;224;24;5;116;113;24
-ABS Weimar - Gera - Gößnitz;;PB;http://bvwp-projekte.de/schiene/2-038-V01/2-038-V01.html;schiene;116;0,966;112;3;1;69;39;8
-ABS Stuttgart - Singen - Grenze D/CH (Gäubahn);;PB;http://bvwp-projekte.de/schiene/2-040-V01/2-040-V01.html;schiene;314;0,924;290;14;10;182;115;17
-ABS/NBS Ulm - Augsburg;;PB;http://bvwp-projekte.de/schiene/2-041-V02/2-041-V02.html;schiene;174;0,954;166;8;;112;56;6
-ABS Hamburg - Ahrensburg;;PB;http://bvwp-projekte.de/schiene/2-044-V01/2-044-V01.html;schiene;124;0,935;116;5;3;71;47;6
-NBS Dresden - Prag;;PB;http://bvwp-projekte.de/schiene/2-045-V01/2-045-V01.html;schiene;137;0,847;116;17;4;68;63;6
-ABS Lehrte - Braunschweig - Magdeburg - Roßlau;;PB;http://bvwp-projekte.de/schiene/2-046-V01/2-046-V01.html;schiene;135;0,867;117;9;9;84;45;6
-ABS Cuxhaven - Stade;;PB;http://bvwp-projekte.de/schiene/2-047-V01/2-047-V01.html;schiene;106;0,877;93;12;1;52;39;15
-ABS Köln - Aachen;;PB;http://bvwp-projekte.de/schiene/2-048-V01/2-048-V01.html;schiene;124;0,919;114;7;3;81;39;4
-ABS Münster - Lünen;;PB;http://bvwp-projekte.de/schiene/2-049-V01/2-049-V01.html;schiene;195;0,949;185;6;4;123;60;12
-ABS Lübeck / Hagenow Land - Rostock - Stralsund;;FD;;schiene;210;0,852;179;21;10;99;86;25
-ABS Stelle - Lüneburg;;FD;;schiene;103;0,932;96;3;4;73;21;9
-ABS/NBS Nürnberg - Erfurt;;FD;;schiene;255;0,812;207;43;5;151;72;32
-NBS/ABS Erfurt - Leipzig / Halle;;FD;;schiene;140;0,843;118;21;1;81;44;15
-ABS Karlsruhe - Stuttgart - Nürnberg - Leipzig / Dresden;;FD;;schiene;261;0,95;248;9;4;154;93;14
-ABS Berlin - Frankfurt/Oder - Grenze D/PL;;FD;;schiene;219;0,863;189;18;12;97;90;32
-ABS Ludwigshafen - Saarbrücken, Kehl - Appenweier;;FD;;schiene;109;0,908;99;7;3;70;33;6
-ABS/NBS Stuttgart - Ulm - Augsburg;;FD;;schiene;557;0,67;373;173;11;305;210;42
-NBS/ABS Nürnberg - Ingolstadt - München;;FD;;schiene;141;0,943;133;5;3;99;38;4
-Ausbau von Knoten (Berlin, Dresden, Erfurt, Halle / Leipzig, Magdeburg);;FD;;schiene;182;0,956;174;8;;124;53;5
-ABS Oldenburg - Wilhelmshaven /Langwedel - Uelzen;;FD;;schiene;130;0,877;114;9;7;53;48;29
-ABS (Amsterdam -) Grenze D/NL - Emmerich - Oberhausen (1. u. 2. Baustufe);;FD;;schiene;137;0,854;117;14;6;61;56;20
-ABS Augsburg - München (2. Baustufe);;FD;;schiene;136;0,89;121;12;3;94;34;8
-ABS/NBS Karlsruhe - Offenburg - Freiburg - Basel (1. u. 2. Baustufe);;FD;;schiene;156;0,962;150;5;1;101;54;1
-ABS Berlin - Dresden (1. u. 2. Baustufe);;FD;;schiene;362;0,948;343;17;2;208;125;29
-ABS Berlin - Görlitz;;FD;;schiene;162;0,84;136;23;3;79;63;20
-ABS München - Lindau - Grenze D/A;;FD;;schiene;229;0,913;209;15;5;131;78;20
-AK Zehlendorf;AS Hüttenweg;WB*;http://bvwp-projekte.de/strasse/A115-G40-BE/A115-G40-BE.html;strasse;773;0,668;516;217;40;559;192;22
-AS Kelberg (B 410);AS Adenau (L10);VB;http://bvwp-projekte.de/strasse/A001-G10-NW-RP-T01-RP/A001-G10-NW-RP-T01-RP.html;strasse;416;0,933;388;22;6;281;119;16
-AS Adenau (L10);AS Lommersdorf (L115z);VB;http://bvwp-projekte.de/strasse/A001-G10-NW-RP-T02-NW-RP/A001-G10-NW-RP-T02-NW-RP.html;strasse;339;0,926;314;18;7;230;91;18
-AS Lommersdorf (L 115z);AS Blankenheim (B 51);VB;http://bvwp-projekte.de/strasse/A001-G10-NW-RP-T03-NW/A001-G10-NW-RP-T03-NW.html;strasse;156;0,929;145;9;2;109;38;9
-A 1;A 623;WB*;http://bvwp-projekte.de/strasse/A001-G10-SL/A001-G10-SL.html;strasse;144;0,715;103;32;9;98;31;15
-AK Biebelried (A 7);AK Fürth/Erlangen (A 73);FD-E;;strasse;1008;0,928;935;46;27;775;213;20
-AK Regensburg;AS Rosenhof;VB-E;http://bvwp-projekte.de/strasse/A003-G030-BY-T02-BY/A003-G030-BY-T02-BY.html;strasse;363;0,926;336;20;7;298;58;7
-AS Limburg-Süd;Wiesbadener Kreuz;WB;http://bvwp-projekte.de/strasse/A003-G20-HE-T1-HE/A003-G20-HE-T1-HE.html;strasse;256;0,797;204;37;15;208;45;3
-Wiesbadener Kreuz;AD Mönchhof;WB;http://bvwp-projekte.de/strasse/A003-G20-HE-T3-HE/A003-G20-HE-T3-HE.html;strasse;108;0,861;93;13;2;93;14;1
-AS Haiger/Burbach;AS Ehringshausen;VB-E;http://bvwp-projekte.de/strasse/A0045-G10-NW-HE-T01-HE/A0045-G10-NW-HE-T01-HE.html;strasse;214;0,836;179;30;5;163;45;6
-AS Ehringshausen;AK Wetzlarer Kreuz;VB-E;http://bvwp-projekte.de/strasse/A0045-G10-NW-HE-T02-HE/A0045-G10-NW-HE-T02-HE.html;strasse;115;0,861;99;12;4;86;27;2
-AK Wetzlarer Kreuz;AK Gießener Südkreuz;VB-E;http://bvwp-projekte.de/strasse/A0045-G10-NW-HE-T03-HE/A0045-G10-NW-HE-T03-HE.html;strasse;203;0,842;171;27;5;151;46;6
-AK Gießener Südkreuz;AK Gambach;VB-E;http://bvwp-projekte.de/strasse/A0045-G10-NW-HE-T04-HE/A0045-G10-NW-HE-T04-HE.html;strasse;153;0,876;134;15;4;133;20;
-AK Feuchtwangen;AS Roth;WB*;;strasse;364;0,909;331;20;13;269;90;5
-AK Nürnberg-S;AK Nürnberg-O;FD;;strasse;254;0,953;242;6;6;197;53;4
-AD Hittistetten;AS Illertissen;VB;http://bvwp-projekte.de/strasse/A007-G020-BY-BW-T01-BY/A007-G020-BY-BW-T01-BY.html;strasse;244;0,82;200;34;10;189;53;2
-AS Illertissen;AS Memmingen-S;WB*;http://bvwp-projekte.de/strasse/A007-G020-BY-BW-T02-BY/A007-G020-BY-BW-T02-BY.html;strasse;183;0,781;143;37;3;146;37;
-AK München-S;AS Holzkirchen;VB;http://bvwp-projekte.de/strasse/A008-G010-BY-T1-BY/A008-G010-BY-T1-BY.html;strasse;569;0,902;513;50;6;424;138;7
-AS Holzkirchen;AD Inntal;VB-E;http://bvwp-projekte.de/strasse/A008-G010-BY-T2-BY/A008-G010-BY-T2-BY.html;strasse;712;0,886;631;72;9;524;175;13
-AD Inntal;AS Traunstein/Siegsdorf;VB-E;http://bvwp-projekte.de/strasse/A008-G010-BY-T3-BY/A008-G010-BY-T3-BY.html;strasse;713;0,895;638;65;10;508;198;7
-AS Traunstein/Siegsdorf;Bgr. D/A;WB*;http://bvwp-projekte.de/strasse/A008-G010-BY-T4-BY/A008-G010-BY-T4-BY.html;strasse;331;0,924;306;21;4;238;89;4
-AK Nürnberg;AK Nürnberg-O;WB*;http://bvwp-projekte.de/strasse/A009-G010-BY/A009-G010-BY.html;strasse;257;0,825;212;30;15;207;49;1
-AD Holledau;AK Neufahrn;WB*;http://bvwp-projekte.de/strasse/A009-G020-BY/A009-G020-BY.html;strasse;475;0,88;418;44;13;391;79;5
-AS München-Frankfurter Ring;AS München-Schwabing;VB-E;http://bvwp-projekte.de/strasse/A009-G030-BY/A009-G030-BY.html;strasse;373;0,818;305;58;10;297;65;11
-AS Nürnberg-Hafen-O;AS Nürnberg-Zollhaus;VB-E;http://bvwp-projekte.de/strasse/A073-G020-BY-T01-BY/A073-G020-BY-T01-BY.html;strasse;308;0,883;272;30;6;245;60;3
-AS Nürnberg-Zollhaus;AK Nürnberg-S;VB-E;http://bvwp-projekte.de/strasse/A073-G020-BY-T02-BY/A073-G020-BY-T02-BY.html;strasse;138;0,87;120;13;5;109;24;5
-AD München-Feldmoching;AK Neufahrn;WB*;http://bvwp-projekte.de/strasse/A092-G010-BY/A092-G010-BY.html;strasse;209;0,804;168;38;3;167;39;3
-AK Neufahrn;AD Flughafen-München;VB-E;http://bvwp-projekte.de/strasse/A092-G020-BY/A092-G020-BY.html;strasse;247;0,765;189;50;8;207;38;2
-AS München-Steinhausen;AS Feldkirchen-West;VB-E;http://bvwp-projekte.de/strasse/A094-G010-BY/A094-G010-BY.html;strasse;307;0,746;229;66;12;228;72;7
-AK München-O;AS Markt Schwaben;VB-E;http://bvwp-projekte.de/strasse/A094-G020-BY/A094-G020-BY.html;strasse;200;0,775;155;36;9;164;32;4
-AK München-O;AS Pocking;VB;;strasse;284;0,901;256;21;7;205;67;12
-AS Wörthsee;AS Oberpfaffenhofen;VB-E;http://bvwp-projekte.de/strasse/A096-G010-BY-T01-BY/A096-G010-BY-T01-BY.html;strasse;253;0,83;210;32;11;201;49;3
-AS Oberpfaffenhofen;AS Germering-S;FD-E;;strasse;327;0,807;264;43;20;251;68;8
-AD München-SW;AK München-W;VB-E;http://bvwp-projekte.de/strasse/A099-G010-BY/A099-G010-BY.html;strasse;485;0,856;415;58;12;385;95;5
-AK München-W;AK München-N;VB-E;http://bvwp-projekte.de/strasse/A099-G020-BY/A099-G020-BY.html;strasse;559;0,916;512;41;6;473;81;5
-AK München-N;AK München-S;VB-E;;strasse;899;0,858;771;97;31;701;179;19
-AD Hamburg-SO;AS Hamburg-Stillhorn;VB;http://bvwp-projekte.de/strasse/A1-G10-HH-SH-NI-T03-HH/A1-G10-HH-SH-NI-T03-HH.html;strasse;403;0,913;368;24;11;305;88;10
-AS Hamburg-Stillhorn;Lgr. HH/NI;WB*;http://bvwp-projekte.de/strasse/A1-G10-HH-SH-NI-T04-HH/A1-G10-HH-SH-NI-T04-HH.html;strasse;126;0,897;113;9;4;92;32;2
-Lgr. HH/NI;Horster Dreieck;WB*;http://bvwp-projekte.de/strasse/A1-G10-HH-SH-NI-T05-NI/A1-G10-HH-SH-NI-T05-NI.html;strasse;232;0,897;208;20;4;183;45;4
-AS Münster-N;AS Greven;FD-E;;strasse;154;0,89;137;15;2;125;29;
-n DEK Brücke;AS Lengerich/Tecklenburg;FD-E;;strasse;100;0,93;93;3;4;82;16;2
-AK Kamen;n AS Hamm-Bockum/Werne;VB-E;http://bvwp-projekte.de/strasse/A1-G120-NW-T1-NW/A1-G120-NW-T1-NW.html;strasse;121;0,909;110;7;4;96;25;
-AS Hamm-BockumWerne;AS Ascheberg;VB-E;http://bvwp-projekte.de/strasse/A1-G120-NW-T2-NW/A1-G120-NW-T2-NW.html;strasse;171;0,906;155;10;6;138;31;2
-AS Ascheberg;DEK-Brücke;VB-E;http://bvwp-projekte.de/strasse/A1-G120-NW-T3-NW/A1-G120-NW-T3-NW.html;strasse;134;0,896;120;10;4;109;22;3
-AD Horster Dreieck (A 7);AD Buchholz (A 261);WB*;http://bvwp-projekte.de/strasse/A1-G20-NI/A1-G20-NI.html;strasse;188;0,851;160;23;5;140;41;7
-AK Bremen;Lgr. HB/NI;WB*;http://bvwp-projekte.de/strasse/A1-G30-NI-HB-T3-HB/A1-G30-NI-HB-T3-HB.html;strasse;175;0,806;141;25;9;145;29;1
-AS Gleuel;AK Köln-W;VB-E;http://bvwp-projekte.de/strasse/A1-G30-NW-T3-NW/A1-G30-NW-T3-NW.html;strasse;126;0,81;102;19;5;88;35;3
-AD Stuhr;AD Ahlhorner Heide;WB*;http://bvwp-projekte.de/strasse/A1-G40-NI/A1-G40-NI.html;strasse;189;0,899;170;16;3;148;40;1
-AS Lohne/Dinklage;AS Neuenkirchen/Vörden;VB-E;http://bvwp-projekte.de/strasse/A1-G50-NI-T1-NI/A1-G50-NI-T1-NI.html;strasse;204;0,946;193;9;2;171;31;2
-AS Neuenkirchen/Vörden;AS Bramsche;VB-E;http://bvwp-projekte.de/strasse/A1-G50-NI-T2-NI/A1-G50-NI-T2-NI.html;strasse;127;0,976;124;3;;102;23;2
-AS Schwerte;AK Dortmund/Unna;WB*;http://bvwp-projekte.de/strasse/A1-G60-NW-T3-NW/A1-G60-NW-T3-NW.html;strasse;139;0,791;110;26;3;110;28;1
-Köln/Niehl;AK Leverkusen;FD-E;;strasse;547;0,974;533;8;6;452;89;6
-AD Werder;AS Spandau;WB*;http://bvwp-projekte.de/strasse/A10-G10-BB-T1-BB/A10-G10-BB-T1-BB.html;strasse;353;0,722;255;83;15;232;112;9
-AS Spandau;AD Havelland;WB*;http://bvwp-projekte.de/strasse/A10-G10-BB-T2-BB/A10-G10-BB-T2-BB.html;strasse;222;0,743;165;45;12;141;77;4
-AD Pankow;AD Havelland;FD;;strasse;650;0,814;529;85;36;481;156;13
-AD Potsdam;AD Nuthetal;FD;;strasse;546;0,864;472;50;24;468;74;4
-AD Neukölln;Storkower Str. (A100);FD;;strasse;1692;0,622;1053;566;73;896;466;330
-AD Spreeau;AS Frankfurt (Oder)-M;WB;http://bvwp-projekte.de/strasse/A12-G10-BB/A12-G10-BB.html;strasse;236;0,792;187;42;7;167;64;5
-AK Schönefelder Kreuz;AD Spreewald;WB;http://bvwp-projekte.de/strasse/A13-G10-BB/A13-G10-BB.html;strasse;425;0,727;309;99;17;316;103;6
-AS Dahlenwarsleben;Wittenberge (Lgr. ST/BB);VB;http://bvwp-projekte.de/strasse/A14-G20-ST-BB-T1-ST/A14-G20-ST-BB-T1-ST.html;strasse;647;0,842;545;85;17;402;182;63
-Lgr. ST/BB;AS Karstädt;VB;http://bvwp-projekte.de/strasse/A14-G20-ST-BB-T2-BB/A14-G20-ST-BB-T2-BB.html;strasse;224;0,844;189;32;3;143;64;17
-A 24;Grabow;FD;;strasse;165;0,927;153;5;7;114;43;8
-AS Leipzig-O;AD Parthenaue;FD;;strasse;292;0,74;216;48;28;222;64;6
-Wolmirstedt;Lüderitz;FD;;strasse;301;0,88;265;28;8;196;79;26
-AS Halle/Neustadt;AD Halle-N;FD;;strasse;448;0,933;418;28;2;331;98;19
-AS Hannover-Herrenhausen;AD Hannover-W;WB;http://bvwp-projekte.de/strasse/A2-G11-NI-T3-NI/A2-G11-NI-T3-NI.html;strasse;161;0,882;142;14;5;136;25;
-Westerstede (A 28);Jaderberg (A29);VB;http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T1-NI/A20-G10-NI-SH-T1-NI.html;strasse;153;0,549;84;65;4;68;45;40
-Glückstadt (B 431);Hohenfelde (A 23);VB;http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T10-SH/A20-G10-NI-SH-T10-SH.html;strasse;454;0,828;376;68;10;234;149;71
-Drochtersen (K 28);Drochtersen (K 28) - Stade;VB;http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T11-NI/A20-G10-NI-SH-T11-NI.html;strasse;299;0,873;261;31;7;170;99;30
-Jaderberg (A 29);Schwei (B 437);VB;http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T2-NI/A20-G10-NI-SH-T2-NI.html;strasse;403;0,645;260;135;8;185;149;69
-Schwei (B 437);ö Weserquerung (L 121);VB;http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T3-NI/A20-G10-NI-SH-T3-NI.html;strasse;163;0,724;118;39;6;91;53;19
-ö Weserquerung (L 121);Heerstedt (B 71);VB;http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T4-NI/A20-G10-NI-SH-T4-NI.html;strasse;216;0,722;156;57;3;122;63;31
-Heerstedt (B 71);Bremervörde (B 495);VB;http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T5-NI/A20-G10-NI-SH-T5-NI.html;strasse;342;0,713;244;81;17;171;109;62
-Bremervörde (B 495);Elm (L 114);VB;http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T6-NI/A20-G10-NI-SH-T6-NI.html;strasse;227;0,696;158;58;11;101;86;40
-Elm (L 114);AD A 20/A 26 (ö Drochtersen);VB;http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T7-NI/A20-G10-NI-SH-T7-NI.html;strasse;364;0,764;278;78;8;186;117;61
-Drochtersen (Trog Süd);Glückstadt (B 431);VB;http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T9-NI-SH/A20-G10-NI-SH-T9-NI-SH.html;strasse;872;0,864;753;100;19;430;321;121
-Hohenfelde (A 23);L 114;VB;http://bvwp-projekte.de/strasse/A20-G10-SH-T1-SH/A20-G10-SH-T1-SH.html;strasse;362;0,837;303;49;10;188;121;53
-L 114;AK A 20/ A 7;VB;http://bvwp-projekte.de/strasse/A20-G10-SH-T2-SH/A20-G10-SH-T2-SH.html;strasse;460;0,828;381;61;18;255;143;62
-Weede;A 7;FD;;strasse;721;0,903;651;44;26;456;221;44
-AK Bargteheide;AK Schwarzenbek (A 21/A 24);VB;http://bvwp-projekte.de/strasse/A21-G20-SH-NI-T1-SH/A21-G20-SH-NI-T1-SH.html;strasse;465;0,888;413;41;11;298;147;20
-AK Schwarzenbek (A 24);AD Geesthacht (A 25);WB*;http://bvwp-projekte.de/strasse/A21-G20-SH-NI-T2-SH/A21-G20-SH-NI-T2-SH.html;strasse;188;0,894;168;17;3;109;64;15
-AS Rönne;AD Handorf (A 39);WB*;http://bvwp-projekte.de/strasse/A21-G20-SH-NI-T4-NI/A21-G20-SH-NI-T4-NI.html;strasse;188;0,872;164;17;7;120;62;6
-Kiel (mit Anschluss B 76);Stolpe;FD;;strasse;697;0,933;650;25;22;511;176;10
-AS Tornesch;AS Eidelstedt;VB-E;http://bvwp-projekte.de/strasse/A23-G10-SH-HH/A23-G10-SH-HH.html;strasse;603;0,841;507;77;19;450;143;10
-AS Kremmen;AS Neuruppin;WB*;http://bvwp-projekte.de/strasse/A24-G10-BB-T1-BB/A24-G10-BB-T1-BB.html;strasse;298;0,899;268;28;2;222;74;2
-AS Neuruppin;AD Wittstock/Dosse;WB*;http://bvwp-projekte.de/strasse/A24-G10-BB-T2-BB/A24-G10-BB-T2-BB.html;strasse;227;0,894;203;22;2;173;53;1
-OU Geesthacht;;VB;http://bvwp-projekte.de/strasse/A25_B5-G20-SH/A25_B5-G20-SH.html;strasse;146;0,849;124;20;2;84;54;8
-AK Hamburg-Süderelbe;AD/AS Hamburg-Stillhorn;VB;http://bvwp-projekte.de/strasse/A26-G10-HH/A26-G10-HH.html;strasse;692;0,906;627;48;17;434;213;45
-AD HH-Süderelbe (Moorburg);Rübke (Lgr. NI/HH);FD;;strasse;353;0,861;304;24;25;200;134;19
-Horneburg (K 36n);Rübke;FD;;strasse;332;0,961;319;6;7;236;85;11
-AK Bremen;AS HB-Überseestadt;VB-E;http://bvwp-projekte.de/strasse/A27-G10-HB-NI/A27-G10-HB-NI.html;strasse;399;0,659;263;109;27;314;76;9
-Weserquerung;;VB;http://bvwp-projekte.de/strasse/A281-G10-HB/A281-G10-HB.html;strasse;351;0,943;331;12;8;237;88;26
-Kattenturm;AS Bremen/Airport-Stadt;FD;;strasse;222;0,914;203;13;6;173;47;2
-AS Königsforst;AD Köln-Heumar (A 4);VB-E;http://bvwp-projekte.de/strasse/A3-G10-NW/A3-G10-NW.html;strasse;231;0,814;188;34;9;175;52;4
-AK Leverkusen (A 1);AK Langenfeld (A 542);VB-E;http://bvwp-projekte.de/strasse/A3-G20-NW-T1-NW/A3-G20-NW-T1-NW.html;strasse;222;0,869;193;23;6;184;34;4
-AK Langenfeld;AK Hilden;VB-E;http://bvwp-projekte.de/strasse/A3-G20-NW-T2-NW/A3-G20-NW-T2-NW.html;strasse;276;0,87;240;28;8;229;45;2
-AS Flughafen Stadt Frankfurt / Main;AD Mönchhof;VB-E;http://bvwp-projekte.de/strasse/A3-G30-HE-T04-HE/A3-G30-HE-T04-HE.html;strasse;440;0,845;372;59;9;363;72;5
-AK Offenbach;AK Frankfurter Kreuz;WB;http://bvwp-projekte.de/strasse/A3-G30-HE-T06-HE/A3-G30-HE-T06-HE.html;strasse;166;0,916;152;11;3;151;14;1
-AS Hanau;AK Offenbach;WB*;http://bvwp-projekte.de/strasse/A3-G30-HE-T08-HE/A3-G30-HE-T08-HE.html;strasse;297;0,933;277;12;8;247;47;3
-AK Hilden;AK Ratingen-O;VB-E;http://bvwp-projekte.de/strasse/A3-G30-NW/A3-G30-NW.html;strasse;207;0,918;190;14;3;182;24;1
-AK Ratingen-O;AK Breitscheid (A 52);VB-E;http://bvwp-projekte.de/strasse/A3-G40-NW/A3-G40-NW.html;strasse;150;0,893;134;11;5;127;21;2
-AK Breitscheid (A 52);AS Duisburg-Wedau;VB-E;http://bvwp-projekte.de/strasse/A3-G50-NW-T1-NW/A3-G50-NW-T1-NW.html;strasse;142;0,859;122;17;3;115;24;3
-w AS Wertheim (LGr. BW/BY);AS Weibersbrunn;FD;;strasse;285;0,944;269;12;4;235;46;4
-AK Leverkusen;;FD;;strasse;1403;0,957;1342;34;27;1207;176;20
-Würzburg-Heidingsfeld;Mainbrücke Randersacker;FD;;strasse;276;0,931;257;8;11;206;65;5
-ö AK Lotte/Osnabrück (Lgr. NI/NW);AK Osnabrück-S;VB-E;http://bvwp-projekte.de/strasse/A30-G10-NI-NW-T2-NI/A30-G10-NI-NW-T2-NI.html;strasse;231;0,831;192;31;8;186;41;4
-AK Löhne;Rehme m Abzw. A 30 Richtung Rehme;FD;;strasse;292;0,955;279;12;1;234;50;8
-Osnabrück/N (A 1);Osnabrück/Belm;VB;http://bvwp-projekte.de/strasse/A33-G10-NI/A33-G10-NI.html;strasse;290;0,797;231;55;4;202;63;25
-AS Osnabrück/ Schinkel;AS Osnabrück/Belm - OU Belm;FD;;strasse;113;0,876;99;11;3;92;17;4
-Bielefeld/Brackwede;AS Borgholzhausen (incl. Zubringer Ummeln);FD;;strasse;517;0,956;494;14;9;390;114;13
-AS Lüneburg-N (B 216);ö Lüneburg (B 216);VB;http://bvwp-projekte.de/strasse/A39-G10-NI-T1-NI/A39-G10-NI-T1-NI.html;strasse;135;0,837;113;20;2;99;26;10
-ö Lüneburg (B 216);Bad Bevensen (B 253);VB;http://bvwp-projekte.de/strasse/A39-G10-NI-T2-NI/A39-G10-NI-T2-NI.html;strasse;375;0,763;286;82;7;239;98;38
-Bad Bevensen (B 253);Uelzen (B 71);VB;http://bvwp-projekte.de/strasse/A39-G10-NI-T3-NI/A39-G10-NI-T3-NI.html;strasse;310;0,758;235;63;12;200;80;30
-Uelzen (B 71);Bad Bodenteich (L 265);VB;http://bvwp-projekte.de/strasse/A39-G10-NI-T4-NI/A39-G10-NI-T4-NI.html;strasse;233;0,794;185;47;1;146;67;20
-Bad Bodenteich (L 265);Wittingen (B 244);VB;http://bvwp-projekte.de/strasse/A39-G10-NI-T5-NI/A39-G10-NI-T5-NI.html;strasse;180;0,817;147;32;1;126;43;11
-Wittingen (B 244);Ehra (L 289);VB;http://bvwp-projekte.de/strasse/A39-G10-NI-T6-NI/A39-G10-NI-T6-NI.html;strasse;387;0,817;316;61;10;244;110;33
-Ehra (L 289);AS Weyhausen (B 188);VB;http://bvwp-projekte.de/strasse/A39-G10-NI-T7-NI/A39-G10-NI-T7-NI.html;strasse;384;0,807;310;68;6;269;89;26
-Str. Ðkm 349,850;Str. Ðkm 341,500;WB;http://bvwp-projekte.de/strasse/A4-G10-HE-TH-T4-HE/A4-G10-HE-TH-T4-HE.html;strasse;108;0,898;97;9;2;81;25;2
-AS Aachen-Laurensberg;AS Aachen-Zentrum;WB;http://bvwp-projekte.de/strasse/A4-G10-NW-T1/A4-G10-NW-T1.html;strasse;113;0,77;87;17;9;92;19;2
-AS Aachen-Zentrum;AK Aachen (A 44);WB;http://bvwp-projekte.de/strasse/A4-G10-NW-T2/A4-G10-NW-T2.html;strasse;201;0,846;170;26;5;174;25;2
-AK Köln-S (A 555);AK Köln-Gremberg (A 559);VB-E;http://bvwp-projekte.de/strasse/A4-G30-NW/A4-G30-NW.html;strasse;300;0,91;273;19;8;241;55;4
-AK Köln/Ost;AS Moitzfeld;VB-E;http://bvwp-projekte.de/strasse/A4-G60-NW-T1-NW/A4-G60-NW-T1-NW.html;strasse;387;0,832;322;56;9;301;79;7
-AK Köln-W (A 1);AK Köln-S (A 555);WB;http://bvwp-projekte.de/strasse/A4-G70-NW-T1-NW/A4-G70-NW-T1-NW.html;strasse;195;0,862;168;22;5;166;26;3
-Ausbau Hermsdorfer Kreuz;;FD;;strasse;203;0,842;171;21;11;170;33;
-AK Kaiserberg;AS Mülheim-Dümpten;VB-E;http://bvwp-projekte.de/strasse/A40-G30-NW-T1-NW/A40-G30-NW-T1-NW.html;strasse;141;0,929;131;10;;120;20;1
-AS Mülheim-Dümpten;AS Mülheim-Heißen;VB-E;http://bvwp-projekte.de/strasse/A40-G30-NW-T2-NW/A40-G30-NW-T2-NW.html;strasse;120;0,908;109;9;2;96;24;
-AS Mülheim-Heißen;AS Essen-Frohnhausen;VB-E;http://bvwp-projekte.de/strasse/A40-G30-NW-T3-NW/A40-G30-NW-T3-NW.html;strasse;144;0,903;130;9;5;122;18;4
-AS Bochum-Stahlhausen;AK Bochum (A 43);VB-E;http://bvwp-projekte.de/strasse/A40-G40-NW/A40-G40-NW.html;strasse;274;0,931;255;15;4;232;41;1
-AK Bochum (A 43);AK Dortmund-West (A 45);VB-E;http://bvwp-projekte.de/strasse/A40-G50-NW/A40-G50-NW.html;strasse;231;0,918;212;18;1;188;42;1
-AS Dortmund (L 660);AS Dortmund-Mitte (L 672);WB;http://bvwp-projekte.de/strasse/A40-G70-NW-T1-NW/A40-G70-NW-T1-NW.html;strasse;114;0,868;99;13;2;95;18;1
-AS Dortmund-Mitte (L 672);AS Dortmund-Ost (B 236);WB;http://bvwp-projekte.de/strasse/A40-G70-NW-T2-NW/A40-G70-NW-T2-NW.html;strasse;108;0,889;96;10;2;91;15;2
-AS Dortmund-Ost (B 236);AK Dortmund/Unna (A 1/A 44);VB-E;http://bvwp-projekte.de/strasse/A40-G70-NW-T3-NW/A40-G70-NW-T3-NW.html;strasse;269;0,844;227;36;6;220;48;1
-AS Essen-Altenessen;AS Gelsenkirchen-Schalke;VB-E;http://bvwp-projekte.de/strasse/A42-G30-NW-T2-NW/A42-G30-NW-T2-NW.html;strasse;130;0,931;121;7;2;108;21;1
-AS Gelsenkirchen-Schalke;AK Herne (A 43);VB-E;http://bvwp-projekte.de/strasse/A42-G30-NW-T3-NW/A42-G30-NW-T3-NW.html;strasse;122;0,91;111;9;2;95;25;2
-AS Bochum-Querenburg;AK Bochum (A 40);VB-E;http://bvwp-projekte.de/strasse/A43-G30-NW-T2-NW/A43-G30-NW-T2-NW.html;strasse;122;0,885;108;12;2;101;20;1
-AK Bochum (A 40);AS Bochum-Riemke;VB-E;http://bvwp-projekte.de/strasse/A43-G30-NW-T3-NW/A43-G30-NW-T3-NW.html;strasse;144;0,958;138;4;2;127;16;1
-AK Herne;AS Recklinghausen/Herten;FD;;strasse;159;0,95;151;7;1;138;20;1
-AS Broichweiden;AS Alsdorf;WB;http://bvwp-projekte.de/strasse/A44-G10-NW/A44-G10-NW.html;strasse;183;0,645;118;54;11;146;34;3
-Essen-Ruhralleetunnel;(L 925 - AS E.-Bergerhausen (A 52));WB*;http://bvwp-projekte.de/strasse/A44-G30-NW/A44-G30-NW.html;strasse;181;0,818;148;31;2;142;33;6
-AK Kassel-West;AD Kassel-Süd;VB;http://bvwp-projekte.de/strasse/A44-G60-NW-HE-T9-HE/A44-G60-NW-HE-T9-HE.html;strasse;200;0,795;159;34;7;153;43;4
-AS Unna-O;AK Werl;WB*;http://bvwp-projekte.de/strasse/A44-G70-NW-T2-NW/A44-G70-NW-T2-NW.html;strasse;128;0,922;118;6;4;108;20;
-AD Kassel-O;AD Wommen (A 4);FD;;strasse;422;0,858;362;42;18;266;123;33
-Düsseldorf/Ratingen (A 3);Velbert (B 227);FD;;strasse;290;0,81;235;39;16;185;84;21
-Bochum (L705,Sheffieldring);AK Bochum/Witten  (A 43);FD;;strasse;211;0,896;189;18;4;161;45;5
-AS Werl-N;AS Hamm/Rhynern;VB;http://bvwp-projekte.de/strasse/A445-G10-NW/A445-G10-NW.html;strasse;174;0,845;147;25;2;136;31;7
-AS Drolshagen;AS Meinerzhagen;VB;http://bvwp-projekte.de/strasse/A45-G10-NW-T3-NW/A45-G10-NW-T3-NW.html;strasse;109;0,789;86;18;5;73;31;5
-AS Lüdenscheid-N;AS Hagen-S;VB-E;http://bvwp-projekte.de/strasse/A45-G20-NW-T3-NW/A45-G20-NW-T3-NW.html;strasse;160;0,888;142;14;4;131;29;
-AK Hanauer Kreuz;Seligenstädter Dreieck;WB;http://bvwp-projekte.de/strasse/A45-G30-HE-BY-T1-HE-BY/A45-G30-HE-BY-T1-HE-BY.html;strasse;161;0,422;68;88;5;117;42;2
-AS Siegen;AS Freudenberg;VB;http://bvwp-projekte.de/strasse/A45-G50-NW-HE-T4-NW/A45-G50-NW-HE-T4-NW.html;strasse;115;0,904;104;7;4;89;23;3
-AS Freudenberg;AK Olpe;VB;http://bvwp-projekte.de/strasse/A45-G50-NW-HE-T5-NW/A45-G50-NW-HE-T5-NW.html;strasse;180;0,822;148;21;11;130;40;10
-AS Dortmund-Hafen;AK Dortmund-NW (A 2);VB-E;http://bvwp-projekte.de/strasse/A45-G60-NW-T2-NW/A45-G60-NW-T2-NW.html;strasse;102;0,775;79;20;3;85;17;
-AK Hagen (A 45);AK Westhofen (A 1);FD-E;;strasse;176;0,943;166;4;6;143;33;
-AS Hemer (B 7);AS Menden (B 515);VB;http://bvwp-projekte.de/strasse/A46-B7-G41-NW-T1-NW/A46-B7-G41-NW-T1-NW.html;strasse;126;0,825;104;21;1;82;38;6
-Menden;Wimbern;VB;http://bvwp-projekte.de/strasse/A46-B7-G41-NW-T2-NW/A46-B7-G41-NW-T2-NW.html;strasse;137;0,745;102;29;6;81;45;11
-AD Holz (A 44);AK Neuss-W (A 57);WB;http://bvwp-projekte.de/strasse/A46-G10-NW/A46-G10-NW.html;strasse;145;0,828;120;21;4;121;23;1
-AS Düsseldorf-Holthausen;AK Hilden (A 3);WB*;http://bvwp-projekte.de/strasse/A46-G20-NW/A46-G20-NW.html;strasse;219;0,849;186;27;6;182;33;4
-AS Bestwig;Bestwig/ Nuttlar  einschl. Zubringer  B 480n;FD;;strasse;103;0,942;97;6;;84;18;1
-Westring;AK Sonnborn (L 418);FD;;strasse;209;0,904;189;9;11;176;29;4
-AS Hemsbach;AK Weinheim;VB-E;http://bvwp-projekte.de/strasse/A5-G10-BW/A5-G10-BW.html;strasse;252;0,881;222;25;5;194;55;3
-AK Weinheim;AK Heidelberg;VB-E;http://bvwp-projekte.de/strasse/A5-G20-BW/A5-G20-BW.html;strasse;560;0,911;510;40;10;465;87;8
-AK Westkreuz;AK Frankfurter Kreuz;WB;http://bvwp-projekte.de/strasse/A5-G20-HE-T10-HE/A5-G20-HE-T10-HE.html;strasse;167;0,874;146;12;9;144;21;2
-AS Seeheim-Jugenheim;AK Darmstadt;VB-E;http://bvwp-projekte.de/strasse/A5-G20-HE-T14-HE/A5-G20-HE-T14-HE.html;strasse;308;0,899;277;27;4;261;44;3
-Lgr. HE/BW;AS Seeheim-Jugenheim;VB-E;http://bvwp-projekte.de/strasse/A5-G20-HE-T15-HE/A5-G20-HE-T15-HE.html;strasse;507;0,921;467;28;12;409;94;4
-AD Reiskirchen;AD A 5/A 49;VB;http://bvwp-projekte.de/strasse/A5-G20-HE-T2-HE/A5-G20-HE-T2-HE.html;strasse;414;0,949;393;15;6;327;84;3
-AK Gambach;AD Reiskirchen;WB;http://bvwp-projekte.de/strasse/A5-G20-HE-T3-HE/A5-G20-HE-T3-HE.html;strasse;167;0,85;142;22;3;129;36;2
-AS Friedberg;AK Gambach;WB;http://bvwp-projekte.de/strasse/A5-G20-HE-T4-HE/A5-G20-HE-T4-HE.html;strasse;223;0,91;203;16;4;194;28;1
-AK Bad Homburg;AS Friedberg;WB*;http://bvwp-projekte.de/strasse/A5-G20-HE-T5-HE/A5-G20-HE-T5-HE.html;strasse;213;0,915;195;14;4;168;42;3
-NWK Stadt Frankfurt / Main;AK Bad Homburg;WB*;http://bvwp-projekte.de/strasse/A5-G20-HE-T7-HE/A5-G20-HE-T7-HE.html;strasse;235;0,902;212;16;7;195;36;4
-AK Heidelberg;AS Walldorf/ Wiesloch;VB-E;http://bvwp-projekte.de/strasse/A5-G30-BW-T1-BW/A5-G30-BW-T1-BW.html;strasse;539;0,931;502;26;11;448;88;3
-AK Walldorf;AD Karlsruhe;WB*;http://bvwp-projekte.de/strasse/A5-G40-BW/A5-G40-BW.html;strasse;814;0,83;676;105;33;673;134;7
-AS Offenburg;AS Teningen;WB;http://bvwp-projekte.de/strasse/A5-G50-BW-T1-BW/A5-G50-BW-T1-BW.html;strasse;525;0,916;481;37;7;434;89;2
-AS Teningen;AS Freiburg-M;WB;http://bvwp-projekte.de/strasse/A5-G50-BWT2-BW/A5-G50-BWT2-BW.html;strasse;264;0,871;230;30;4;223;37;4
-AS Freiburg-M;AS Bad Krozingen;WB;http://bvwp-projekte.de/strasse/A5-G60-BW/A5-G60-BW.html;strasse;231;0,853;197;27;7;185;41;5
-AK Mönchengladbach;AK Neersen;WB;http://bvwp-projekte.de/strasse/A52-G10-NW-T2-NW/A52-G10-NW-T2-NW.html;strasse;153;0,948;145;5;3;140;13;
-AK Breitscheid (A 3);AS Essen-Kettwig;VB-E;http://bvwp-projekte.de/strasse/A52-G20-NW-T1-NW/A52-G20-NW-T1-NW.html;strasse;256;0,836;214;34;8;209;43;4
-AS Essen-Kettwig;AS Essen-Rüttenscheid (B 224);VB-E;http://bvwp-projekte.de/strasse/A52-G20-NW-T2-NW/A52-G20-NW-T2-NW.html;strasse;143;0,79;113;27;3;126;15;2
-AD Essen-Ost (A 40);AK Essen-Nord (A 42);WB*;http://bvwp-projekte.de/strasse/A52-G30-NW/A52-G30-NW.html;strasse;291;0,873;254;31;6;229;57;5
-AK Essen-N;s AD Essen/Gladbeck;VB-E;http://bvwp-projekte.de/strasse/A52-G60-NW-T1-NW/A52-G60-NW-T1-NW.html;strasse;191;0,89;170;18;3;149;40;2
-AK Essen/Gladbeck (A 2);AS Gelsenkirchen-Buer;VB;http://bvwp-projekte.de/strasse/A52-G70-NW/A52-G70-NW.html;strasse;101;0,851;86;15;;79;19;3
-AK Köln-Godorf;AD Köln-Lind;WB*;http://bvwp-projekte.de/strasse/A553-G10-NW-T2-NW/A553-G10-NW-T2-NW.html;strasse;335;0,854;286;38;11;224;80;31
-AD Köln-Porz (A 59);AK Köln-Gremberg (A 4);VB-E;http://bvwp-projekte.de/strasse/A559-G10-NW/A559-G10-NW.html;strasse;131;0,939;123;7;1;117;13;1
-AS Bonn/Hardtberg;AS Bonn-Poppelsdorf;WB*;http://bvwp-projekte.de/strasse/A565-G10-NW-T1-NW/A565-G10-NW-T1-NW.html;strasse;118;0,898;106;10;2;105;10;3
-AS Bonn/Poppelsdorf;AK Bonn/N;WB*;http://bvwp-projekte.de/strasse/A565-G10-NW-T2-NW/A565-G10-NW-T2-NW.html;strasse;104;0,904;94;7;3;95;7;2
-AK Bonn-N;AS Bonn-Beuel;WB*;http://bvwp-projekte.de/strasse/A565-G20-NW-T1-NW/A565-G20-NW-T1-NW.html;strasse;230;0,904;208;16;6;200;27;3
-AS Bickendorf;AK Köln-N (A 1);WB;http://bvwp-projekte.de/strasse/A57-G10-NW/A57-G10-NW.html;strasse;138;0,79;109;20;9;107;27;4
-AK Köln-N (A 1);AS Dormagen;VB-E;http://bvwp-projekte.de/strasse/A57-G20-NW-T1-NW/A57-G20-NW-T1-NW.html;strasse;279;0,907;253;20;6;221;55;3
-AS Dormagen;AD Neuss-S (A 46);VB-E;http://bvwp-projekte.de/strasse/A57-G20-NW-T2-NW/A57-G20-NW-T2-NW.html;strasse;165;0,873;144;16;5;138;26;1
-AS Krefeld-Oppum;AS Krefeld-Gartenstadt;VB-E;http://bvwp-projekte.de/strasse/A57-G60-NW-T2-NW/A57-G60-NW-T2-NW.html;strasse;172;0,948;163;6;3;146;24;2
-AS Krefeld-Gartenstadt;AK Moers (A 40);VB-E;http://bvwp-projekte.de/strasse/A57-G60-NW-T3-NW/A57-G60-NW-T3-NW.html;strasse;126;0,96;121;4;1;116;10;
-AD Bonn-NO (A 565);AD St. Augustin-W (A 560);VB-E;http://bvwp-projekte.de/strasse/A59-G20-NW/A59-G20-NW.html;strasse;181;0,939;170;9;2;167;14;
-AD Sankt Augustin/West (A 560);T+R-Anlage Liburer Heide;VB-E;http://bvwp-projekte.de/strasse/A59-G80-NW-T1-NW/A59-G80-NW-T1-NW.html;strasse;203;0,916;186;12;5;182;20;1
-T+R-Anlage Liburer Heide;AS Flughafen;VB-E;http://bvwp-projekte.de/strasse/A59-G80-NW-T2-NW/A59-G80-NW-T2-NW.html;strasse;188;0,904;170;12;6;164;21;3
-AS Flughafen;AD Köln-Porz (A 559);VB-E;http://bvwp-projekte.de/strasse/A59-G80-NW-T3-NW/A59-G80-NW-T3-NW.html;strasse;109;0,917;100;8;1;87;20;2
-AK Bonn-O (A 562);AS Bonn/Villich (AS Maarstraße);VB-E;http://bvwp-projekte.de/strasse/A59-G90-NW-T1-NW/A59-G90-NW-T1-NW.html;strasse;154;0,831;128;23;3;126;26;2
-AS Bonn/Villich (AS Maarstraße);AD Bonn-NO (A 565);VB-E;http://bvwp-projekte.de/strasse/A59-G90-NW-T2-NW/A59-G90-NW-T2-NW.html;strasse;127;0,819;104;18;5;107;16;4
-AK Mannheim;AS Schwetzingen/Hockenheim;VB-E;http://bvwp-projekte.de/strasse/A6-G10-BW/A6-G10-BW.html;strasse;539;0,889;479;47;13;418;116;5
-AD Hockenheim;AK Walldorf;WB*;http://bvwp-projekte.de/strasse/A6-G20-BW/A6-G20-BW.html;strasse;203;0,754;153;36;14;161;39;3
-AK Landstuhl;AS Kaiserslautern-W;WB;http://bvwp-projekte.de/strasse/A6-G20-RP/A6-G20-RP.html;strasse;134;0,754;101;27;6;113;21;
-AK Weinsberg;AS Kupferzell;WB*;http://bvwp-projekte.de/strasse/A6-G60-BW-BY-T1-BW/A6-G60-BW-BY-T1-BW.html;strasse;297;0,929;276;19;2;221;75;1
-AS Kupferzell;Lgr. BY/BW;WB*;http://bvwp-projekte.de/strasse/A6-G60-BW-BY-T2-BW/A6-G60-BW-BY-T2-BW.html;strasse;318;0,915;291;22;5;237;77;4
-AS Kaiserslautern/W;AS Kaiserslautern/O;FD;;strasse;190;0,947;180;3;7;154;35;1
-AD Mainspitz;AD Rüsselsheim;VB-E;http://bvwp-projekte.de/strasse/A60-G10-HE/A60-G10-HE.html;strasse;401;0,945;379;17;5;349;50;2
-AS Mainz-Finthen;AK Mainz-S;WB*;http://bvwp-projekte.de/strasse/A60-G30-RP-T2-RP/A60-G30-RP-T2-RP.html;strasse;143;0,895;128;14;1;122;21;
-AD Sinzig;AS Mendig;VB-E;http://bvwp-projekte.de/strasse/A61-G10-RP-T2-RP/A61-G10-RP-T2-RP.html;strasse;218;0,876;191;17;10;168;48;2
-AK Wanlo (A 46);AS Mönchengladbach-Nordpark;WB*;http://bvwp-projekte.de/strasse/A61-G40-NW/A61-G40-NW.html;strasse;101;0,832;84;13;4;83;17;1
-AD Nahetal;AS Gau-Bickelheim;VB;http://bvwp-projekte.de/strasse/A61-G40-RP-T1-RP/A61-G40-RP-T1-RP.html;strasse;119;0,689;82;31;6;86;31;2
-AS Gau-Bickelheim;AS Alzey;VB;http://bvwp-projekte.de/strasse/A61-G40-RP-T2-RP/A61-G40-RP-T2-RP.html;strasse;114;0,64;73;37;4;85;26;3
-AS Alzey;AS Mörstadt;VB;http://bvwp-projekte.de/strasse/A61-G40-RP-T3-RP/A61-G40-RP-T3-RP.html;strasse;130;0,677;88;37;5;102;27;1
-AS Mörstadt;AK Frankenthal;VB;http://bvwp-projekte.de/strasse/A61-G40-RP-T4-RP/A61-G40-RP-T4-RP.html;strasse;116;0,75;87;25;4;85;29;2
-AK Frankenthal;AK Mutterstadt;FD-E;;strasse;165;0,818;135;22;8;127;34;4
-AK Mutterstadt;AS Speyer;FD-E;;strasse;179;0,737;132;33;14;130;44;5
-AK Meckenheim;AK Bliesheim;VB;http://bvwp-projekte.de/strasse/A61-G60-NW/A61-G60-NW.html;strasse;262;0,866;227;28;7;205;55;2
-AS Rheinböllen;T+R-Anlage Hunsrück;FD;;strasse;140;0,836;117;12;11;109;27;4
-A 623;A 620;WB*;http://bvwp-projekte.de/strasse/A623-G10-SL/A623-G10-SL.html;strasse;183;0,798;146;32;5;137;42;4
-AS Klein-Winternheim;AS Saulheim;WB;http://bvwp-projekte.de/strasse/A63-G10-RP/A63-G10-RP.html;strasse;108;0,648;70;27;11;78;30;
-Biewertalbrücke;;FD;;strasse;194;0,876;170;11;13;148;43;3
-AK Wiesbaden-Schierstein;#NAME?;FD;;strasse;169;0,97;164;4;1;121;47;1
-AK Viernheimer Kreuz;AS Viernheim Ost;WB;http://bvwp-projekte.de/strasse/A659-G20-HE/A659-G20-HE.html;strasse;108;0,444;48;59;1;77;29;2
-AK Wiesbaden-Schierstein;Wiesbadener Kreuz;VB-E;http://bvwp-projekte.de/strasse/A66-G10-HE-T1-HE/A66-G10-HE-T1-HE.html;strasse;588;0,906;533;44;11;497;87;4
-Wiesbadener Kreuz;Nordwestkreuz Frankfurt;WB*;http://bvwp-projekte.de/strasse/A66-G10-HE-T2-HE/A66-G10-HE-T2-HE.html;strasse;279;0,828;231;40;8;248;28;3
-Nordwestkreuz Frankfurt;AS Frankfurt-Miquellallee;WB;http://bvwp-projekte.de/strasse/A66-G10-HE-T3-HE/A66-G10-HE-T3-HE.html;strasse;169;0,692;117;46;6;138;27;4
-Frankfurt/Erlenbruch;AS Frankfurt/Bergen-Enkheim;FD;;strasse;620;0,976;605;12;3;446;149;25
-AK Bad Homburger Kreuz;AS Offenbach-Kaiserlei;VB-E;http://bvwp-projekte.de/strasse/A661-G30-HE-T2-HE/A661-G30-HE-T2-HE.html;strasse;848;0,89;755;69;24;709;132;7
-AS Offenbach-Kaiserlei;AK Offenbacher Kreuz;WB*;http://bvwp-projekte.de/strasse/A661-G30-HE-T3-HE/A661-G30-HE-T3-HE.html;strasse;131;0,817;107;21;3;112;17;2
-AD Rüsselsheim;AD Mönchhof;VB-E;http://bvwp-projekte.de/strasse/A67-G10-HE-T1-HE/A67-G10-HE-T1-HE.html;strasse;245;0,935;229;14;2;209;36;
-AK Darmstadt;AD Rüsselsheim;VB-E;http://bvwp-projekte.de/strasse/A67-G10-HE-T2-HE/A67-G10-HE-T2-HE.html;strasse;374;0,794;297;62;15;289;81;4
-n AS Lorsch;AK Darmstadt;VB-E;http://bvwp-projekte.de/strasse/A67-G10-HE-T3-HE/A67-G10-HE-T3-HE.html;strasse;656;0,944;619;30;7;538;111;7
-Hochstraße Elbmarsch;;VB-E;http://bvwp-projekte.de/strasse/A7-G10-HH/A7-G10-HH.html;strasse;647;0,884;572;52;23;504;137;6
-AS Soltau-O;n AS Dorfmark;VB;http://bvwp-projekte.de/strasse/A7-G10-NI-T1-NI/A7-G10-NI-T1-NI.html;strasse;282;0,975;275;7;;223;56;3
-n AS Dorfmark;AS Fallingbostel;VB;http://bvwp-projekte.de/strasse/A7-G10-NI-T2-NI/A7-G10-NI-T2-NI.html;strasse;295;0,946;279;12;4;221;72;2
-AS Fallingbostel;AD Walsrode;FD;;strasse;259;0,958;248;6;5;206;53;
-AD Walsrode;AD Hannover-N;WB;http://bvwp-projekte.de/strasse/A7-G20-NI-T1-NI/A7-G20-NI-T1-NI.html;strasse;311;0,778;242;60;9;237;74;
-AS Hildesheim;AD Salzgitter;VB;http://bvwp-projekte.de/strasse/A7-G30-NI-T1-NI/A7-G30-NI-T1-NI.html;strasse;294;0,918;270;19;5;235;57;2
-AS Hamburg-Othmarschen;AD Hamburg/NW (A 23);FD-E;;strasse;527;0,882;465;45;17;437;87;3
-AS Göttingen;AD Salzgitter;FD;;strasse;422;0,917;387;18;17;328;88;6
-LGr. SH/HH;AD Bordesholm;FD;;strasse;1246;0,876;1091;81;74;930;267;49
-AD Hamburg/NW (A 23);LGr. SH/HH;FD;;strasse;161;0,876;141;15;5;138;20;3
-Borna-Nord;AD A 38/A 72;FD;;strasse;367;0,929;341;18;8;285;77;5
-AD Leonberg;AK Stuttgart;VB;http://bvwp-projekte.de/strasse/A8-G30-BW/A8-G30-BW.html;strasse;1062;0,972;1032;22;8;899;158;5
-AK Stuttgart;AS Stuttgart-Degerloch;VB-E;http://bvwp-projekte.de/strasse/A8-G40-BW/A8-G40-BW.html;strasse;1343;0,95;1276;50;17;1140;193;10
-AS Stuttgart-Degerloch;AS Esslingen;WB*;http://bvwp-projekte.de/strasse/A8-G50-BW-T1-BW/A8-G50-BW-T1-BW.html;strasse;467;0,85;397;54;16;394;67;6
-AS Esslingen;AS Wendlingen;WB*;http://bvwp-projekte.de/strasse/A8-G50-BW-T2-BW/A8-G50-BW-T2-BW.html;strasse;213;0,92;196;14;3;181;30;2
-AS Merzig/Wellingen;AS Merzig/ Schwemlingen;FD;;strasse;109;0,807;88;14;7;68;34;7
-AS Pforzheim-N;AS Pforzheim-S;FD-E;;strasse;716;0,971;695;9;12;595;117;4
-AS Mühlhausen;Hohenstadt;FD;;strasse;228;0,987;225;3;;199;28;1
-Hohenstadt;Ulm-West;FD;;strasse;649;0,96;623;12;14;518;120;11
-AS Pleidelsheim;AS Stuttgart-Zuffenhausen;WB*;http://bvwp-projekte.de/strasse/A81-G10-BW/A81-G10-BW.html;strasse;618;0,921;569;42;7;516;102;
-AK Weinsberg;AS Ilsfeld;WB*;http://bvwp-projekte.de/strasse/A81-G30-BW/A81-G30-BW.html;strasse;280;0,796;223;49;8;236;44;
-AK Stuttgart;AS Sindelfingen-Ost;VB;http://bvwp-projekte.de/strasse/A81-G50-BW/A81-G50-BW.html;strasse;790;0,956;755;23;12;670;112;8
-AS Böblingen-Hulb;AS Sindelfingen-O;FD-E;;strasse;848;0,95;806;24;18;731;107;10
-Freiburg;AS Freiburg-Mitte;VB;http://bvwp-projekte.de/strasse/A860_B31-G20-BW-T1-BW/A860_B31-G20-BW-T1-BW.html;strasse;902;0,915;825;61;16;755;134;13
-Kirchzarten;Buchenbach;VB;http://bvwp-projekte.de/strasse/A860_B31-G20-BW-T2-BW/A860_B31-G20-BW-T2-BW.html;strasse;458;0,725;332;92;34;327;125;6
-OU Hinterzarten;;WB;http://bvwp-projekte.de/strasse/A860_B31-G20-BW-T5-BW/A860_B31-G20-BW-T5-BW.html;strasse;214;0,748;160;39;15;148;63;3
-AS Forstinning;AS Marktl;FD;;strasse;570;0,877;500;54;16;386;154;30
-Rheinfelden - Schwörstadt;(Bergtrasse / BAB);VB;http://bvwp-projekte.de/strasse/A98-G100-BW-T1-BW/A98-G100-BW-T1-BW.html;strasse;241;0,938;226;13;2;174;56;11
-Schwörstadt -  Tiengen;(1. Fahrbahn);VB;http://bvwp-projekte.de/strasse/A98-G100-BW-T2-BW/A98-G100-BW-T2-BW.html;strasse;148;0,932;138;8;2;114;31;3
-AD Hochrhein;Rheinfelden- Karsau;FD;;strasse;178;0,938;167;9;2;134;39;5
-Friedrichshafen/Waggershausen;Friedrichshafen (B 30 alt);VB;http://bvwp-projekte.de/strasse/B31-G20-BW/B31-G20-BW.html;strasse;189;0,952;180;7;2;139;49;1
-OU Grenzach;;VB;http://bvwp-projekte.de/strasse/B34-G10-BW-T1-BW/B34-G10-BW-T1-BW.html;strasse;115;0,748;86;24;5;75;25;15
-OU Garmisch-Partenkirchen;;VB;http://bvwp-projekte.de/strasse/B002-G010-BY/B002-G010-BY.html;strasse;241;0,896;216;20;5;149;86;6
-Eschenlohe;Oberau-N;WB*;http://bvwp-projekte.de/strasse/B002-G020-BY/B002-G020-BY.html;strasse;153;0,941;144;9;;100;50;3
-Starnberg;(Entlastungstunnel);WB*;http://bvwp-projekte.de/strasse/B002-G050-BY/B002-G050-BY.html;strasse;283;0,848;240;37;6;223;54;6
-AS Friedberg;B 300;VB;http://bvwp-projekte.de/strasse/B002-G080-BY-T01-BY/B002-G080-BY-T01-BY.html;strasse;114;0,658;75;35;4;76;30;8
-OU Kissing;;VB;http://bvwp-projekte.de/strasse/B002-G080-BY-T03-BY/B002-G080-BY-T03-BY.html;strasse;163;0,632;103;53;7;92;51;20
-Kissing;Oberottmarshausen (B 17);VB;http://bvwp-projekte.de/strasse/B002-G080-BY-T04-BY/B002-G080-BY-T04-BY.html;strasse;107;0,533;57;46;4;55;39;13
-Flughafen Nürnberg;A 3;WB*;http://bvwp-projekte.de/strasse/B004-G010-BY/B004-G010-BY.html;strasse;248;0,56;139;101;8;88;89;71
-AD Neu-Ulm (B 28/B 30);ö Neu-Ulm;WB;http://bvwp-projekte.de/strasse/B010-G010-BY/B010-G010-BY.html;strasse;117;0,778;91;23;3;85;26;6
-Neu-Ulm;AS Nersingen (A 7);VB;http://bvwp-projekte.de/strasse/B010-G020-BY/B010-G020-BY.html;strasse;151;0,821;124;20;7;115;32;4
-Kempten (A 7);Kaufbeuren;WB*;http://bvwp-projekte.de/strasse/B012-G010-BY-T01-BY/B012-G010-BY-T01-BY.html;strasse;167;0,856;143;21;3;129;37;1
-Kaufbeuren;AS Jengen/Kaufbeuren (A 96);VB;http://bvwp-projekte.de/strasse/B012-G010-BY-T02-BY/B012-G010-BY-T02-BY.html;strasse;210;0,786;165;39;6;156;49;5
-AS Holzkirchen (A 8);B 13 (OU Holzkirchen);VB;http://bvwp-projekte.de/strasse/B013-G090-BY-T01-BY/B013-G090-BY-T01-BY.html;strasse;126;0,778;98;25;3;91;29;6
-OU Stein / Eibach;mit Rednitztunnel;VB;http://bvwp-projekte.de/strasse/B014-G010-BY-T05-BY/B014-G010-BY-T05-BY.html;strasse;159;0,629;100;54;5;77;64;18
-O-OU Landshut (A 92 - B 299);;VB;;strasse;289;0,782;226;60;3;178;84;27
-Landshut (A 92) - Rosenheim (A 8);(vorläufiges Dummy Projekt);WB*;;strasse;655;0,643;421;213;21;336;222;97
-St 2043;B 13;VB;http://bvwp-projekte.de/strasse/B016-G050-BY-T04-BY/B016-G050-BY-T04-BY.html;strasse;120;0,742;89;26;5;78;38;4
-AS Gallingkofen;AS Haslbach;VB;http://bvwp-projekte.de/strasse/B016-G070-BY/B016-G070-BY.html;strasse;140;0,807;113;20;7;88;44;8
-Aschaffenburg;B 469;VB;http://bvwp-projekte.de/strasse/B026-G010-BY/B026-G010-BY.html;strasse;139;0,755;105;30;4;105;28;6
-AK Schweinfurt/Werneck (A 7);Karlstadt;VB;http://bvwp-projekte.de/strasse/B026-G044-BY-T01-BY/B026-G044-BY-T01-BY.html;strasse;202;0,767;155;39;8;125;63;14
-Karlstadt;A 3;WB*;http://bvwp-projekte.de/strasse/B026-G044-BY-T02-BY/B026-G044-BY-T02-BY.html;strasse;197;0,695;137;53;7;104;71;22
-Tübingen (Bläsibad);B 28 (Schindhaubasistunnel);VB;http://bvwp-projekte.de/strasse/B027-G110-BW/B027-G110-BW.html;strasse;454;0,947;430;19;5;356;94;4
-Dotternhausen;Balingen;VB;http://bvwp-projekte.de/strasse/B027-G40-BW-T3-BW/B027-G40-BW-T3-BW.html;strasse;114;0,851;97;11;6;81;31;2
-Friedrichshafen (B 31);Ravensburg/Eschach;VB;http://bvwp-projekte.de/strasse/B030-G10-BW/B030-G10-BW.html;strasse;383;0,943;361;16;6;298;78;7
-Lgr. BW/BY;A 96;WB*;http://bvwp-projekte.de/strasse/B031-G010-BY/B031-G010-BY.html;strasse;212;0,91;193;17;2;147;61;4
-Immenstaad;Friedrichshafen/ Waggershausen;FD;;strasse;434;0,979;425;9;;332;99;3
-OU Ravensburg;(Molldiete-Tunnel);VB;http://bvwp-projekte.de/strasse/B032-G20-BW/B032-G20-BW.html;strasse;177;0,932;165;10;2;149;26;2
-OU Tasdorf;;VB;http://bvwp-projekte.de/strasse/B1-G10-BB/B1-G10-BB.html;strasse;100;0,75;75;21;4;54;37;9
-OU Salzkotten;;VB;http://bvwp-projekte.de/strasse/B1-G10-NW-T2-NW/B1-G10-NW-T2-NW.html;strasse;137;0,81;111;19;7;92;39;6
-Pforzheim/Eutingen;Niefern;VB;http://bvwp-projekte.de/strasse/B10-G10-BW/B10-G10-BW.html;strasse;199;0,824;164;25;10;135;60;4
-Hinterweidenthal;Hauenstein;VB;http://bvwp-projekte.de/strasse/B10-G11-RP-T1-RP/B10-G11-RP-T1-RP.html;strasse;169;0,834;141;26;2;121;46;2
-Hauenstein;Wellbachtal (B 48);VB;http://bvwp-projekte.de/strasse/B10-G11-RP-T2-RP/B10-G11-RP-T2-RP.html;strasse;230;0,839;193;34;3;167;60;3
-Wellbachtal (B 48);AS Annweiler-O;WB*;http://bvwp-projekte.de/strasse/B10-G11-RP-T3-RP/B10-G11-RP-T3-RP.html;strasse;188;0,835;157;29;2;154;33;1
-AS Annweiler-O;Godramstein;WB*;http://bvwp-projekte.de/strasse/B10-G11-RP-T4-RP/B10-G11-RP-T4-RP.html;strasse;199;0,784;156;40;3;153;45;1
-Godramstein;Landau (A 65);VB;http://bvwp-projekte.de/strasse/B10-G11-RP-T5-RP/B10-G11-RP-T5-RP.html;strasse;250;0,788;197;47;6;200;47;3
-OU Berghausen;;VB;http://bvwp-projekte.de/strasse/B10-G20-BW/B10-G20-BW.html;strasse;157;0,866;136;11;10;99;52;6
-Enzweihingen;Schwieberdingen;VB;http://bvwp-projekte.de/strasse/B10-G40-BW-T1-BW/B10-G40-BW-T1-BW.html;strasse;305;0,882;269;26;10;215;82;8
-Schwieberdingen;AS Stuttgart-Zuffenhausen (A 81);VB;http://bvwp-projekte.de/strasse/B10-G40-BW-T2-BW/B10-G40-BW-T2-BW.html;strasse;189;0,857;162;19;8;124;61;4
-AS Stuttgart-Zuffenhausen (A 81);AS Stuttgart-Neuwirtshaus;VB;http://bvwp-projekte.de/strasse/B10-G50-BW/B10-G50-BW.html;strasse;204;0,873;178;21;5;159;41;4
-Dreieck Stuttgart-Neckarpark;AS Stuttgart;VB;http://bvwp-projekte.de/strasse/B10-G60-BW-T1-BW/B10-G60-BW-T1-BW.html;strasse;304;0,836;254;37;13;221;73;10
-AS Stuttgart-Hafen-Süd;AS Esslingen-O;VB;http://bvwp-projekte.de/strasse/B10-G60-BW-T2-BW/B10-G60-BW-T2-BW.html;strasse;389;0,833;324;53;12;300;83;6
-AS Esslingen-Oberesslingen;Plochinger Dreieck;VB;http://bvwp-projekte.de/strasse/B10-G60-BW-T3-BW/B10-G60-BW-T3-BW.html;strasse;285;0,842;240;39;6;229;55;1
-Süßen-O;Gingen-O;FD;;strasse;132;0,962;127;1;4;89;41;2
-Gingen-O;Geislingen-M;VB;http://bvwp-projekte.de/strasse/B10-G80-BW-T1-BW/B10-G80-BW-T1-BW.html;strasse;237;0,983;233;2;2;164;70;3
-Geislingen-M;Geislingen-O;WB;http://bvwp-projekte.de/strasse/B10-G80-BW-T2-BW/B10-G80-BW-T2-BW.html;strasse;162;0,963;156;4;2;106;54;2
-OU Urspring;;VB;http://bvwp-projekte.de/strasse/B10-G80-BW-T4-BW/B10-G80-BW-T4-BW.html;strasse;114;0,86;98;12;4;61;48;5
-OU Freiberg;;VB;http://bvwp-projekte.de/strasse/B101-G60-SN-T3-SN/B101-G60-SN-T3-SN.html;strasse;200;0,74;148;43;9;127;53;20
-Trebbin;s Kerzendorf (OU Thyrow);FD;;strasse;126;0,857;108;9;9;92;27;7
-OU Mönchhagen;;VB;http://bvwp-projekte.de/strasse/B105-G10-MV/B105-G10-MV.html;strasse;352;0,821;289;49;14;226;107;19
-Südverbund Chemnitz;Ebersdorf;VB;http://bvwp-projekte.de/strasse/B107_B174-G20-SN-T2-SN/B107_B174-G20-SN-T2-SN.html;strasse;232;0,918;213;16;3;172;51;9
-OU Lühmannsdorf;;VB;http://bvwp-projekte.de/strasse/B111-G10-MV-T1-MV/B111-G10-MV-T1-MV.html;strasse;136;0,743;101;26;9;82;45;9
-OU Wolgast;;VB;http://bvwp-projekte.de/strasse/B111-G10-MV-T2-MV/B111-G10-MV-T2-MV.html;strasse;298;0,93;277;19;2;179;106;13
-Backnang-West;Nellmersbach;VB;;strasse;334;0,937;313;14;7;261;70;3
-OU Oppenweiler;;VB;http://bvwp-projekte.de/strasse/B14-G30-BW/B14-G30-BW.html;strasse;134;0,888;119;9;6;92;40;2
-OU Stockach;;VB;http://bvwp-projekte.de/strasse/B14-G50-BW/B14-G50-BW.html;strasse;104;0,808;84;16;4;65;32;7
-Westtangente Rosenheim;(1.-4.BA);FD;;strasse;204;0,838;171;26;7;115;77;12
-OU Ahrensfelde;;VB;http://bvwp-projekte.de/strasse/B158-G10-BB-BE/B158-G10-BB-BE.html;strasse;335;0,818;274;46;15;198;97;40
-OU Blumberg;;VB;http://bvwp-projekte.de/strasse/B158-G20-BB/B158-G20-BB.html;strasse;106;0,717;76;18;12;46;46;14
-Ergoldsbach;Essenbach (A 92);FD;;strasse;226;0,956;216;7;3;161;59;6
-OU Finowfurt;und OU Eberswalde;VB;http://bvwp-projekte.de/strasse/B167_B112-G40-BB-T8-BB/B167_B112-G40-BB-T8-BB.html;strasse;116;0,569;66;46;4;57;44;15
-AS Döbeln-Nord;Salbitz;VB;http://bvwp-projekte.de/strasse/B169-G30-SN-BB-T1-SN/B169-G30-SN-BB-T1-SN.html;strasse;106;0,84;89;14;3;64;35;7
-OU Pirna;;VB;http://bvwp-projekte.de/strasse/B172-G10-SN/B172-G10-SN.html;strasse;429;0,897;385;37;7;278;138;13
-Niederoderwitz;Zittau;FD;;strasse;175;0,937;164;10;1;121;47;7
-Nostitz;A 4;FD;;strasse;187;0,941;176;8;3;132;50;5
-w Leipzig;AS Leipzig-W (A 9);VB;http://bvwp-projekte.de/strasse/B181-G10-SN/B181-G10-SN.html;strasse;216;0,889;192;20;4;158;55;3
-OU Zöschen-Wallendorf;Merseburg;VB;http://bvwp-projekte.de/strasse/B181-G10-ST/B181-G10-ST.html;strasse;111;0,775;86;21;4;64;42;5
-Mirow;AS Wittstock/Dosse (A 19);VB;http://bvwp-projekte.de/strasse/B189n-G30-MV-BB/B189n-G30-MV-BB.html;strasse;101;0,584;59;37;5;48;31;22
-LGr. ST/NI;A 14;WB;http://bvwp-projekte.de/strasse/B190n-G10-ST-NI-T1-ST/B190n-G10-ST-NI-T1-ST.html;strasse;150;0,747;112;32;6;84;45;21
-OU Bergen;;VB;http://bvwp-projekte.de/strasse/B196-G10-MV/B196-G10-MV.html;strasse;212;0,797;169;35;8;107;92;13
-OU Handewitt;;VB;http://bvwp-projekte.de/strasse/B199-G10-SH/B199-G10-SH.html;strasse;215;0,674;145;47;23;108;80;27
-OU Malchow;;VB;http://bvwp-projekte.de/strasse/B2-G20-BE/B2-G20-BE.html;strasse;544;0,735;400;88;56;280;177;87
-Südspange Kiel;;VB;http://bvwp-projekte.de/strasse/B202-G20-SH/B202-G20-SH.html;strasse;290;0,886;257;22;11;192;81;17
-N-OU Itzehoe;;VB;http://bvwp-projekte.de/strasse/B206-G10-SH/B206-G10-SH.html;strasse;129;0,62;80;26;23;52;53;24
-Puttgarden;Heiligenhafen-Ost;FD;;strasse;392;0,758;297;78;17;157;186;49
-OU Ratzeburg;;VB;http://bvwp-projekte.de/strasse/B208-G20-SH/B208-G20-SH.html;strasse;112;0,705;79;24;9;57;44;11
-OU Aurich;;VB;http://bvwp-projekte.de/strasse/B210-G10-NI-T2-NI/B210-G10-NI-T2-NI.html;strasse;108;0,694;75;26;7;61;35;12
-Aurich;Riepe (A 31);VB;http://bvwp-projekte.de/strasse/B210-G10-NI-T3-NI/B210-G10-NI-T3-NI.html;strasse;187;0,695;130;45;12;99;59;29
-w Haselünne;Kgr. Emsland/Cloppenburg;VB;http://bvwp-projekte.de/strasse/B213-G10-NI-T3-NI/B213-G10-NI-T3-NI.html;strasse;117;0,795;93;22;2;84;28;5
-Kgr. Emsland/Cloppenburg;ö Löningen (OU Löningen);VB;http://bvwp-projekte.de/strasse/B213-G10-NI-T4-NI/B213-G10-NI-T4-NI.html;strasse;110;0,7;77;28;5;64;37;9
-OU BS-Watenbüttel;;VB;http://bvwp-projekte.de/strasse/B214-G70-NI/B214-G70-NI.html;strasse;236;0,831;196;33;7;168;55;13
-W-OU Garmisch-Partenkirchen;(mit Kramer-Tunnel);FD;;strasse;197;0,919;181;13;3;120;70;7
-OU Münchhausen/ Simtshausen/;und Todenhausen/ Wetter-Lahntal;FD;;strasse;186;0,903;168;15;3;130;52;4
-OU Hürth/Hermülheim;;FD;;strasse;114;0,886;101;9;4;82;30;2
-Donaueschingen;Hüfingen;FD;;strasse;105;0,819;86;14;5;73;29;3
-Bodelshausen (L 389);Nehren (L 394);VB;http://bvwp-projekte.de/strasse/B27-G30-BW/B27-G30-BW.html;strasse;253;0,937;237;14;2;195;55;3
-AS Leinfelden-Echterdingen-Nord;AS Aich;VB-E;http://bvwp-projekte.de/strasse/B27-G50-BW/B27-G50-BW.html;strasse;771;0,918;708;51;12;626;130;15
-AS Neckarsulm;B27/L1095;VB;http://bvwp-projekte.de/strasse/B27-G60-BW/B27-G60-BW.html;strasse;150;0,873;131;16;3;118;31;1
-OU Unterjesingen;;VB;http://bvwp-projekte.de/strasse/B28-G70-BW/B28-G70-BW.html;strasse;243;0,802;195;40;8;172;68;3
-Rottenburg;Tübingen (L 370 alt);FD;;strasse;199;0,799;159;34;6;129;64;6
-Hussenhofen;Böbingen;VB;http://bvwp-projekte.de/strasse/B29-G50-BW-T2-BW/B29-G50-BW-T2-BW.html;strasse;121;0,934;113;8;;95;25;1
-Böbingen;Mögglingen;VB;http://bvwp-projekte.de/strasse/B29-G50-BW-T3-BW/B29-G50-BW-T3-BW.html;strasse;144;0,958;138;4;2;118;25;1
-NO-Ring Stuttgart;(B 27 - B 14);WB*;http://bvwp-projekte.de/strasse/B29-G990-BW/B29-G990-BW.html;strasse;551;0,804;443;96;12;329;175;47
-OU Mögglingen;;FD;;strasse;226;0,978;221;3;2;165;61;
-OU Berghausen;;VB;http://bvwp-projekte.de/strasse/B293-G30-BW-T1-BW/B293-G30-BW-T1-BW.html;strasse;141;0,879;124;12;5;107;34;
-OU Jöhlingen;;VB;http://bvwp-projekte.de/strasse/B293-G30-BW-T2-BW/B293-G30-BW-T2-BW.html;strasse;150;0,847;127;18;5;108;38;4
-SW-OU Bretten;;VB;http://bvwp-projekte.de/strasse/B294-G20-BW/B294-G20-BW.html;strasse;102;0,853;87;13;2;71;24;7
-OU Winden;;FD;;strasse;126;0,905;114;10;2;78;44;4
-A 92;Landshut;WB*;http://bvwp-projekte.de/strasse/B299-G110-BY/B299-G110-BY.html;strasse;128;0,883;113;11;4;103;22;3
-Unterkochen;Ebnat;VB;http://bvwp-projekte.de/strasse/B29a-G30-BW/B29a-G30-BW.html;strasse;126;0,786;99;18;9;89;30;7
-Röttingen;Nördlingen;VB;http://bvwp-projekte.de/strasse/B29n-G50-BW-BY/B29n-G50-BW-BY.html;strasse;107;0,57;61;43;3;60;34;13
-OU Oberau;;FD;;strasse;186;0,946;176;7;3;121;61;4
-OU Karben/Okarben;;VB;http://bvwp-projekte.de/strasse/B3-G10-HE-T3-HE/B3-G10-HE-T3-HE.html;strasse;122;0,877;107;11;4;88;30;4
-OU Butzbach;(A 5 - Windhof);VB;http://bvwp-projekte.de/strasse/B3-G10-HE-T4-HE/B3-G10-HE-T4-HE.html;strasse;127;0,528;67;55;5;74;33;20
-B 535;L 594a (Wiesloch-N);VB;http://bvwp-projekte.de/strasse/B3-G20-BW/B3-G20-BW.html;strasse;225;0,716;161;51;13;168;54;3
-OU Celle (Mittelteil);;VB;http://bvwp-projekte.de/strasse/B3-G30-NI-T3-NI/B3-G30-NI-T3-NI.html;strasse;120;0,9;108;10;2;89;27;4
-OU Hemmingen;;FD;;strasse;179;0,771;138;33;8;114;52;13
-Biberach (Jordanbad);Hochdorf;VB;http://bvwp-projekte.de/strasse/B30-G30-BW/B30-G30-BW.html;strasse;178;0,854;152;18;8;135;43;
-OU Ravensburg/ Eschach;Baindt;FD;;strasse;206;0,956;197;6;3;167;36;3
-OU Eglharting/Kirchseeon (Süd);;WB;http://bvwp-projekte.de/strasse/B304-G010-BY-T01-BY/B304-G010-BY-T01-BY.html;strasse;114;0,693;79;30;5;72;30;12
-Überlingen/W;Überlingen/O;FD;;strasse;308;0,958;295;11;2;224;80;4
-Überlingen/O;Oberuhldingen;VB;http://bvwp-projekte.de/strasse/B31-G10-BW-T2-BW/B31-G10-BW-T2-BW.html;strasse;185;0,951;176;8;1;131;52;2
-Oberuhldingen;Meersburg/W;VB;http://bvwp-projekte.de/strasse/B31-G10-BW-T3-BW/B31-G10-BW-T3-BW.html;strasse;319;0,95;303;12;4;217;97;5
-Meersburg/W;Immenstaad;VB;http://bvwp-projekte.de/strasse/B31-G10-BW-T4-BW/B31-G10-BW-T4-BW.html;strasse;720;0,964;694;22;4;529;182;9
-Breisach;Freiburg;VB;http://bvwp-projekte.de/strasse/B31-G30-BW/B31-G30-BW.html;strasse;444;0,75;333;86;25;264;152;28
-Verlegung bei Lichtenstein;(Albaufstieg);VB;http://bvwp-projekte.de/strasse/B312-G20-BW-T01-BW/B312-G20-BW-T01-BW.html;strasse;167;0,916;153;12;2;117;48;2
-Ringschnait;Edenbachen;WB*;http://bvwp-projekte.de/strasse/B312-G30-BW/B312-G30-BW.html;strasse;118;0,932;110;8;;95;20;3
-OU Reutlingen;(Scheibengipfeltunnel);FD;;strasse;182;0,901;164;14;4;113;60;9
-Lörrach;Schopfheim;WB*;http://bvwp-projekte.de/strasse/B317-G10-BW/B317-G10-BW.html;strasse;142;0,704;100;33;9;97;42;3
-W-OU Gmund;;VB;http://bvwp-projekte.de/strasse/B318-G010-BY/B318-G010-BY.html;strasse;159;0,811;129;24;6;107;48;4
-BAB-Zubringer Schwerin;;FD;;strasse;126;0,841;106;15;5;97;26;3
-OU Elgersweier;;VB;http://bvwp-projekte.de/strasse/B33-G20-BW/B33-G20-BW.html;strasse;127;0,85;108;15;4;83;37;7
-OU Haslach;;VB;http://bvwp-projekte.de/strasse/B33-G40-BW/B33-G40-BW.html;strasse;102;0,941;96;6;;73;28;1
-OU Bruchsal-Ost;;VB;http://bvwp-projekte.de/strasse/B35-G10-BW/B35-G10-BW.html;strasse;147;0,762;112;26;9;83;51;13
-Wörth am Rhein (B 9);Lgr. RP/BW;VB;http://bvwp-projekte.de/strasse/B36_B293-G10-RP-BW-T1-RP/B36_B293-G10-RP-BW-T1-RP.html;strasse;313;0,863;270;36;7;227;72;14
-Lgr. RP/BW;B 10 (2. Rheinbrücke);VB;http://bvwp-projekte.de/strasse/B36_B293-G10-RP-BW-T2-BW/B36_B293-G10-RP-BW-T2-BW.html;strasse;435;0,846;368;58;9;307;116;12
-Querspange 2. Rheinbrücke Karlsruhe;;VB;http://bvwp-projekte.de/strasse/B36_B293-G10-RP-BW-T3-BW/B36_B293-G10-RP-BW-T3-BW.html;strasse;475;0,836;397;72;6;297;146;32
-OU Mörlenbach;;VB;http://bvwp-projekte.de/strasse/B38-G10-HE-T1-HE/B38-G10-HE-T1-HE.html;strasse;103;0,835;86;15;2;73;25;5
-N-OU Passau;;VB;http://bvwp-projekte.de/strasse/B388-G050-BY/B388-G050-BY.html;strasse;158;0,373;59;97;2;48;56;54
-n Rötgesbüttel;AS Meinerzhagen;VB-E;http://bvwp-projekte.de/strasse/B4-G20-NI-T1-NI/B4-G20-NI-T1-NI.html;strasse;296;0,912;270;21;5;225;63;8
-AS Braunschweig-Wenden;s Meine;VB-E;http://bvwp-projekte.de/strasse/B4-G20-NI-T2-NI/B4-G20-NI-T2-NI.html;strasse;145;0,917;133;10;2;106;32;7
-OU Schwarzenbach;und OU Schwarzenacker;VB;http://bvwp-projekte.de/strasse/B423-G10-SL/B423-G10-SL.html;strasse;125;0,664;83;25;17;66;42;17
-OU Glückstadt;;VB;http://bvwp-projekte.de/strasse/B431-G10-SH/B431-G10-SH.html;strasse;140;0,7;98;29;13;58;60;22
-Verlegung in Wedel;;VB;http://bvwp-projekte.de/strasse/B431-G20-SH/B431-G20-SH.html;strasse;112;0,741;83;22;7;69;37;6
-OU Wunstorf;;VB;http://bvwp-projekte.de/strasse/B441-G30-NI/B441-G30-NI.html;strasse;141;0,809;114;19;8;95;38;8
-OU Koldingen;;VB;http://bvwp-projekte.de/strasse/B443-G20-NI/B443-G20-NI.html;strasse;122;0,697;85;28;9;79;39;4
-Dieburg;Groß-Umstadt;VB;http://bvwp-projekte.de/strasse/B45-G10-HE/B45-G10-HE.html;strasse;138;0,797;110;26;2;92;43;3
-AS Friedberg;;VB;http://bvwp-projekte.de/strasse/B455-G20-HE/B455-G20-HE.html;strasse;101;0,871;88;12;1;82;17;2
-OU Wehrheim / Oberursel;;VB;http://bvwp-projekte.de/strasse/B456-G20-HE/B456-G20-HE.html;strasse;216;0,755;163;44;9;151;59;6
-Westtangente Pforzheim;1. BA (W-OU);VB;;strasse;226;0,876;198;18;10;149;65;12
-Westtangente Pforzheim;2. BA (W-OU);WB*;http://bvwp-projekte.de/strasse/B463-G10-BW-T2-BW/B463-G10-BW-T2-BW.html;strasse;119;0,874;104;11;4;76;37;6
-OU Reutlingen;;VB;http://bvwp-projekte.de/strasse/B464-G10-BW/B464-G10-BW.html;strasse;201;0,821;165;25;11;133;54;14
-OU Holzgerlingen;;FD;;strasse;205;0,888;182;15;8;147;50;8
-OU Owen;;VB;http://bvwp-projekte.de/strasse/B465-G10-BW/B465-G10-BW.html;strasse;106;0,726;77;23;6;58;38;10
-A 3;A 45;VB;http://bvwp-projekte.de/strasse/B469-G010-BY-HE/B469-G010-BY-HE.html;strasse;105;0,724;76;26;3;74;26;5
-O-OU Forchheim;;WB*;http://bvwp-projekte.de/strasse/B470-G030-BY/B470-G030-BY.html;strasse;103;0,689;71;30;2;65;31;7
-Dachau;A 92;VB;http://bvwp-projekte.de/strasse/B471-G020-BY/B471-G020-BY.html;strasse;148;0,818;121;22;5;114;32;2
-ö Ismaning;;VB;http://bvwp-projekte.de/strasse/B471-G050-BY/B471-G050-BY.html;strasse;105;0,81;85;14;6;72;27;6
-Mörfelden-Walldorf (A 5);OU Langen;VB;http://bvwp-projekte.de/strasse/B486-G20-HE-T1-HE/B486-G20-HE-T1-HE.html;strasse;249;0,863;215;30;4;191;52;6
-OU Mörfelden;;VB;http://bvwp-projekte.de/strasse/B486-G20-HE-T2-HE/B486-G20-HE-T2-HE.html;strasse;123;0,715;88;31;4;69;47;7
-AS Löhnberg;Kloster Altenberg;FD;;strasse;169;0,935;158;6;5;117;47;5
-OU Trier-Zewen;;VB;http://bvwp-projekte.de/strasse/B49n-G10-RP-T2-RP/B49n-G10-RP-T2-RP.html;strasse;109;0,835;91;12;6;83;24;2
-OU Hattstedt;Bredstedt;VB;http://bvwp-projekte.de/strasse/B5-G10-SH/B5-G10-SH.html;strasse;398;0,857;341;32;25;222;146;30
-A 1/A 60;Flughafen;FD;;strasse;325;0,711;231;74;20;174;105;46
-A 5;B 36;VB;http://bvwp-projekte.de/strasse/B500-G10-BW/B500-G10-BW.html;strasse;153;0,725;111;36;6;101;47;5
-Ostuferentlastungsstraße Kiel;;WB;http://bvwp-projekte.de/strasse/B502-G10-SH/B502-G10-SH.html;strasse;234;0,855;200;24;10;158;63;13
-Westumfahrung Trier;;VB;http://bvwp-projekte.de/strasse/B51-G20-RP/B51-G20-RP.html;strasse;260;0,827;215;39;6;181;55;24
-OU Köln/Meschenich;;VB;http://bvwp-projekte.de/strasse/B51-G50-NW-T1/B51-G50-NW-T1.html;strasse;116;0,914;106;8;2;80;32;4
-OU Konz-Könen;;FD;;strasse;117;0,829;97;12;8;68;40;9
-OU Hofheim / Kriftel;;VB;http://bvwp-projekte.de/strasse/B519-G10-HE-T2-HE/B519-G10-HE-T2-HE.html;strasse;224;0,509;114;102;8;110;62;52
-OU Münster;;FD;;strasse;283;0,866;245;29;9;212;64;7
-OU Villingen-Schwenningen;;VB;http://bvwp-projekte.de/strasse/B523-G10-BW/B523-G10-BW.html;strasse;106;0,849;90;13;3;70;29;7
-AS Münster/N;Altenberge (L 579);VB;http://bvwp-projekte.de/strasse/B54-G30-NW-T1-NW/B54-G30-NW-T1-NW.html;strasse;163;0,896;146;13;4;120;41;2
-Jülich;AS Düren (A 4);VB;http://bvwp-projekte.de/strasse/B56-G10-NW/B56-G10-NW.html;strasse;123;0,699;86;20;17;73;44;6
-AS Hardtberg (A 565);Bonn (B 9);WB*;http://bvwp-projekte.de/strasse/B56-G40-NW-T1-NW/B56-G40-NW-T1-NW.html;strasse;414;0,667;276;130;8;266;80;68
-Bonn/O (A 59);Birlinghoven/Dambroich;WB*;http://bvwp-projekte.de/strasse/B56-G40-NW-T2-NW/B56-G40-NW-T2-NW.html;strasse;364;0,538;196;158;10;203;89;72
-Hann.-Stöcken (K 321);Stöck;WB*;http://bvwp-projekte.de/strasse/B6-G20-NI/B6-G20-NI.html;strasse;139;0,878;122;16;1;111;26;2
-Verlegung in Dresden-Cossebaude;;VB;http://bvwp-projekte.de/strasse/B6-G20-SN/B6-G20-SN.html;strasse;349;0,865;302;31;16;201;129;19
-Rheda-Wiedenbrück (A 2);Gütersloh;VB;http://bvwp-projekte.de/strasse/B61-G10-NW-T1-NW/B61-G10-NW-T1-NW.html;strasse;100;0,82;82;13;5;80;18;2
-Gütersloh;Bielefeld/Ummeln;VB;http://bvwp-projekte.de/strasse/B61-G10-NW-T2-NW/B61-G10-NW-T2-NW.html;strasse;134;0,821;110;17;7;104;26;4
-Münster (B 481);ö Münster/Handorf;VB;http://bvwp-projekte.de/strasse/B64_B51-G10-NW-T1-NW/B64_B51-G10-NW-T1-NW.html;strasse;155;0,806;125;27;3;104;48;3
-OU Warendorf;;VB;http://bvwp-projekte.de/strasse/B64_B51-G10-NW-T3-NW/B64_B51-G10-NW-T3-NW.html;strasse;142;0,648;92;48;2;91;39;12
-Hannover (Riklinger Kreisel);AS Hannover-Anderten;WB;http://bvwp-projekte.de/strasse/B65-G40-NI-T4-NI/B65-G40-NI-T4-NI.html;strasse;350;0,871;305;36;9;272;73;5
-ö Sehnde;w Peine;VB;http://bvwp-projekte.de/strasse/B65-G60-NI/B65-G60-NI.html;strasse;259;0,714;185;48;26;149;90;20
-Bielefeld;;VB;http://bvwp-projekte.de/strasse/B66-G40-NW/B66-G40-NW.html;strasse;273;0,498;136;121;16;134;79;60
-Reken;Dülmen;VB;http://bvwp-projekte.de/strasse/B67_B474-G20-NW-T1-NW/B67_B474-G20-NW-T1-NW.html;strasse;155;0,858;133;13;9;110;35;10
-A 281;AS Bremen/Brinkum (Variante);VB;http://bvwp-projekte.de/strasse/B6n-G11-HB-NI-T1V-HB/B6n-G11-HB-NI-T1V-HB.html;strasse;221;0,91;201;15;5;159;57;5
-OU Weimar-Ost;;VB;http://bvwp-projekte.de/strasse/B7-G10-TH-T1-TH/B7-G10-TH-T1-TH.html;strasse;162;0,759;123;35;4;102;43;17
-Nohra;Weimar;VB;http://bvwp-projekte.de/strasse/B7-G10-TH-T2-TH/B7-G10-TH-T2-TH.html;strasse;130;0,654;85;36;9;93;30;7
-Mönchenholzhausen;Nohra;VB;http://bvwp-projekte.de/strasse/B7-G10-TH-T3-TH/B7-G10-TH-T3-TH.html;strasse;145;0,69;100;37;8;93;48;4
-Bestwig/Nuttlar (A 46);Brilon (B 480n);VB;http://bvwp-projekte.de/strasse/B7_B480-G10-NW-T1-NW/B7_B480-G10-NW-T1-NW.html;strasse;127;0,858;109;17;1;83;42;2
-Otterndorf;Cadenberge;VB;http://bvwp-projekte.de/strasse/B73-G20-NI-T1-NI/B73-G20-NI-T1-NI.html;strasse;109;0,743;81;22;6;60;38;11
-OU Cadenberge;;VB;http://bvwp-projekte.de/strasse/B73-G20-NI-T2-NI/B73-G20-NI-T2-NI.html;strasse;102;0,833;85;12;5;56;35;11
-Cadenberge;Drochtersen (A 20/A 26);WB*;http://bvwp-projekte.de/strasse/B73-G20-NI-T3-NI/B73-G20-NI-T3-NI.html;strasse;223;0,821;183;32;8;121;77;25
-OU Ritterhude;;VB;http://bvwp-projekte.de/strasse/B74-G10-NI/B74-G10-NI.html;strasse;103;0,573;59;34;10;45;38;20
-OU Wolfenbüttel;;VB;http://bvwp-projekte.de/strasse/B79-G20-NI/B79-G20-NI.html;strasse;148;0,574;85;51;12;81;50;17
-Dinslaken (A 59);Friedrichsfeld (K 12);VB;http://bvwp-projekte.de/strasse/B8-G10-NW-T1-NW/B8-G10-NW-T1-NW.html;strasse;101;0,752;76;24;1;62;37;2
-OU Hennef/Uckerath;;VB;http://bvwp-projekte.de/strasse/B8-G20-NW/B8-G20-NW.html;strasse;127;0,748;95;27;5;91;29;7
-Leipzig (A 14);Eilenburg (Variante Nord);WB*;http://bvwp-projekte.de/strasse/B87-G21-SN-BB-T1-SN/B87-G21-SN-BB-T1-SN.html;strasse;118;0,695;82;27;9;71;39;8
-Eilenburg;w Torgau;WB*;http://bvwp-projekte.de/strasse/B87-G21-SN-BB-T2-SN/B87-G21-SN-BB-T2-SN.html;strasse;131;0,817;107;21;3;86;37;8
-OU Rothenstein;;FD;;strasse;151;0,874;132;12;7;110;38;3
-Westtangente Krefeld;(B 57 - B 9);VB;http://bvwp-projekte.de/strasse/B9-G10-NW/B9-G10-NW.html;strasse;121;0,661;80;30;11;69;42;10
-Traßdorf (A 71);Nahwinden;FD;;strasse;187;0,802;150;19;18;107;58;22
-OU Thum/Ehrenfriedersdorf;;VB;http://bvwp-projekte.de/strasse/B95-G10-SN-T2-SN/B95-G10-SN-T2-SN.html;strasse;111;0,757;84;21;6;77;26;8
-OU Teschendorf;und OU Löwenberg;VB;http://bvwp-projekte.de/strasse/B96-G10-BB-T1-BB/B96-G10-BB-T1-BB.html;strasse;224;0,839;188;25;11;150;65;9
-OU Gransee;und OU Altlüdersdorf;VB;http://bvwp-projekte.de/strasse/B96-G10-BB-T2-BB/B96-G10-BB-T2-BB.html;strasse;119;0,882;105;10;4;93;21;5
-OU Fürstenberg;;VB;http://bvwp-projekte.de/strasse/B96-G10-BB-T3-BB/B96-G10-BB-T3-BB.html;strasse;159;0,906;144;12;3;114;41;4
-AS Altefähr;Bergen;FD;;strasse;224;0,871;195;28;1;139;74;11
-OU Ottendorf-Okrilla mit AS;;VB;http://bvwp-projekte.de/strasse/B97-G10-SN/B97-G10-SN.html;strasse;157;0,611;96;46;15;77;60;20
-OU Nierstein (B 9);;VB;http://bvwp-projekte.de/strasse/B9n-G10-RP-T1-RP/B9n-G10-RP-T1-RP.html;strasse;124;0,855;106;15;3;99;24;1
-AS Neuental;AS Schwalmstadt;FD;;strasse;148;0,872;129;19;;104;36;8
-AS Schwalmstadt;AD A 5/A 49;FD;;strasse;488;0,863;421;52;15;327;122;39
-AD Barnim;Lgr. BB/BE;FD;;strasse;236;0,822;194;31;11;169;59;8
-Konstanz (Landeplatz);Allensbach/W;FD;;strasse;456;0,956;436;14;6;372;78;6
-AS Wiesloch /Rauenberg;AK Weinsberg;FD-E;;strasse;694;0,967;671;13;10;585;106;3
-AK Wiesbaden/ Schierstein;#NAME?;FD;;strasse;473;0,977;462;9;2;391;77;5
-w Nordgoltern;ö Everloh;WB;http://bvwp-projekte.de/strasse/B65-G40-NI-T2-NI/B65-G40-NI-T2-NI.html;strasse;116;0,672;78;31;7;77;31;8
-Schwörstadt -  Tiengen;(2. Fahrbahn);WB*;http://bvwp-projekte.de/strasse/A98-G100-BW-T3-BW/A98-G100-BW-T3-BW.html;strasse;286;0,899;257;24;5;215;57;14
-Bau von sieben 2. Schleusenkammern an der Mosel;;VB;http://bvwp-projekte.de/wasserstrasse/w28/w28.html;wasser;103;0,524;54;37;12;24;20;59
-Verlängerung der Neckarschleusen von Mannheim bis Plochingen;;VB;http://bvwp-projekte.de/wasserstrasse/w29/w29.html;wasser;215;0,577;124;65;26;36;41;138
-VDE 17 (Hannover - Magdeburg - Berlin);;FD;;wasser;123;0,585;72;38;13;28;26;69
-Vertiefung des NOK;;VB-E;http://bvwp-projekte.de/wasserstrasse/w02/w02.html;wasser;344;0,93;320;13;11;97;82;165
-Ausbau der Donau im Abschnitt Straubing-Vilshofen (Variante A);;VB;http://bvwp-projekte.de/wasserstrasse/w31/w31.html;wasser;133;0,301;40;79;14;22;24;87
-Fahrrinnenvertiefung des Untermains bis Aschaffenburg;;VB-E;http://bvwp-projekte.de/wasserstrasse/w30/w30.html;wasser;114;0,491;56;33;25;21;18;75
-Ausbau des Elbe-Lübeck-Kanals;;VB;http://bvwp-projekte.de/wasserstrasse/w33/w33.html;wasser;139;0,475;66;55;18;27;39;73
-Aubau der Havel-Oder-Wassestraße;;VB;http://bvwp-projekte.de/wasserstrasse/w37/w37.html;wasser;127;0,583;74;36;17;23;28;76
-Fahrrinnenanpassung der Unter- und Außenelbe;;FD;;wasser;283;0,629;178;94;11;85;75;123
-Knoten Frankfurt;;VB-E;http://bvwp-projekte.de/schiene/K-001-V01/K-001-V01.html;schiene;191;0,953;182;4;5;164;23;4
-Knoten Hamburg;;VB-E;http://bvwp-projekte.de/schiene/K-002-V01/K-002-V01.html;schiene;200;0,94;188;6;6;165;27;8
-Knoten Köln;;VB-E;http://bvwp-projekte.de/schiene/K-003-V01/K-003-V01.html;schiene;271;0,937;254;7;10;219;48;4
-Knoten München;;VB-E;http://bvwp-projekte.de/schiene/K-005-V01/K-005-V01.html;schiene;156;0,859;134;17;5;138;14;4
-AD Hannover-W;;VB;;strasse;572;0,731;418;99;55;430;114;28
-AK Hannover-Buchholz;;VB;http://bvwp-projekte.de/strasse/A2-G11-NI-T6-NI/A2-G11-NI-T6-NI.html;strasse;703;0,676;475;137;91;518;141;44
-AK Osnabrück-S;;VB;http://bvwp-projekte.de/strasse/A30-G10-NI-NW-T3-NI/A30-G10-NI-NW-T3-NI.html;strasse;367;0,722;265;55;47;261;84;22
-AD Salzgitter;;FD;;strasse;492;0,608;299;99;94;257;159;76
-AK Oberhausen;;VB;http://bvwp-projekte.de/strasse/A3-G70-NW-T3-NW/A3-G70-NW-T3-NW.html;strasse;198;0,823;163;26;9;174;17;7
-AD Bottrop;;VB;http://bvwp-projekte.de/strasse/A2-G10-NW/A2-G10-NW.html;strasse;267;0,693;185;53;29;197;58;12
-AK Herne;;VB;http://bvwp-projekte.de/strasse/A43-G30-NW-T5-NW/A43-G30-NW-T5-NW.html;strasse;354;0,876;310;27;17;288;58;8
-AK Dortmund/Unna;n AS Unna-Zentrum;VB;http://bvwp-projekte.de/strasse/A1-G100-NW-T1-NW/A1-G100-NW-T1-NW.html;strasse;409;0,804;329;55;25;317;82;10
-AK Moers (A 40);;VB;http://bvwp-projekte.de/strasse/A57-G50-NW-T1-NW/A57-G50-NW-T1-NW.html;strasse;275;0,822;226;33;16;214;56;5
-AK Duisburg-N (A 42);;VB;http://bvwp-projekte.de/strasse/A59-G70-NW-T3-NW/A59-G70-NW-T3-NW.html;strasse;234;0,803;188;30;16;174;49;11
-AK Kaiserberg (A 40);;VB;http://bvwp-projekte.de/strasse/A3-G60-NW-T1-NW/A3-G60-NW-T1-NW.html;strasse;572;0,857;490;44;38;469;74;29
-AK Westhofen;;VB;http://bvwp-projekte.de/strasse/A1-G60-NW-T1-NW/A1-G60-NW-T1-NW.html;strasse;377;0,828;312;43;22;306;60;11
-AK Wuppertal-N;;VB;http://bvwp-projekte.de/strasse/A1-G50-NW/A1-G50-NW.html;strasse;378;0,783;296;51;31;295;68;15
-AK Kaarst;;VB;http://bvwp-projekte.de/strasse/A57-G30-NW/A57-G30-NW.html;strasse;453;0,848;384;41;28;340;102;11
-AK Hilden;;VB;http://bvwp-projekte.de/strasse/A3-G20-NW-T3-NW/A3-G20-NW-T3-NW.html;strasse;581;0,835;485;59;37;476;97;8
-AK Köln-N (A 57);;FD;;strasse;712;0,83;591;64;57;562;138;12
-AK Köln-S (A 555);;VB;http://bvwp-projekte.de/strasse/A4-G70-NW-T2-NW/A4-G70-NW-T2-NW.html;strasse;636;0,858;546;55;35;526;103;7
-AK Köln-Godorf (A 555);;WB*;http://bvwp-projekte.de/strasse/A553-G10-NW-T1-NW/A553-G10-NW-T1-NW.html;strasse;222;0,775;172;35;15;171;47;4
-AK Bonn/N (A 555);;WB*;http://bvwp-projekte.de/strasse/A565-G10-NW-T3-NW/A565-G10-NW-T3-NW.html;strasse;459;0,837;384;47;28;388;62;9
-AK Bad Homburg;;VB;http://bvwp-projekte.de/strasse/A5-G20-HE-T6-HE/A5-G20-HE-T6-HE.html;strasse;576;0,83;478;63;35;472;93;11
-NWK Frankfurt;;VB;http://bvwp-projekte.de/strasse/A5-G20-HE-T8-HE/A5-G20-HE-T8-HE.html;strasse;644;0,859;553;49;42;554;76;14
-Wiesbadener Kreuz;;WB;http://bvwp-projekte.de/strasse/A003-G20-HE-T2-HE/A003-G20-HE-T2-HE.html;strasse;270;0,804;217;37;16;224;40;6
-AK Offenbacher Kreuz;;VB;http://bvwp-projekte.de/strasse/A3-G30-HE-T07-HE/A3-G30-HE-T07-HE.html;strasse;750;0,845;634;76;40;623;102;25
-AK Darmstadt;;VB;http://bvwp-projekte.de/strasse/A5-G20-HE-T13-HE/A5-G20-HE-T13-HE.html;strasse;699;0,805;563;79;57;576;101;22
-AK Frankenthal;;FD-E;;strasse;390;0,664;259;62;69;227;123;40
-AK Nürnberg-O;;VB;http://bvwp-projekte.de/strasse/A006-G020-BY/A006-G020-BY.html;strasse;861;0,806;694;77;90;598;207;56
-AK Walldorf;AS Walldorf/ Wiesloch;VB;http://bvwp-projekte.de/strasse/A5-G30-BW-T2-BW/A5-G30-BW-T2-BW.html;strasse;968;0,816;790;99;79;723;212;33
-AS Thalmässing (A 9);;WB;http://bvwp-projekte.de/strasse/B131-G010-BY-T01-BY/B131-G010-BY-T01-BY.html;strasse;103;0,388;40;40;23;48;31;24
-AD Köln-Lind(A 59);;WB*;http://bvwp-projekte.de/strasse/A553-G10-NW-T3-NW/A553-G10-NW-T3-NW.html;strasse;223;0,83;185;22;16;165;48;10
+﻿Von,Nach,Dringlichkeit,Link_Projektbeschreibung,Verkehrsträger,Stimmen,Quote_notwendig,notwendig_ja,notwendig_nein,notwendig_weiss_nicht,betroffen_häufig,betroffe_selten,betroffe_nie
+ABS Ulm - Friedrichshafen - Lindau (Südbahn),,VB,http://bvwp-projekte.de/schiene/2-001-V02/2-001-V02.html,schiene,310,0.926,287,19,4,168,117,25
+ABS/NBS Hanau - Würzburg / Fulda - Erfurt,,VB,http://bvwp-projekte.de/schiene/2-002-V02/2-002-V02.html,schiene,125,0.92,115,9,1,86,30,9
+Optimiertes Alpha-E,,VB,http://bvwp-projekte.de/schiene/2-003-V02/2-003-V02.html,schiene,328,0.808,265,56,7,176,104,48
+Korridor Mittelrhein: Zielnetz II,,PB,http://bvwp-projekte.de/schiene/2-004-V04/2-004-V04.html,schiene,545,0.864,471,53,21,317,162,66
+ABS/NBS Karlsruhe - Basel (BAB-Trasse),,VB,http://bvwp-projekte.de/schiene/2-005-V02/2-005-V02.html,schiene,360,0.958,345,12,3,224,123,13
+ABS/NBS Hanau - Fulda - Erfurt / Aschaffenburg - Nantenbach,,VB,http://bvwp-projekte.de/schiene/2-007-V01/2-007-V01.html,schiene,479,0.925,443,25,11,332,125,22
+ABS München - Mühldorf - Freilassing,,VB,http://bvwp-projekte.de/schiene/2-008-V02/2-008-V02.html,schiene,184,0.951,175,7,2,101,60,23
+ABS/NBS München - Rosenheim - Kiefersfelden - Grenze D/A (- Kufstein),,VB,http://bvwp-projekte.de/schiene/2-009-V03/2-009-V03.html,schiene,237,0.89,211,21,5,133,79,25
+ABS/NBS Nürnberg - Erfurt (VDE 8.1),,VB,http://bvwp-projekte.de/schiene/2-010-V02/2-010-V02.html,schiene,146,0.87,127,16,3,98,38,10
+ABS/NBS Hamburg - Lübeck - Puttgarden (Hinterlandanbindung FBQ),,VB,http://bvwp-projekte.de/schiene/2-011-V01/2-011-V01.html,schiene,371,0.852,316,49,6,149,172,50
+ABS Burgsinn - Gemünden - Würzburg - Nürnberg,,VB-E,http://bvwp-projekte.de/schiene/2-013-V01/2-013-V01.html,schiene,268,0.937,251,10,7,175,83,10
+ABS Nürnberg - Passau,,VB,http://bvwp-projekte.de/schiene/2-014-V01/2-014-V01.html,schiene,130,0.885,115,12,3,71,48,11
+ABS/NBS Hannover - Bielefeld,,VB,http://bvwp-projekte.de/schiene/2-016-V01/2-016-V01.html,schiene,357,0.608,217,132,8,179,96,82
+ABS Uelzen - Stendal - Magdeburg - Halle (Ostkorridor Nord),,VB-E,http://bvwp-projekte.de/schiene/2-018-V01/2-018-V01.html,schiene,213,0.873,186,20,7,104,81,28
+Rhein-Ruhr-Express (RRX): Köln - Düsseldorf - Dortmund/ Münster,,PB,http://bvwp-projekte.de/schiene/2-020-V02/2-020-V02.html,schiene,400,0.98,392,4,4,309,78,13
+ABS Grenze D/NL - Bad Bentheim - Löhne,,PB,http://bvwp-projekte.de/schiene/2-021-V01/2-021-V01.html,schiene,111,0.874,97,6,8,70,33,8
+ABS Hochstadt-Marktzeuln - Hof / Nürnberg - Bayreuth - Neuenmarkt-Wirsberg,,PB,http://bvwp-projekte.de/schiene/2-024-V01/2-024-V01.html,schiene,106,0.896,95,9,2,53,48,5
+ABS Dresden - Görlitz - Grenze D/PL,,PB,http://bvwp-projekte.de/schiene/2-029-V01/2-029-V01.html,schiene,110,0.909,100,5,5,59,43,8
+ABS Hannover - Berlin (Lehrter Stammbahn),,PB,http://bvwp-projekte.de/schiene/2-032-V01/2-032-V01.html,schiene,222,0.887,197,16,9,154,56,12
+ABS Stuttgart - Backnang - Nürnberg,,PB,http://bvwp-projekte.de/schiene/2-033-V01/2-033-V01.html,schiene,253,0.885,224,24,5,116,113,24
+ABS Weimar - Gera - Gößnitz,,PB,http://bvwp-projekte.de/schiene/2-038-V01/2-038-V01.html,schiene,116,0.966,112,3,1,69,39,8
+ABS Stuttgart - Singen - Grenze D/CH (Gäubahn),,PB,http://bvwp-projekte.de/schiene/2-040-V01/2-040-V01.html,schiene,314,0.924,290,14,10,182,115,17
+ABS/NBS Ulm - Augsburg,,PB,http://bvwp-projekte.de/schiene/2-041-V02/2-041-V02.html,schiene,174,0.954,166,8,,112,56,6
+ABS Hamburg - Ahrensburg,,PB,http://bvwp-projekte.de/schiene/2-044-V01/2-044-V01.html,schiene,124,0.935,116,5,3,71,47,6
+NBS Dresden - Prag,,PB,http://bvwp-projekte.de/schiene/2-045-V01/2-045-V01.html,schiene,137,0.847,116,17,4,68,63,6
+ABS Lehrte - Braunschweig - Magdeburg - Roßlau,,PB,http://bvwp-projekte.de/schiene/2-046-V01/2-046-V01.html,schiene,135,0.867,117,9,9,84,45,6
+ABS Cuxhaven - Stade,,PB,http://bvwp-projekte.de/schiene/2-047-V01/2-047-V01.html,schiene,106,0.877,93,12,1,52,39,15
+ABS Köln - Aachen,,PB,http://bvwp-projekte.de/schiene/2-048-V01/2-048-V01.html,schiene,124,0.919,114,7,3,81,39,4
+ABS Münster - Lünen,,PB,http://bvwp-projekte.de/schiene/2-049-V01/2-049-V01.html,schiene,195,0.949,185,6,4,123,60,12
+ABS Lübeck / Hagenow Land - Rostock - Stralsund,,FD,,schiene,210,0.852,179,21,10,99,86,25
+ABS Stelle - Lüneburg,,FD,,schiene,103,0.932,96,3,4,73,21,9
+ABS/NBS Nürnberg - Erfurt,,FD,,schiene,255,0.812,207,43,5,151,72,32
+NBS/ABS Erfurt - Leipzig / Halle,,FD,,schiene,140,0.843,118,21,1,81,44,15
+ABS Karlsruhe - Stuttgart - Nürnberg - Leipzig / Dresden,,FD,,schiene,261,0.95,248,9,4,154,93,14
+ABS Berlin - Frankfurt/Oder - Grenze D/PL,,FD,,schiene,219,0.863,189,18,12,97,90,32
+ABS Ludwigshafen - Saarbrücken. Kehl - Appenweier,,FD,,schiene,109,0.908,99,7,3,70,33,6
+ABS/NBS Stuttgart - Ulm - Augsburg,,FD,,schiene,557,0.67,373,173,11,305,210,42
+NBS/ABS Nürnberg - Ingolstadt - München,,FD,,schiene,141,0.943,133,5,3,99,38,4
+Ausbau von Knoten (Berlin. Dresden. Erfurt. Halle / Leipzig. Magdeburg),,FD,,schiene,182,0.956,174,8,,124,53,5
+ABS Oldenburg - Wilhelmshaven /Langwedel - Uelzen,,FD,,schiene,130,0.877,114,9,7,53,48,29
+ABS (Amsterdam -) Grenze D/NL - Emmerich - Oberhausen (1. u. 2. Baustufe),,FD,,schiene,137,0.854,117,14,6,61,56,20
+ABS Augsburg - München (2. Baustufe),,FD,,schiene,136,0.89,121,12,3,94,34,8
+ABS/NBS Karlsruhe - Offenburg - Freiburg - Basel (1. u. 2. Baustufe),,FD,,schiene,156,0.962,150,5,1,101,54,1
+ABS Berlin - Dresden (1. u. 2. Baustufe),,FD,,schiene,362,0.948,343,17,2,208,125,29
+ABS Berlin - Görlitz,,FD,,schiene,162,0.84,136,23,3,79,63,20
+ABS München - Lindau - Grenze D/A,,FD,,schiene,229,0.913,209,15,5,131,78,20
+AK Zehlendorf,AS Hüttenweg,WB*,http://bvwp-projekte.de/strasse/A115-G40-BE/A115-G40-BE.html,strasse,773,0.668,516,217,40,559,192,22
+AS Kelberg (B 410),AS Adenau (L10),VB,http://bvwp-projekte.de/strasse/A001-G10-NW-RP-T01-RP/A001-G10-NW-RP-T01-RP.html,strasse,416,0.933,388,22,6,281,119,16
+AS Adenau (L10),AS Lommersdorf (L115z),VB,http://bvwp-projekte.de/strasse/A001-G10-NW-RP-T02-NW-RP/A001-G10-NW-RP-T02-NW-RP.html,strasse,339,0.926,314,18,7,230,91,18
+AS Lommersdorf (L 115z),AS Blankenheim (B 51),VB,http://bvwp-projekte.de/strasse/A001-G10-NW-RP-T03-NW/A001-G10-NW-RP-T03-NW.html,strasse,156,0.929,145,9,2,109,38,9
+A 1,A 623,WB*,http://bvwp-projekte.de/strasse/A001-G10-SL/A001-G10-SL.html,strasse,144,0.715,103,32,9,98,31,15
+AK Biebelried (A 7),AK Fürth/Erlangen (A 73),FD-E,,strasse,1008,0.928,935,46,27,775,213,20
+AK Regensburg,AS Rosenhof,VB-E,http://bvwp-projekte.de/strasse/A003-G030-BY-T02-BY/A003-G030-BY-T02-BY.html,strasse,363,0.926,336,20,7,298,58,7
+AS Limburg-Süd,Wiesbadener Kreuz,WB,http://bvwp-projekte.de/strasse/A003-G20-HE-T1-HE/A003-G20-HE-T1-HE.html,strasse,256,0.797,204,37,15,208,45,3
+Wiesbadener Kreuz,AD Mönchhof,WB,http://bvwp-projekte.de/strasse/A003-G20-HE-T3-HE/A003-G20-HE-T3-HE.html,strasse,108,0.861,93,13,2,93,14,1
+AS Haiger/Burbach,AS Ehringshausen,VB-E,http://bvwp-projekte.de/strasse/A0045-G10-NW-HE-T01-HE/A0045-G10-NW-HE-T01-HE.html,strasse,214,0.836,179,30,5,163,45,6
+AS Ehringshausen,AK Wetzlarer Kreuz,VB-E,http://bvwp-projekte.de/strasse/A0045-G10-NW-HE-T02-HE/A0045-G10-NW-HE-T02-HE.html,strasse,115,0.861,99,12,4,86,27,2
+AK Wetzlarer Kreuz,AK Gießener Südkreuz,VB-E,http://bvwp-projekte.de/strasse/A0045-G10-NW-HE-T03-HE/A0045-G10-NW-HE-T03-HE.html,strasse,203,0.842,171,27,5,151,46,6
+AK Gießener Südkreuz,AK Gambach,VB-E,http://bvwp-projekte.de/strasse/A0045-G10-NW-HE-T04-HE/A0045-G10-NW-HE-T04-HE.html,strasse,153,0.876,134,15,4,133,20,
+AK Feuchtwangen,AS Roth,WB*,,strasse,364,0.909,331,20,13,269,90,5
+AK Nürnberg-S,AK Nürnberg-O,FD,,strasse,254,0.953,242,6,6,197,53,4
+AD Hittistetten,AS Illertissen,VB,http://bvwp-projekte.de/strasse/A007-G020-BY-BW-T01-BY/A007-G020-BY-BW-T01-BY.html,strasse,244,0.82,200,34,10,189,53,2
+AS Illertissen,AS Memmingen-S,WB*,http://bvwp-projekte.de/strasse/A007-G020-BY-BW-T02-BY/A007-G020-BY-BW-T02-BY.html,strasse,183,0.781,143,37,3,146,37,
+AK München-S,AS Holzkirchen,VB,http://bvwp-projekte.de/strasse/A008-G010-BY-T1-BY/A008-G010-BY-T1-BY.html,strasse,569,0.902,513,50,6,424,138,7
+AS Holzkirchen,AD Inntal,VB-E,http://bvwp-projekte.de/strasse/A008-G010-BY-T2-BY/A008-G010-BY-T2-BY.html,strasse,712,0.886,631,72,9,524,175,13
+AD Inntal,AS Traunstein/Siegsdorf,VB-E,http://bvwp-projekte.de/strasse/A008-G010-BY-T3-BY/A008-G010-BY-T3-BY.html,strasse,713,0.895,638,65,10,508,198,7
+AS Traunstein/Siegsdorf,Bgr. D/A,WB*,http://bvwp-projekte.de/strasse/A008-G010-BY-T4-BY/A008-G010-BY-T4-BY.html,strasse,331,0.924,306,21,4,238,89,4
+AK Nürnberg,AK Nürnberg-O,WB*,http://bvwp-projekte.de/strasse/A009-G010-BY/A009-G010-BY.html,strasse,257,0.825,212,30,15,207,49,1
+AD Holledau,AK Neufahrn,WB*,http://bvwp-projekte.de/strasse/A009-G020-BY/A009-G020-BY.html,strasse,475,0.88,418,44,13,391,79,5
+AS München-Frankfurter Ring,AS München-Schwabing,VB-E,http://bvwp-projekte.de/strasse/A009-G030-BY/A009-G030-BY.html,strasse,373,0.818,305,58,10,297,65,11
+AS Nürnberg-Hafen-O,AS Nürnberg-Zollhaus,VB-E,http://bvwp-projekte.de/strasse/A073-G020-BY-T01-BY/A073-G020-BY-T01-BY.html,strasse,308,0.883,272,30,6,245,60,3
+AS Nürnberg-Zollhaus,AK Nürnberg-S,VB-E,http://bvwp-projekte.de/strasse/A073-G020-BY-T02-BY/A073-G020-BY-T02-BY.html,strasse,138,0.87,120,13,5,109,24,5
+AD München-Feldmoching,AK Neufahrn,WB*,http://bvwp-projekte.de/strasse/A092-G010-BY/A092-G010-BY.html,strasse,209,0.804,168,38,3,167,39,3
+AK Neufahrn,AD Flughafen-München,VB-E,http://bvwp-projekte.de/strasse/A092-G020-BY/A092-G020-BY.html,strasse,247,0.765,189,50,8,207,38,2
+AS München-Steinhausen,AS Feldkirchen-West,VB-E,http://bvwp-projekte.de/strasse/A094-G010-BY/A094-G010-BY.html,strasse,307,0.746,229,66,12,228,72,7
+AK München-O,AS Markt Schwaben,VB-E,http://bvwp-projekte.de/strasse/A094-G020-BY/A094-G020-BY.html,strasse,200,0.775,155,36,9,164,32,4
+AK München-O,AS Pocking,VB,,strasse,284,0.901,256,21,7,205,67,12
+AS Wörthsee,AS Oberpfaffenhofen,VB-E,http://bvwp-projekte.de/strasse/A096-G010-BY-T01-BY/A096-G010-BY-T01-BY.html,strasse,253,0.83,210,32,11,201,49,3
+AS Oberpfaffenhofen,AS Germering-S,FD-E,,strasse,327,0.807,264,43,20,251,68,8
+AD München-SW,AK München-W,VB-E,http://bvwp-projekte.de/strasse/A099-G010-BY/A099-G010-BY.html,strasse,485,0.856,415,58,12,385,95,5
+AK München-W,AK München-N,VB-E,http://bvwp-projekte.de/strasse/A099-G020-BY/A099-G020-BY.html,strasse,559,0.916,512,41,6,473,81,5
+AK München-N,AK München-S,VB-E,,strasse,899,0.858,771,97,31,701,179,19
+AD Hamburg-SO,AS Hamburg-Stillhorn,VB,http://bvwp-projekte.de/strasse/A1-G10-HH-SH-NI-T03-HH/A1-G10-HH-SH-NI-T03-HH.html,strasse,403,0.913,368,24,11,305,88,10
+AS Hamburg-Stillhorn,Lgr. HH/NI,WB*,http://bvwp-projekte.de/strasse/A1-G10-HH-SH-NI-T04-HH/A1-G10-HH-SH-NI-T04-HH.html,strasse,126,0.897,113,9,4,92,32,2
+Lgr. HH/NI,Horster Dreieck,WB*,http://bvwp-projekte.de/strasse/A1-G10-HH-SH-NI-T05-NI/A1-G10-HH-SH-NI-T05-NI.html,strasse,232,0.897,208,20,4,183,45,4
+AS Münster-N,AS Greven,FD-E,,strasse,154,0.89,137,15,2,125,29,
+n DEK Brücke,AS Lengerich/Tecklenburg,FD-E,,strasse,100,0.93,93,3,4,82,16,2
+AK Kamen,n AS Hamm-Bockum/Werne,VB-E,http://bvwp-projekte.de/strasse/A1-G120-NW-T1-NW/A1-G120-NW-T1-NW.html,strasse,121,0.909,110,7,4,96,25,
+AS Hamm-BockumWerne,AS Ascheberg,VB-E,http://bvwp-projekte.de/strasse/A1-G120-NW-T2-NW/A1-G120-NW-T2-NW.html,strasse,171,0.906,155,10,6,138,31,2
+AS Ascheberg,DEK-Brücke,VB-E,http://bvwp-projekte.de/strasse/A1-G120-NW-T3-NW/A1-G120-NW-T3-NW.html,strasse,134,0.896,120,10,4,109,22,3
+AD Horster Dreieck (A 7),AD Buchholz (A 261),WB*,http://bvwp-projekte.de/strasse/A1-G20-NI/A1-G20-NI.html,strasse,188,0.851,160,23,5,140,41,7
+AK Bremen,Lgr. HB/NI,WB*,http://bvwp-projekte.de/strasse/A1-G30-NI-HB-T3-HB/A1-G30-NI-HB-T3-HB.html,strasse,175,0.806,141,25,9,145,29,1
+AS Gleuel,AK Köln-W,VB-E,http://bvwp-projekte.de/strasse/A1-G30-NW-T3-NW/A1-G30-NW-T3-NW.html,strasse,126,0.81,102,19,5,88,35,3
+AD Stuhr,AD Ahlhorner Heide,WB*,http://bvwp-projekte.de/strasse/A1-G40-NI/A1-G40-NI.html,strasse,189,0.899,170,16,3,148,40,1
+AS Lohne/Dinklage,AS Neuenkirchen/Vörden,VB-E,http://bvwp-projekte.de/strasse/A1-G50-NI-T1-NI/A1-G50-NI-T1-NI.html,strasse,204,0.946,193,9,2,171,31,2
+AS Neuenkirchen/Vörden,AS Bramsche,VB-E,http://bvwp-projekte.de/strasse/A1-G50-NI-T2-NI/A1-G50-NI-T2-NI.html,strasse,127,0.976,124,3,,102,23,2
+AS Schwerte,AK Dortmund/Unna,WB*,http://bvwp-projekte.de/strasse/A1-G60-NW-T3-NW/A1-G60-NW-T3-NW.html,strasse,139,0.791,110,26,3,110,28,1
+Köln/Niehl,AK Leverkusen,FD-E,,strasse,547,0.974,533,8,6,452,89,6
+AD Werder,AS Spandau,WB*,http://bvwp-projekte.de/strasse/A10-G10-BB-T1-BB/A10-G10-BB-T1-BB.html,strasse,353,0.722,255,83,15,232,112,9
+AS Spandau,AD Havelland,WB*,http://bvwp-projekte.de/strasse/A10-G10-BB-T2-BB/A10-G10-BB-T2-BB.html,strasse,222,0.743,165,45,12,141,77,4
+AD Pankow,AD Havelland,FD,,strasse,650,0.814,529,85,36,481,156,13
+AD Potsdam,AD Nuthetal,FD,,strasse,546,0.864,472,50,24,468,74,4
+AD Neukölln,Storkower Str. (A100),FD,,strasse,1692,0.622,1053,566,73,896,466,330
+AD Spreeau,AS Frankfurt (Oder)-M,WB,http://bvwp-projekte.de/strasse/A12-G10-BB/A12-G10-BB.html,strasse,236,0.792,187,42,7,167,64,5
+AK Schönefelder Kreuz,AD Spreewald,WB,http://bvwp-projekte.de/strasse/A13-G10-BB/A13-G10-BB.html,strasse,425,0.727,309,99,17,316,103,6
+AS Dahlenwarsleben,Wittenberge (Lgr. ST/BB),VB,http://bvwp-projekte.de/strasse/A14-G20-ST-BB-T1-ST/A14-G20-ST-BB-T1-ST.html,strasse,647,0.842,545,85,17,402,182,63
+Lgr. ST/BB,AS Karstädt,VB,http://bvwp-projekte.de/strasse/A14-G20-ST-BB-T2-BB/A14-G20-ST-BB-T2-BB.html,strasse,224,0.844,189,32,3,143,64,17
+A 24,Grabow,FD,,strasse,165,0.927,153,5,7,114,43,8
+AS Leipzig-O,AD Parthenaue,FD,,strasse,292,0.74,216,48,28,222,64,6
+Wolmirstedt,Lüderitz,FD,,strasse,301,0.88,265,28,8,196,79,26
+AS Halle/Neustadt,AD Halle-N,FD,,strasse,448,0.933,418,28,2,331,98,19
+AS Hannover-Herrenhausen,AD Hannover-W,WB,http://bvwp-projekte.de/strasse/A2-G11-NI-T3-NI/A2-G11-NI-T3-NI.html,strasse,161,0.882,142,14,5,136,25,
+Westerstede (A 28),Jaderberg (A29),VB,http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T1-NI/A20-G10-NI-SH-T1-NI.html,strasse,153,0.549,84,65,4,68,45,40
+Glückstadt (B 431),Hohenfelde (A 23),VB,http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T10-SH/A20-G10-NI-SH-T10-SH.html,strasse,454,0.828,376,68,10,234,149,71
+Drochtersen (K 28),Drochtersen (K 28) - Stade,VB,http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T11-NI/A20-G10-NI-SH-T11-NI.html,strasse,299,0.873,261,31,7,170,99,30
+Jaderberg (A 29),Schwei (B 437),VB,http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T2-NI/A20-G10-NI-SH-T2-NI.html,strasse,403,0.645,260,135,8,185,149,69
+Schwei (B 437),ö Weserquerung (L 121),VB,http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T3-NI/A20-G10-NI-SH-T3-NI.html,strasse,163,0.724,118,39,6,91,53,19
+ö Weserquerung (L 121),Heerstedt (B 71),VB,http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T4-NI/A20-G10-NI-SH-T4-NI.html,strasse,216,0.722,156,57,3,122,63,31
+Heerstedt (B 71),Bremervörde (B 495),VB,http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T5-NI/A20-G10-NI-SH-T5-NI.html,strasse,342,0.713,244,81,17,171,109,62
+Bremervörde (B 495),Elm (L 114),VB,http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T6-NI/A20-G10-NI-SH-T6-NI.html,strasse,227,0.696,158,58,11,101,86,40
+Elm (L 114),AD A 20/A 26 (ö Drochtersen),VB,http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T7-NI/A20-G10-NI-SH-T7-NI.html,strasse,364,0.764,278,78,8,186,117,61
+Drochtersen (Trog Süd),Glückstadt (B 431),VB,http://bvwp-projekte.de/strasse/A20-G10-NI-SH-T9-NI-SH/A20-G10-NI-SH-T9-NI-SH.html,strasse,872,0.864,753,100,19,430,321,121
+Hohenfelde (A 23),L 114,VB,http://bvwp-projekte.de/strasse/A20-G10-SH-T1-SH/A20-G10-SH-T1-SH.html,strasse,362,0.837,303,49,10,188,121,53
+L 114,AK A 20/ A 7,VB,http://bvwp-projekte.de/strasse/A20-G10-SH-T2-SH/A20-G10-SH-T2-SH.html,strasse,460,0.828,381,61,18,255,143,62
+Weede,A 7,FD,,strasse,721,0.903,651,44,26,456,221,44
+AK Bargteheide,AK Schwarzenbek (A 21/A 24),VB,http://bvwp-projekte.de/strasse/A21-G20-SH-NI-T1-SH/A21-G20-SH-NI-T1-SH.html,strasse,465,0.888,413,41,11,298,147,20
+AK Schwarzenbek (A 24),AD Geesthacht (A 25),WB*,http://bvwp-projekte.de/strasse/A21-G20-SH-NI-T2-SH/A21-G20-SH-NI-T2-SH.html,strasse,188,0.894,168,17,3,109,64,15
+AS Rönne,AD Handorf (A 39),WB*,http://bvwp-projekte.de/strasse/A21-G20-SH-NI-T4-NI/A21-G20-SH-NI-T4-NI.html,strasse,188,0.872,164,17,7,120,62,6
+Kiel (mit Anschluss B 76),Stolpe,FD,,strasse,697,0.933,650,25,22,511,176,10
+AS Tornesch,AS Eidelstedt,VB-E,http://bvwp-projekte.de/strasse/A23-G10-SH-HH/A23-G10-SH-HH.html,strasse,603,0.841,507,77,19,450,143,10
+AS Kremmen,AS Neuruppin,WB*,http://bvwp-projekte.de/strasse/A24-G10-BB-T1-BB/A24-G10-BB-T1-BB.html,strasse,298,0.899,268,28,2,222,74,2
+AS Neuruppin,AD Wittstock/Dosse,WB*,http://bvwp-projekte.de/strasse/A24-G10-BB-T2-BB/A24-G10-BB-T2-BB.html,strasse,227,0.894,203,22,2,173,53,1
+OU Geesthacht,,VB,http://bvwp-projekte.de/strasse/A25_B5-G20-SH/A25_B5-G20-SH.html,strasse,146,0.849,124,20,2,84,54,8
+AK Hamburg-Süderelbe,AD/AS Hamburg-Stillhorn,VB,http://bvwp-projekte.de/strasse/A26-G10-HH/A26-G10-HH.html,strasse,692,0.906,627,48,17,434,213,45
+AD HH-Süderelbe (Moorburg),Rübke (Lgr. NI/HH),FD,,strasse,353,0.861,304,24,25,200,134,19
+Horneburg (K 36n),Rübke,FD,,strasse,332,0.961,319,6,7,236,85,11
+AK Bremen,AS HB-Überseestadt,VB-E,http://bvwp-projekte.de/strasse/A27-G10-HB-NI/A27-G10-HB-NI.html,strasse,399,0.659,263,109,27,314,76,9
+Weserquerung,,VB,http://bvwp-projekte.de/strasse/A281-G10-HB/A281-G10-HB.html,strasse,351,0.943,331,12,8,237,88,26
+Kattenturm,AS Bremen/Airport-Stadt,FD,,strasse,222,0.914,203,13,6,173,47,2
+AS Königsforst,AD Köln-Heumar (A 4),VB-E,http://bvwp-projekte.de/strasse/A3-G10-NW/A3-G10-NW.html,strasse,231,0.814,188,34,9,175,52,4
+AK Leverkusen (A 1),AK Langenfeld (A 542),VB-E,http://bvwp-projekte.de/strasse/A3-G20-NW-T1-NW/A3-G20-NW-T1-NW.html,strasse,222,0.869,193,23,6,184,34,4
+AK Langenfeld,AK Hilden,VB-E,http://bvwp-projekte.de/strasse/A3-G20-NW-T2-NW/A3-G20-NW-T2-NW.html,strasse,276,0.87,240,28,8,229,45,2
+AS Flughafen Stadt Frankfurt / Main,AD Mönchhof,VB-E,http://bvwp-projekte.de/strasse/A3-G30-HE-T04-HE/A3-G30-HE-T04-HE.html,strasse,440,0.845,372,59,9,363,72,5
+AK Offenbach,AK Frankfurter Kreuz,WB,http://bvwp-projekte.de/strasse/A3-G30-HE-T06-HE/A3-G30-HE-T06-HE.html,strasse,166,0.916,152,11,3,151,14,1
+AS Hanau,AK Offenbach,WB*,http://bvwp-projekte.de/strasse/A3-G30-HE-T08-HE/A3-G30-HE-T08-HE.html,strasse,297,0.933,277,12,8,247,47,3
+AK Hilden,AK Ratingen-O,VB-E,http://bvwp-projekte.de/strasse/A3-G30-NW/A3-G30-NW.html,strasse,207,0.918,190,14,3,182,24,1
+AK Ratingen-O,AK Breitscheid (A 52),VB-E,http://bvwp-projekte.de/strasse/A3-G40-NW/A3-G40-NW.html,strasse,150,0.893,134,11,5,127,21,2
+AK Breitscheid (A 52),AS Duisburg-Wedau,VB-E,http://bvwp-projekte.de/strasse/A3-G50-NW-T1-NW/A3-G50-NW-T1-NW.html,strasse,142,0.859,122,17,3,115,24,3
+w AS Wertheim (LGr. BW/BY),AS Weibersbrunn,FD,,strasse,285,0.944,269,12,4,235,46,4
+AK Leverkusen,,FD,,strasse,1403,0.957,1342,34,27,1207,176,20
+Würzburg-Heidingsfeld,Mainbrücke Randersacker,FD,,strasse,276,0.931,257,8,11,206,65,5
+ö AK Lotte/Osnabrück (Lgr. NI/NW),AK Osnabrück-S,VB-E,http://bvwp-projekte.de/strasse/A30-G10-NI-NW-T2-NI/A30-G10-NI-NW-T2-NI.html,strasse,231,0.831,192,31,8,186,41,4
+AK Löhne,Rehme m Abzw. A 30 Richtung Rehme,FD,,strasse,292,0.955,279,12,1,234,50,8
+Osnabrück/N (A 1),Osnabrück/Belm,VB,http://bvwp-projekte.de/strasse/A33-G10-NI/A33-G10-NI.html,strasse,290,0.797,231,55,4,202,63,25
+AS Osnabrück/ Schinkel,AS Osnabrück/Belm - OU Belm,FD,,strasse,113,0.876,99,11,3,92,17,4
+Bielefeld/Brackwede,AS Borgholzhausen (incl. Zubringer Ummeln),FD,,strasse,517,0.956,494,14,9,390,114,13
+AS Lüneburg-N (B 216),ö Lüneburg (B 216),VB,http://bvwp-projekte.de/strasse/A39-G10-NI-T1-NI/A39-G10-NI-T1-NI.html,strasse,135,0.837,113,20,2,99,26,10
+ö Lüneburg (B 216),Bad Bevensen (B 253),VB,http://bvwp-projekte.de/strasse/A39-G10-NI-T2-NI/A39-G10-NI-T2-NI.html,strasse,375,0.763,286,82,7,239,98,38
+Bad Bevensen (B 253),Uelzen (B 71),VB,http://bvwp-projekte.de/strasse/A39-G10-NI-T3-NI/A39-G10-NI-T3-NI.html,strasse,310,0.758,235,63,12,200,80,30
+Uelzen (B 71),Bad Bodenteich (L 265),VB,http://bvwp-projekte.de/strasse/A39-G10-NI-T4-NI/A39-G10-NI-T4-NI.html,strasse,233,0.794,185,47,1,146,67,20
+Bad Bodenteich (L 265),Wittingen (B 244),VB,http://bvwp-projekte.de/strasse/A39-G10-NI-T5-NI/A39-G10-NI-T5-NI.html,strasse,180,0.817,147,32,1,126,43,11
+Wittingen (B 244),Ehra (L 289),VB,http://bvwp-projekte.de/strasse/A39-G10-NI-T6-NI/A39-G10-NI-T6-NI.html,strasse,387,0.817,316,61,10,244,110,33
+Ehra (L 289),AS Weyhausen (B 188),VB,http://bvwp-projekte.de/strasse/A39-G10-NI-T7-NI/A39-G10-NI-T7-NI.html,strasse,384,0.807,310,68,6,269,89,26
+Str. Ðkm 349.850,Str. Ðkm 341.500,WB,http://bvwp-projekte.de/strasse/A4-G10-HE-TH-T4-HE/A4-G10-HE-TH-T4-HE.html,strasse,108,0.898,97,9,2,81,25,2
+AS Aachen-Laurensberg,AS Aachen-Zentrum,WB,http://bvwp-projekte.de/strasse/A4-G10-NW-T1/A4-G10-NW-T1.html,strasse,113,0.77,87,17,9,92,19,2
+AS Aachen-Zentrum,AK Aachen (A 44),WB,http://bvwp-projekte.de/strasse/A4-G10-NW-T2/A4-G10-NW-T2.html,strasse,201,0.846,170,26,5,174,25,2
+AK Köln-S (A 555),AK Köln-Gremberg (A 559),VB-E,http://bvwp-projekte.de/strasse/A4-G30-NW/A4-G30-NW.html,strasse,300,0.91,273,19,8,241,55,4
+AK Köln/Ost,AS Moitzfeld,VB-E,http://bvwp-projekte.de/strasse/A4-G60-NW-T1-NW/A4-G60-NW-T1-NW.html,strasse,387,0.832,322,56,9,301,79,7
+AK Köln-W (A 1),AK Köln-S (A 555),WB,http://bvwp-projekte.de/strasse/A4-G70-NW-T1-NW/A4-G70-NW-T1-NW.html,strasse,195,0.862,168,22,5,166,26,3
+Ausbau Hermsdorfer Kreuz,,FD,,strasse,203,0.842,171,21,11,170,33,
+AK Kaiserberg,AS Mülheim-Dümpten,VB-E,http://bvwp-projekte.de/strasse/A40-G30-NW-T1-NW/A40-G30-NW-T1-NW.html,strasse,141,0.929,131,10,,120,20,1
+AS Mülheim-Dümpten,AS Mülheim-Heißen,VB-E,http://bvwp-projekte.de/strasse/A40-G30-NW-T2-NW/A40-G30-NW-T2-NW.html,strasse,120,0.908,109,9,2,96,24,
+AS Mülheim-Heißen,AS Essen-Frohnhausen,VB-E,http://bvwp-projekte.de/strasse/A40-G30-NW-T3-NW/A40-G30-NW-T3-NW.html,strasse,144,0.903,130,9,5,122,18,4
+AS Bochum-Stahlhausen,AK Bochum (A 43),VB-E,http://bvwp-projekte.de/strasse/A40-G40-NW/A40-G40-NW.html,strasse,274,0.931,255,15,4,232,41,1
+AK Bochum (A 43),AK Dortmund-West (A 45),VB-E,http://bvwp-projekte.de/strasse/A40-G50-NW/A40-G50-NW.html,strasse,231,0.918,212,18,1,188,42,1
+AS Dortmund (L 660),AS Dortmund-Mitte (L 672),WB,http://bvwp-projekte.de/strasse/A40-G70-NW-T1-NW/A40-G70-NW-T1-NW.html,strasse,114,0.868,99,13,2,95,18,1
+AS Dortmund-Mitte (L 672),AS Dortmund-Ost (B 236),WB,http://bvwp-projekte.de/strasse/A40-G70-NW-T2-NW/A40-G70-NW-T2-NW.html,strasse,108,0.889,96,10,2,91,15,2
+AS Dortmund-Ost (B 236),AK Dortmund/Unna (A 1/A 44),VB-E,http://bvwp-projekte.de/strasse/A40-G70-NW-T3-NW/A40-G70-NW-T3-NW.html,strasse,269,0.844,227,36,6,220,48,1
+AS Essen-Altenessen,AS Gelsenkirchen-Schalke,VB-E,http://bvwp-projekte.de/strasse/A42-G30-NW-T2-NW/A42-G30-NW-T2-NW.html,strasse,130,0.931,121,7,2,108,21,1
+AS Gelsenkirchen-Schalke,AK Herne (A 43),VB-E,http://bvwp-projekte.de/strasse/A42-G30-NW-T3-NW/A42-G30-NW-T3-NW.html,strasse,122,0.91,111,9,2,95,25,2
+AS Bochum-Querenburg,AK Bochum (A 40),VB-E,http://bvwp-projekte.de/strasse/A43-G30-NW-T2-NW/A43-G30-NW-T2-NW.html,strasse,122,0.885,108,12,2,101,20,1
+AK Bochum (A 40),AS Bochum-Riemke,VB-E,http://bvwp-projekte.de/strasse/A43-G30-NW-T3-NW/A43-G30-NW-T3-NW.html,strasse,144,0.958,138,4,2,127,16,1
+AK Herne,AS Recklinghausen/Herten,FD,,strasse,159,0.95,151,7,1,138,20,1
+AS Broichweiden,AS Alsdorf,WB,http://bvwp-projekte.de/strasse/A44-G10-NW/A44-G10-NW.html,strasse,183,0.645,118,54,11,146,34,3
+Essen-Ruhralleetunnel,(L 925 - AS E.-Bergerhausen (A 52)),WB*,http://bvwp-projekte.de/strasse/A44-G30-NW/A44-G30-NW.html,strasse,181,0.818,148,31,2,142,33,6
+AK Kassel-West,AD Kassel-Süd,VB,http://bvwp-projekte.de/strasse/A44-G60-NW-HE-T9-HE/A44-G60-NW-HE-T9-HE.html,strasse,200,0.795,159,34,7,153,43,4
+AS Unna-O,AK Werl,WB*,http://bvwp-projekte.de/strasse/A44-G70-NW-T2-NW/A44-G70-NW-T2-NW.html,strasse,128,0.922,118,6,4,108,20,
+AD Kassel-O,AD Wommen (A 4),FD,,strasse,422,0.858,362,42,18,266,123,33
+Düsseldorf/Ratingen (A 3),Velbert (B 227),FD,,strasse,290,0.81,235,39,16,185,84,21
+Bochum (L705.Sheffieldring),AK Bochum/Witten  (A 43),FD,,strasse,211,0.896,189,18,4,161,45,5
+AS Werl-N,AS Hamm/Rhynern,VB,http://bvwp-projekte.de/strasse/A445-G10-NW/A445-G10-NW.html,strasse,174,0.845,147,25,2,136,31,7
+AS Drolshagen,AS Meinerzhagen,VB,http://bvwp-projekte.de/strasse/A45-G10-NW-T3-NW/A45-G10-NW-T3-NW.html,strasse,109,0.789,86,18,5,73,31,5
+AS Lüdenscheid-N,AS Hagen-S,VB-E,http://bvwp-projekte.de/strasse/A45-G20-NW-T3-NW/A45-G20-NW-T3-NW.html,strasse,160,0.888,142,14,4,131,29,
+AK Hanauer Kreuz,Seligenstädter Dreieck,WB,http://bvwp-projekte.de/strasse/A45-G30-HE-BY-T1-HE-BY/A45-G30-HE-BY-T1-HE-BY.html,strasse,161,0.422,68,88,5,117,42,2
+AS Siegen,AS Freudenberg,VB,http://bvwp-projekte.de/strasse/A45-G50-NW-HE-T4-NW/A45-G50-NW-HE-T4-NW.html,strasse,115,0.904,104,7,4,89,23,3
+AS Freudenberg,AK Olpe,VB,http://bvwp-projekte.de/strasse/A45-G50-NW-HE-T5-NW/A45-G50-NW-HE-T5-NW.html,strasse,180,0.822,148,21,11,130,40,10
+AS Dortmund-Hafen,AK Dortmund-NW (A 2),VB-E,http://bvwp-projekte.de/strasse/A45-G60-NW-T2-NW/A45-G60-NW-T2-NW.html,strasse,102,0.775,79,20,3,85,17,
+AK Hagen (A 45),AK Westhofen (A 1),FD-E,,strasse,176,0.943,166,4,6,143,33,
+AS Hemer (B 7),AS Menden (B 515),VB,http://bvwp-projekte.de/strasse/A46-B7-G41-NW-T1-NW/A46-B7-G41-NW-T1-NW.html,strasse,126,0.825,104,21,1,82,38,6
+Menden,Wimbern,VB,http://bvwp-projekte.de/strasse/A46-B7-G41-NW-T2-NW/A46-B7-G41-NW-T2-NW.html,strasse,137,0.745,102,29,6,81,45,11
+AD Holz (A 44),AK Neuss-W (A 57),WB,http://bvwp-projekte.de/strasse/A46-G10-NW/A46-G10-NW.html,strasse,145,0.828,120,21,4,121,23,1
+AS Düsseldorf-Holthausen,AK Hilden (A 3),WB*,http://bvwp-projekte.de/strasse/A46-G20-NW/A46-G20-NW.html,strasse,219,0.849,186,27,6,182,33,4
+AS Bestwig,Bestwig/ Nuttlar  einschl. Zubringer  B 480n,FD,,strasse,103,0.942,97,6,,84,18,1
+Westring,AK Sonnborn (L 418),FD,,strasse,209,0.904,189,9,11,176,29,4
+AS Hemsbach,AK Weinheim,VB-E,http://bvwp-projekte.de/strasse/A5-G10-BW/A5-G10-BW.html,strasse,252,0.881,222,25,5,194,55,3
+AK Weinheim,AK Heidelberg,VB-E,http://bvwp-projekte.de/strasse/A5-G20-BW/A5-G20-BW.html,strasse,560,0.911,510,40,10,465,87,8
+AK Westkreuz,AK Frankfurter Kreuz,WB,http://bvwp-projekte.de/strasse/A5-G20-HE-T10-HE/A5-G20-HE-T10-HE.html,strasse,167,0.874,146,12,9,144,21,2
+AS Seeheim-Jugenheim,AK Darmstadt,VB-E,http://bvwp-projekte.de/strasse/A5-G20-HE-T14-HE/A5-G20-HE-T14-HE.html,strasse,308,0.899,277,27,4,261,44,3
+Lgr. HE/BW,AS Seeheim-Jugenheim,VB-E,http://bvwp-projekte.de/strasse/A5-G20-HE-T15-HE/A5-G20-HE-T15-HE.html,strasse,507,0.921,467,28,12,409,94,4
+AD Reiskirchen,AD A 5/A 49,VB,http://bvwp-projekte.de/strasse/A5-G20-HE-T2-HE/A5-G20-HE-T2-HE.html,strasse,414,0.949,393,15,6,327,84,3
+AK Gambach,AD Reiskirchen,WB,http://bvwp-projekte.de/strasse/A5-G20-HE-T3-HE/A5-G20-HE-T3-HE.html,strasse,167,0.85,142,22,3,129,36,2
+AS Friedberg,AK Gambach,WB,http://bvwp-projekte.de/strasse/A5-G20-HE-T4-HE/A5-G20-HE-T4-HE.html,strasse,223,0.91,203,16,4,194,28,1
+AK Bad Homburg,AS Friedberg,WB*,http://bvwp-projekte.de/strasse/A5-G20-HE-T5-HE/A5-G20-HE-T5-HE.html,strasse,213,0.915,195,14,4,168,42,3
+NWK Stadt Frankfurt / Main,AK Bad Homburg,WB*,http://bvwp-projekte.de/strasse/A5-G20-HE-T7-HE/A5-G20-HE-T7-HE.html,strasse,235,0.902,212,16,7,195,36,4
+AK Heidelberg,AS Walldorf/ Wiesloch,VB-E,http://bvwp-projekte.de/strasse/A5-G30-BW-T1-BW/A5-G30-BW-T1-BW.html,strasse,539,0.931,502,26,11,448,88,3
+AK Walldorf,AD Karlsruhe,WB*,http://bvwp-projekte.de/strasse/A5-G40-BW/A5-G40-BW.html,strasse,814,0.83,676,105,33,673,134,7
+AS Offenburg,AS Teningen,WB,http://bvwp-projekte.de/strasse/A5-G50-BW-T1-BW/A5-G50-BW-T1-BW.html,strasse,525,0.916,481,37,7,434,89,2
+AS Teningen,AS Freiburg-M,WB,http://bvwp-projekte.de/strasse/A5-G50-BWT2-BW/A5-G50-BWT2-BW.html,strasse,264,0.871,230,30,4,223,37,4
+AS Freiburg-M,AS Bad Krozingen,WB,http://bvwp-projekte.de/strasse/A5-G60-BW/A5-G60-BW.html,strasse,231,0.853,197,27,7,185,41,5
+AK Mönchengladbach,AK Neersen,WB,http://bvwp-projekte.de/strasse/A52-G10-NW-T2-NW/A52-G10-NW-T2-NW.html,strasse,153,0.948,145,5,3,140,13,
+AK Breitscheid (A 3),AS Essen-Kettwig,VB-E,http://bvwp-projekte.de/strasse/A52-G20-NW-T1-NW/A52-G20-NW-T1-NW.html,strasse,256,0.836,214,34,8,209,43,4
+AS Essen-Kettwig,AS Essen-Rüttenscheid (B 224),VB-E,http://bvwp-projekte.de/strasse/A52-G20-NW-T2-NW/A52-G20-NW-T2-NW.html,strasse,143,0.79,113,27,3,126,15,2
+AD Essen-Ost (A 40),AK Essen-Nord (A 42),WB*,http://bvwp-projekte.de/strasse/A52-G30-NW/A52-G30-NW.html,strasse,291,0.873,254,31,6,229,57,5
+AK Essen-N,s AD Essen/Gladbeck,VB-E,http://bvwp-projekte.de/strasse/A52-G60-NW-T1-NW/A52-G60-NW-T1-NW.html,strasse,191,0.89,170,18,3,149,40,2
+AK Essen/Gladbeck (A 2),AS Gelsenkirchen-Buer,VB,http://bvwp-projekte.de/strasse/A52-G70-NW/A52-G70-NW.html,strasse,101,0.851,86,15,,79,19,3
+AK Köln-Godorf,AD Köln-Lind,WB*,http://bvwp-projekte.de/strasse/A553-G10-NW-T2-NW/A553-G10-NW-T2-NW.html,strasse,335,0.854,286,38,11,224,80,31
+AD Köln-Porz (A 59),AK Köln-Gremberg (A 4),VB-E,http://bvwp-projekte.de/strasse/A559-G10-NW/A559-G10-NW.html,strasse,131,0.939,123,7,1,117,13,1
+AS Bonn/Hardtberg,AS Bonn-Poppelsdorf,WB*,http://bvwp-projekte.de/strasse/A565-G10-NW-T1-NW/A565-G10-NW-T1-NW.html,strasse,118,0.898,106,10,2,105,10,3
+AS Bonn/Poppelsdorf,AK Bonn/N,WB*,http://bvwp-projekte.de/strasse/A565-G10-NW-T2-NW/A565-G10-NW-T2-NW.html,strasse,104,0.904,94,7,3,95,7,2
+AK Bonn-N,AS Bonn-Beuel,WB*,http://bvwp-projekte.de/strasse/A565-G20-NW-T1-NW/A565-G20-NW-T1-NW.html,strasse,230,0.904,208,16,6,200,27,3
+AS Bickendorf,AK Köln-N (A 1),WB,http://bvwp-projekte.de/strasse/A57-G10-NW/A57-G10-NW.html,strasse,138,0.79,109,20,9,107,27,4
+AK Köln-N (A 1),AS Dormagen,VB-E,http://bvwp-projekte.de/strasse/A57-G20-NW-T1-NW/A57-G20-NW-T1-NW.html,strasse,279,0.907,253,20,6,221,55,3
+AS Dormagen,AD Neuss-S (A 46),VB-E,http://bvwp-projekte.de/strasse/A57-G20-NW-T2-NW/A57-G20-NW-T2-NW.html,strasse,165,0.873,144,16,5,138,26,1
+AS Krefeld-Oppum,AS Krefeld-Gartenstadt,VB-E,http://bvwp-projekte.de/strasse/A57-G60-NW-T2-NW/A57-G60-NW-T2-NW.html,strasse,172,0.948,163,6,3,146,24,2
+AS Krefeld-Gartenstadt,AK Moers (A 40),VB-E,http://bvwp-projekte.de/strasse/A57-G60-NW-T3-NW/A57-G60-NW-T3-NW.html,strasse,126,0.96,121,4,1,116,10,
+AD Bonn-NO (A 565),AD St. Augustin-W (A 560),VB-E,http://bvwp-projekte.de/strasse/A59-G20-NW/A59-G20-NW.html,strasse,181,0.939,170,9,2,167,14,
+AD Sankt Augustin/West (A 560),T+R-Anlage Liburer Heide,VB-E,http://bvwp-projekte.de/strasse/A59-G80-NW-T1-NW/A59-G80-NW-T1-NW.html,strasse,203,0.916,186,12,5,182,20,1
+T+R-Anlage Liburer Heide,AS Flughafen,VB-E,http://bvwp-projekte.de/strasse/A59-G80-NW-T2-NW/A59-G80-NW-T2-NW.html,strasse,188,0.904,170,12,6,164,21,3
+AS Flughafen,AD Köln-Porz (A 559),VB-E,http://bvwp-projekte.de/strasse/A59-G80-NW-T3-NW/A59-G80-NW-T3-NW.html,strasse,109,0.917,100,8,1,87,20,2
+AK Bonn-O (A 562),AS Bonn/Villich (AS Maarstraße),VB-E,http://bvwp-projekte.de/strasse/A59-G90-NW-T1-NW/A59-G90-NW-T1-NW.html,strasse,154,0.831,128,23,3,126,26,2
+AS Bonn/Villich (AS Maarstraße),AD Bonn-NO (A 565),VB-E,http://bvwp-projekte.de/strasse/A59-G90-NW-T2-NW/A59-G90-NW-T2-NW.html,strasse,127,0.819,104,18,5,107,16,4
+AK Mannheim,AS Schwetzingen/Hockenheim,VB-E,http://bvwp-projekte.de/strasse/A6-G10-BW/A6-G10-BW.html,strasse,539,0.889,479,47,13,418,116,5
+AD Hockenheim,AK Walldorf,WB*,http://bvwp-projekte.de/strasse/A6-G20-BW/A6-G20-BW.html,strasse,203,0.754,153,36,14,161,39,3
+AK Landstuhl,AS Kaiserslautern-W,WB,http://bvwp-projekte.de/strasse/A6-G20-RP/A6-G20-RP.html,strasse,134,0.754,101,27,6,113,21,
+AK Weinsberg,AS Kupferzell,WB*,http://bvwp-projekte.de/strasse/A6-G60-BW-BY-T1-BW/A6-G60-BW-BY-T1-BW.html,strasse,297,0.929,276,19,2,221,75,1
+AS Kupferzell,Lgr. BY/BW,WB*,http://bvwp-projekte.de/strasse/A6-G60-BW-BY-T2-BW/A6-G60-BW-BY-T2-BW.html,strasse,318,0.915,291,22,5,237,77,4
+AS Kaiserslautern/W,AS Kaiserslautern/O,FD,,strasse,190,0.947,180,3,7,154,35,1
+AD Mainspitz,AD Rüsselsheim,VB-E,http://bvwp-projekte.de/strasse/A60-G10-HE/A60-G10-HE.html,strasse,401,0.945,379,17,5,349,50,2
+AS Mainz-Finthen,AK Mainz-S,WB*,http://bvwp-projekte.de/strasse/A60-G30-RP-T2-RP/A60-G30-RP-T2-RP.html,strasse,143,0.895,128,14,1,122,21,
+AD Sinzig,AS Mendig,VB-E,http://bvwp-projekte.de/strasse/A61-G10-RP-T2-RP/A61-G10-RP-T2-RP.html,strasse,218,0.876,191,17,10,168,48,2
+AK Wanlo (A 46),AS Mönchengladbach-Nordpark,WB*,http://bvwp-projekte.de/strasse/A61-G40-NW/A61-G40-NW.html,strasse,101,0.832,84,13,4,83,17,1
+AD Nahetal,AS Gau-Bickelheim,VB,http://bvwp-projekte.de/strasse/A61-G40-RP-T1-RP/A61-G40-RP-T1-RP.html,strasse,119,0.689,82,31,6,86,31,2
+AS Gau-Bickelheim,AS Alzey,VB,http://bvwp-projekte.de/strasse/A61-G40-RP-T2-RP/A61-G40-RP-T2-RP.html,strasse,114,0.64,73,37,4,85,26,3
+AS Alzey,AS Mörstadt,VB,http://bvwp-projekte.de/strasse/A61-G40-RP-T3-RP/A61-G40-RP-T3-RP.html,strasse,130,0.677,88,37,5,102,27,1
+AS Mörstadt,AK Frankenthal,VB,http://bvwp-projekte.de/strasse/A61-G40-RP-T4-RP/A61-G40-RP-T4-RP.html,strasse,116,0.75,87,25,4,85,29,2
+AK Frankenthal,AK Mutterstadt,FD-E,,strasse,165,0.818,135,22,8,127,34,4
+AK Mutterstadt,AS Speyer,FD-E,,strasse,179,0.737,132,33,14,130,44,5
+AK Meckenheim,AK Bliesheim,VB,http://bvwp-projekte.de/strasse/A61-G60-NW/A61-G60-NW.html,strasse,262,0.866,227,28,7,205,55,2
+AS Rheinböllen,T+R-Anlage Hunsrück,FD,,strasse,140,0.836,117,12,11,109,27,4
+A 623,A 620,WB*,http://bvwp-projekte.de/strasse/A623-G10-SL/A623-G10-SL.html,strasse,183,0.798,146,32,5,137,42,4
+AS Klein-Winternheim,AS Saulheim,WB,http://bvwp-projekte.de/strasse/A63-G10-RP/A63-G10-RP.html,strasse,108,0.648,70,27,11,78,30,
+Biewertalbrücke,,FD,,strasse,194,0.876,170,11,13,148,43,3
+AK Wiesbaden-Schierstein,#NAME?,FD,,strasse,169,0.97,164,4,1,121,47,1
+AK Viernheimer Kreuz,AS Viernheim Ost,WB,http://bvwp-projekte.de/strasse/A659-G20-HE/A659-G20-HE.html,strasse,108,0.444,48,59,1,77,29,2
+AK Wiesbaden-Schierstein,Wiesbadener Kreuz,VB-E,http://bvwp-projekte.de/strasse/A66-G10-HE-T1-HE/A66-G10-HE-T1-HE.html,strasse,588,0.906,533,44,11,497,87,4
+Wiesbadener Kreuz,Nordwestkreuz Frankfurt,WB*,http://bvwp-projekte.de/strasse/A66-G10-HE-T2-HE/A66-G10-HE-T2-HE.html,strasse,279,0.828,231,40,8,248,28,3
+Nordwestkreuz Frankfurt,AS Frankfurt-Miquellallee,WB,http://bvwp-projekte.de/strasse/A66-G10-HE-T3-HE/A66-G10-HE-T3-HE.html,strasse,169,0.692,117,46,6,138,27,4
+Frankfurt/Erlenbruch,AS Frankfurt/Bergen-Enkheim,FD,,strasse,620,0.976,605,12,3,446,149,25
+AK Bad Homburger Kreuz,AS Offenbach-Kaiserlei,VB-E,http://bvwp-projekte.de/strasse/A661-G30-HE-T2-HE/A661-G30-HE-T2-HE.html,strasse,848,0.89,755,69,24,709,132,7
+AS Offenbach-Kaiserlei,AK Offenbacher Kreuz,WB*,http://bvwp-projekte.de/strasse/A661-G30-HE-T3-HE/A661-G30-HE-T3-HE.html,strasse,131,0.817,107,21,3,112,17,2
+AD Rüsselsheim,AD Mönchhof,VB-E,http://bvwp-projekte.de/strasse/A67-G10-HE-T1-HE/A67-G10-HE-T1-HE.html,strasse,245,0.935,229,14,2,209,36,
+AK Darmstadt,AD Rüsselsheim,VB-E,http://bvwp-projekte.de/strasse/A67-G10-HE-T2-HE/A67-G10-HE-T2-HE.html,strasse,374,0.794,297,62,15,289,81,4
+n AS Lorsch,AK Darmstadt,VB-E,http://bvwp-projekte.de/strasse/A67-G10-HE-T3-HE/A67-G10-HE-T3-HE.html,strasse,656,0.944,619,30,7,538,111,7
+Hochstraße Elbmarsch,,VB-E,http://bvwp-projekte.de/strasse/A7-G10-HH/A7-G10-HH.html,strasse,647,0.884,572,52,23,504,137,6
+AS Soltau-O,n AS Dorfmark,VB,http://bvwp-projekte.de/strasse/A7-G10-NI-T1-NI/A7-G10-NI-T1-NI.html,strasse,282,0.975,275,7,,223,56,3
+n AS Dorfmark,AS Fallingbostel,VB,http://bvwp-projekte.de/strasse/A7-G10-NI-T2-NI/A7-G10-NI-T2-NI.html,strasse,295,0.946,279,12,4,221,72,2
+AS Fallingbostel,AD Walsrode,FD,,strasse,259,0.958,248,6,5,206,53,
+AD Walsrode,AD Hannover-N,WB,http://bvwp-projekte.de/strasse/A7-G20-NI-T1-NI/A7-G20-NI-T1-NI.html,strasse,311,0.778,242,60,9,237,74,
+AS Hildesheim,AD Salzgitter,VB,http://bvwp-projekte.de/strasse/A7-G30-NI-T1-NI/A7-G30-NI-T1-NI.html,strasse,294,0.918,270,19,5,235,57,2
+AS Hamburg-Othmarschen,AD Hamburg/NW (A 23),FD-E,,strasse,527,0.882,465,45,17,437,87,3
+AS Göttingen,AD Salzgitter,FD,,strasse,422,0.917,387,18,17,328,88,6
+LGr. SH/HH,AD Bordesholm,FD,,strasse,1246,0.876,1091,81,74,930,267,49
+AD Hamburg/NW (A 23),LGr. SH/HH,FD,,strasse,161,0.876,141,15,5,138,20,3
+Borna-Nord,AD A 38/A 72,FD,,strasse,367,0.929,341,18,8,285,77,5
+AD Leonberg,AK Stuttgart,VB,http://bvwp-projekte.de/strasse/A8-G30-BW/A8-G30-BW.html,strasse,1062,0.972,1032,22,8,899,158,5
+AK Stuttgart,AS Stuttgart-Degerloch,VB-E,http://bvwp-projekte.de/strasse/A8-G40-BW/A8-G40-BW.html,strasse,1343,0.95,1276,50,17,1140,193,10
+AS Stuttgart-Degerloch,AS Esslingen,WB*,http://bvwp-projekte.de/strasse/A8-G50-BW-T1-BW/A8-G50-BW-T1-BW.html,strasse,467,0.85,397,54,16,394,67,6
+AS Esslingen,AS Wendlingen,WB*,http://bvwp-projekte.de/strasse/A8-G50-BW-T2-BW/A8-G50-BW-T2-BW.html,strasse,213,0.92,196,14,3,181,30,2
+AS Merzig/Wellingen,AS Merzig/ Schwemlingen,FD,,strasse,109,0.807,88,14,7,68,34,7
+AS Pforzheim-N,AS Pforzheim-S,FD-E,,strasse,716,0.971,695,9,12,595,117,4
+AS Mühlhausen,Hohenstadt,FD,,strasse,228,0.987,225,3,,199,28,1
+Hohenstadt,Ulm-West,FD,,strasse,649,0.96,623,12,14,518,120,11
+AS Pleidelsheim,AS Stuttgart-Zuffenhausen,WB*,http://bvwp-projekte.de/strasse/A81-G10-BW/A81-G10-BW.html,strasse,618,0.921,569,42,7,516,102,
+AK Weinsberg,AS Ilsfeld,WB*,http://bvwp-projekte.de/strasse/A81-G30-BW/A81-G30-BW.html,strasse,280,0.796,223,49,8,236,44,
+AK Stuttgart,AS Sindelfingen-Ost,VB,http://bvwp-projekte.de/strasse/A81-G50-BW/A81-G50-BW.html,strasse,790,0.956,755,23,12,670,112,8
+AS Böblingen-Hulb,AS Sindelfingen-O,FD-E,,strasse,848,0.95,806,24,18,731,107,10
+Freiburg,AS Freiburg-Mitte,VB,http://bvwp-projekte.de/strasse/A860_B31-G20-BW-T1-BW/A860_B31-G20-BW-T1-BW.html,strasse,902,0.915,825,61,16,755,134,13
+Kirchzarten,Buchenbach,VB,http://bvwp-projekte.de/strasse/A860_B31-G20-BW-T2-BW/A860_B31-G20-BW-T2-BW.html,strasse,458,0.725,332,92,34,327,125,6
+OU Hinterzarten,,WB,http://bvwp-projekte.de/strasse/A860_B31-G20-BW-T5-BW/A860_B31-G20-BW-T5-BW.html,strasse,214,0.748,160,39,15,148,63,3
+AS Forstinning,AS Marktl,FD,,strasse,570,0.877,500,54,16,386,154,30
+Rheinfelden - Schwörstadt,(Bergtrasse / BAB),VB,http://bvwp-projekte.de/strasse/A98-G100-BW-T1-BW/A98-G100-BW-T1-BW.html,strasse,241,0.938,226,13,2,174,56,11
+Schwörstadt -  Tiengen,(1. Fahrbahn),VB,http://bvwp-projekte.de/strasse/A98-G100-BW-T2-BW/A98-G100-BW-T2-BW.html,strasse,148,0.932,138,8,2,114,31,3
+AD Hochrhein,Rheinfelden- Karsau,FD,,strasse,178,0.938,167,9,2,134,39,5
+Friedrichshafen/Waggershausen,Friedrichshafen (B 30 alt),VB,http://bvwp-projekte.de/strasse/B31-G20-BW/B31-G20-BW.html,strasse,189,0.952,180,7,2,139,49,1
+OU Grenzach,,VB,http://bvwp-projekte.de/strasse/B34-G10-BW-T1-BW/B34-G10-BW-T1-BW.html,strasse,115,0.748,86,24,5,75,25,15
+OU Garmisch-Partenkirchen,,VB,http://bvwp-projekte.de/strasse/B002-G010-BY/B002-G010-BY.html,strasse,241,0.896,216,20,5,149,86,6
+Eschenlohe,Oberau-N,WB*,http://bvwp-projekte.de/strasse/B002-G020-BY/B002-G020-BY.html,strasse,153,0.941,144,9,,100,50,3
+Starnberg,(Entlastungstunnel),WB*,http://bvwp-projekte.de/strasse/B002-G050-BY/B002-G050-BY.html,strasse,283,0.848,240,37,6,223,54,6
+AS Friedberg,B 300,VB,http://bvwp-projekte.de/strasse/B002-G080-BY-T01-BY/B002-G080-BY-T01-BY.html,strasse,114,0.658,75,35,4,76,30,8
+OU Kissing,,VB,http://bvwp-projekte.de/strasse/B002-G080-BY-T03-BY/B002-G080-BY-T03-BY.html,strasse,163,0.632,103,53,7,92,51,20
+Kissing,Oberottmarshausen (B 17),VB,http://bvwp-projekte.de/strasse/B002-G080-BY-T04-BY/B002-G080-BY-T04-BY.html,strasse,107,0.533,57,46,4,55,39,13
+Flughafen Nürnberg,A 3,WB*,http://bvwp-projekte.de/strasse/B004-G010-BY/B004-G010-BY.html,strasse,248,0.56,139,101,8,88,89,71
+AD Neu-Ulm (B 28/B 30),ö Neu-Ulm,WB,http://bvwp-projekte.de/strasse/B010-G010-BY/B010-G010-BY.html,strasse,117,0.778,91,23,3,85,26,6
+Neu-Ulm,AS Nersingen (A 7),VB,http://bvwp-projekte.de/strasse/B010-G020-BY/B010-G020-BY.html,strasse,151,0.821,124,20,7,115,32,4
+Kempten (A 7),Kaufbeuren,WB*,http://bvwp-projekte.de/strasse/B012-G010-BY-T01-BY/B012-G010-BY-T01-BY.html,strasse,167,0.856,143,21,3,129,37,1
+Kaufbeuren,AS Jengen/Kaufbeuren (A 96),VB,http://bvwp-projekte.de/strasse/B012-G010-BY-T02-BY/B012-G010-BY-T02-BY.html,strasse,210,0.786,165,39,6,156,49,5
+AS Holzkirchen (A 8),B 13 (OU Holzkirchen),VB,http://bvwp-projekte.de/strasse/B013-G090-BY-T01-BY/B013-G090-BY-T01-BY.html,strasse,126,0.778,98,25,3,91,29,6
+OU Stein / Eibach,mit Rednitztunnel,VB,http://bvwp-projekte.de/strasse/B014-G010-BY-T05-BY/B014-G010-BY-T05-BY.html,strasse,159,0.629,100,54,5,77,64,18
+O-OU Landshut (A 92 - B 299),,VB,,strasse,289,0.782,226,60,3,178,84,27
+Landshut (A 92) - Rosenheim (A 8),(vorläufiges Dummy Projekt),WB*,,strasse,655,0.643,421,213,21,336,222,97
+St 2043,B 13,VB,http://bvwp-projekte.de/strasse/B016-G050-BY-T04-BY/B016-G050-BY-T04-BY.html,strasse,120,0.742,89,26,5,78,38,4
+AS Gallingkofen,AS Haslbach,VB,http://bvwp-projekte.de/strasse/B016-G070-BY/B016-G070-BY.html,strasse,140,0.807,113,20,7,88,44,8
+Aschaffenburg,B 469,VB,http://bvwp-projekte.de/strasse/B026-G010-BY/B026-G010-BY.html,strasse,139,0.755,105,30,4,105,28,6
+AK Schweinfurt/Werneck (A 7),Karlstadt,VB,http://bvwp-projekte.de/strasse/B026-G044-BY-T01-BY/B026-G044-BY-T01-BY.html,strasse,202,0.767,155,39,8,125,63,14
+Karlstadt,A 3,WB*,http://bvwp-projekte.de/strasse/B026-G044-BY-T02-BY/B026-G044-BY-T02-BY.html,strasse,197,0.695,137,53,7,104,71,22
+Tübingen (Bläsibad),B 28 (Schindhaubasistunnel),VB,http://bvwp-projekte.de/strasse/B027-G110-BW/B027-G110-BW.html,strasse,454,0.947,430,19,5,356,94,4
+Dotternhausen,Balingen,VB,http://bvwp-projekte.de/strasse/B027-G40-BW-T3-BW/B027-G40-BW-T3-BW.html,strasse,114,0.851,97,11,6,81,31,2
+Friedrichshafen (B 31),Ravensburg/Eschach,VB,http://bvwp-projekte.de/strasse/B030-G10-BW/B030-G10-BW.html,strasse,383,0.943,361,16,6,298,78,7
+Lgr. BW/BY,A 96,WB*,http://bvwp-projekte.de/strasse/B031-G010-BY/B031-G010-BY.html,strasse,212,0.91,193,17,2,147,61,4
+Immenstaad,Friedrichshafen/ Waggershausen,FD,,strasse,434,0.979,425,9,,332,99,3
+OU Ravensburg,(Molldiete-Tunnel),VB,http://bvwp-projekte.de/strasse/B032-G20-BW/B032-G20-BW.html,strasse,177,0.932,165,10,2,149,26,2
+OU Tasdorf,,VB,http://bvwp-projekte.de/strasse/B1-G10-BB/B1-G10-BB.html,strasse,100,0.75,75,21,4,54,37,9
+OU Salzkotten,,VB,http://bvwp-projekte.de/strasse/B1-G10-NW-T2-NW/B1-G10-NW-T2-NW.html,strasse,137,0.81,111,19,7,92,39,6
+Pforzheim/Eutingen,Niefern,VB,http://bvwp-projekte.de/strasse/B10-G10-BW/B10-G10-BW.html,strasse,199,0.824,164,25,10,135,60,4
+Hinterweidenthal,Hauenstein,VB,http://bvwp-projekte.de/strasse/B10-G11-RP-T1-RP/B10-G11-RP-T1-RP.html,strasse,169,0.834,141,26,2,121,46,2
+Hauenstein,Wellbachtal (B 48),VB,http://bvwp-projekte.de/strasse/B10-G11-RP-T2-RP/B10-G11-RP-T2-RP.html,strasse,230,0.839,193,34,3,167,60,3
+Wellbachtal (B 48),AS Annweiler-O,WB*,http://bvwp-projekte.de/strasse/B10-G11-RP-T3-RP/B10-G11-RP-T3-RP.html,strasse,188,0.835,157,29,2,154,33,1
+AS Annweiler-O,Godramstein,WB*,http://bvwp-projekte.de/strasse/B10-G11-RP-T4-RP/B10-G11-RP-T4-RP.html,strasse,199,0.784,156,40,3,153,45,1
+Godramstein,Landau (A 65),VB,http://bvwp-projekte.de/strasse/B10-G11-RP-T5-RP/B10-G11-RP-T5-RP.html,strasse,250,0.788,197,47,6,200,47,3
+OU Berghausen,,VB,http://bvwp-projekte.de/strasse/B10-G20-BW/B10-G20-BW.html,strasse,157,0.866,136,11,10,99,52,6
+Enzweihingen,Schwieberdingen,VB,http://bvwp-projekte.de/strasse/B10-G40-BW-T1-BW/B10-G40-BW-T1-BW.html,strasse,305,0.882,269,26,10,215,82,8
+Schwieberdingen,AS Stuttgart-Zuffenhausen (A 81),VB,http://bvwp-projekte.de/strasse/B10-G40-BW-T2-BW/B10-G40-BW-T2-BW.html,strasse,189,0.857,162,19,8,124,61,4
+AS Stuttgart-Zuffenhausen (A 81),AS Stuttgart-Neuwirtshaus,VB,http://bvwp-projekte.de/strasse/B10-G50-BW/B10-G50-BW.html,strasse,204,0.873,178,21,5,159,41,4
+Dreieck Stuttgart-Neckarpark,AS Stuttgart,VB,http://bvwp-projekte.de/strasse/B10-G60-BW-T1-BW/B10-G60-BW-T1-BW.html,strasse,304,0.836,254,37,13,221,73,10
+AS Stuttgart-Hafen-Süd,AS Esslingen-O,VB,http://bvwp-projekte.de/strasse/B10-G60-BW-T2-BW/B10-G60-BW-T2-BW.html,strasse,389,0.833,324,53,12,300,83,6
+AS Esslingen-Oberesslingen,Plochinger Dreieck,VB,http://bvwp-projekte.de/strasse/B10-G60-BW-T3-BW/B10-G60-BW-T3-BW.html,strasse,285,0.842,240,39,6,229,55,1
+Süßen-O,Gingen-O,FD,,strasse,132,0.962,127,1,4,89,41,2
+Gingen-O,Geislingen-M,VB,http://bvwp-projekte.de/strasse/B10-G80-BW-T1-BW/B10-G80-BW-T1-BW.html,strasse,237,0.983,233,2,2,164,70,3
+Geislingen-M,Geislingen-O,WB,http://bvwp-projekte.de/strasse/B10-G80-BW-T2-BW/B10-G80-BW-T2-BW.html,strasse,162,0.963,156,4,2,106,54,2
+OU Urspring,,VB,http://bvwp-projekte.de/strasse/B10-G80-BW-T4-BW/B10-G80-BW-T4-BW.html,strasse,114,0.86,98,12,4,61,48,5
+OU Freiberg,,VB,http://bvwp-projekte.de/strasse/B101-G60-SN-T3-SN/B101-G60-SN-T3-SN.html,strasse,200,0.74,148,43,9,127,53,20
+Trebbin,s Kerzendorf (OU Thyrow),FD,,strasse,126,0.857,108,9,9,92,27,7
+OU Mönchhagen,,VB,http://bvwp-projekte.de/strasse/B105-G10-MV/B105-G10-MV.html,strasse,352,0.821,289,49,14,226,107,19
+Südverbund Chemnitz,Ebersdorf,VB,http://bvwp-projekte.de/strasse/B107_B174-G20-SN-T2-SN/B107_B174-G20-SN-T2-SN.html,strasse,232,0.918,213,16,3,172,51,9
+OU Lühmannsdorf,,VB,http://bvwp-projekte.de/strasse/B111-G10-MV-T1-MV/B111-G10-MV-T1-MV.html,strasse,136,0.743,101,26,9,82,45,9
+OU Wolgast,,VB,http://bvwp-projekte.de/strasse/B111-G10-MV-T2-MV/B111-G10-MV-T2-MV.html,strasse,298,0.93,277,19,2,179,106,13
+Backnang-West,Nellmersbach,VB,,strasse,334,0.937,313,14,7,261,70,3
+OU Oppenweiler,,VB,http://bvwp-projekte.de/strasse/B14-G30-BW/B14-G30-BW.html,strasse,134,0.888,119,9,6,92,40,2
+OU Stockach,,VB,http://bvwp-projekte.de/strasse/B14-G50-BW/B14-G50-BW.html,strasse,104,0.808,84,16,4,65,32,7
+Westtangente Rosenheim,(1.-4.BA),FD,,strasse,204,0.838,171,26,7,115,77,12
+OU Ahrensfelde,,VB,http://bvwp-projekte.de/strasse/B158-G10-BB-BE/B158-G10-BB-BE.html,strasse,335,0.818,274,46,15,198,97,40
+OU Blumberg,,VB,http://bvwp-projekte.de/strasse/B158-G20-BB/B158-G20-BB.html,strasse,106,0.717,76,18,12,46,46,14
+Ergoldsbach,Essenbach (A 92),FD,,strasse,226,0.956,216,7,3,161,59,6
+OU Finowfurt,und OU Eberswalde,VB,http://bvwp-projekte.de/strasse/B167_B112-G40-BB-T8-BB/B167_B112-G40-BB-T8-BB.html,strasse,116,0.569,66,46,4,57,44,15
+AS Döbeln-Nord,Salbitz,VB,http://bvwp-projekte.de/strasse/B169-G30-SN-BB-T1-SN/B169-G30-SN-BB-T1-SN.html,strasse,106,0.84,89,14,3,64,35,7
+OU Pirna,,VB,http://bvwp-projekte.de/strasse/B172-G10-SN/B172-G10-SN.html,strasse,429,0.897,385,37,7,278,138,13
+Niederoderwitz,Zittau,FD,,strasse,175,0.937,164,10,1,121,47,7
+Nostitz,A 4,FD,,strasse,187,0.941,176,8,3,132,50,5
+w Leipzig,AS Leipzig-W (A 9),VB,http://bvwp-projekte.de/strasse/B181-G10-SN/B181-G10-SN.html,strasse,216,0.889,192,20,4,158,55,3
+OU Zöschen-Wallendorf,Merseburg,VB,http://bvwp-projekte.de/strasse/B181-G10-ST/B181-G10-ST.html,strasse,111,0.775,86,21,4,64,42,5
+Mirow,AS Wittstock/Dosse (A 19),VB,http://bvwp-projekte.de/strasse/B189n-G30-MV-BB/B189n-G30-MV-BB.html,strasse,101,0.584,59,37,5,48,31,22
+LGr. ST/NI,A 14,WB,http://bvwp-projekte.de/strasse/B190n-G10-ST-NI-T1-ST/B190n-G10-ST-NI-T1-ST.html,strasse,150,0.747,112,32,6,84,45,21
+OU Bergen,,VB,http://bvwp-projekte.de/strasse/B196-G10-MV/B196-G10-MV.html,strasse,212,0.797,169,35,8,107,92,13
+OU Handewitt,,VB,http://bvwp-projekte.de/strasse/B199-G10-SH/B199-G10-SH.html,strasse,215,0.674,145,47,23,108,80,27
+OU Malchow,,VB,http://bvwp-projekte.de/strasse/B2-G20-BE/B2-G20-BE.html,strasse,544,0.735,400,88,56,280,177,87
+Südspange Kiel,,VB,http://bvwp-projekte.de/strasse/B202-G20-SH/B202-G20-SH.html,strasse,290,0.886,257,22,11,192,81,17
+N-OU Itzehoe,,VB,http://bvwp-projekte.de/strasse/B206-G10-SH/B206-G10-SH.html,strasse,129,0.62,80,26,23,52,53,24
+Puttgarden,Heiligenhafen-Ost,FD,,strasse,392,0.758,297,78,17,157,186,49
+OU Ratzeburg,,VB,http://bvwp-projekte.de/strasse/B208-G20-SH/B208-G20-SH.html,strasse,112,0.705,79,24,9,57,44,11
+OU Aurich,,VB,http://bvwp-projekte.de/strasse/B210-G10-NI-T2-NI/B210-G10-NI-T2-NI.html,strasse,108,0.694,75,26,7,61,35,12
+Aurich,Riepe (A 31),VB,http://bvwp-projekte.de/strasse/B210-G10-NI-T3-NI/B210-G10-NI-T3-NI.html,strasse,187,0.695,130,45,12,99,59,29
+w Haselünne,Kgr. Emsland/Cloppenburg,VB,http://bvwp-projekte.de/strasse/B213-G10-NI-T3-NI/B213-G10-NI-T3-NI.html,strasse,117,0.795,93,22,2,84,28,5
+Kgr. Emsland/Cloppenburg,ö Löningen (OU Löningen),VB,http://bvwp-projekte.de/strasse/B213-G10-NI-T4-NI/B213-G10-NI-T4-NI.html,strasse,110,0.7,77,28,5,64,37,9
+OU BS-Watenbüttel,,VB,http://bvwp-projekte.de/strasse/B214-G70-NI/B214-G70-NI.html,strasse,236,0.831,196,33,7,168,55,13
+W-OU Garmisch-Partenkirchen,(mit Kramer-Tunnel),FD,,strasse,197,0.919,181,13,3,120,70,7
+OU Münchhausen/ Simtshausen/,und Todenhausen/ Wetter-Lahntal,FD,,strasse,186,0.903,168,15,3,130,52,4
+OU Hürth/Hermülheim,,FD,,strasse,114,0.886,101,9,4,82,30,2
+Donaueschingen,Hüfingen,FD,,strasse,105,0.819,86,14,5,73,29,3
+Bodelshausen (L 389),Nehren (L 394),VB,http://bvwp-projekte.de/strasse/B27-G30-BW/B27-G30-BW.html,strasse,253,0.937,237,14,2,195,55,3
+AS Leinfelden-Echterdingen-Nord,AS Aich,VB-E,http://bvwp-projekte.de/strasse/B27-G50-BW/B27-G50-BW.html,strasse,771,0.918,708,51,12,626,130,15
+AS Neckarsulm,B27/L1095,VB,http://bvwp-projekte.de/strasse/B27-G60-BW/B27-G60-BW.html,strasse,150,0.873,131,16,3,118,31,1
+OU Unterjesingen,,VB,http://bvwp-projekte.de/strasse/B28-G70-BW/B28-G70-BW.html,strasse,243,0.802,195,40,8,172,68,3
+Rottenburg,Tübingen (L 370 alt),FD,,strasse,199,0.799,159,34,6,129,64,6
+Hussenhofen,Böbingen,VB,http://bvwp-projekte.de/strasse/B29-G50-BW-T2-BW/B29-G50-BW-T2-BW.html,strasse,121,0.934,113,8,,95,25,1
+Böbingen,Mögglingen,VB,http://bvwp-projekte.de/strasse/B29-G50-BW-T3-BW/B29-G50-BW-T3-BW.html,strasse,144,0.958,138,4,2,118,25,1
+NO-Ring Stuttgart,(B 27 - B 14),WB*,http://bvwp-projekte.de/strasse/B29-G990-BW/B29-G990-BW.html,strasse,551,0.804,443,96,12,329,175,47
+OU Mögglingen,,FD,,strasse,226,0.978,221,3,2,165,61,
+OU Berghausen,,VB,http://bvwp-projekte.de/strasse/B293-G30-BW-T1-BW/B293-G30-BW-T1-BW.html,strasse,141,0.879,124,12,5,107,34,
+OU Jöhlingen,,VB,http://bvwp-projekte.de/strasse/B293-G30-BW-T2-BW/B293-G30-BW-T2-BW.html,strasse,150,0.847,127,18,5,108,38,4
+SW-OU Bretten,,VB,http://bvwp-projekte.de/strasse/B294-G20-BW/B294-G20-BW.html,strasse,102,0.853,87,13,2,71,24,7
+OU Winden,,FD,,strasse,126,0.905,114,10,2,78,44,4
+A 92,Landshut,WB*,http://bvwp-projekte.de/strasse/B299-G110-BY/B299-G110-BY.html,strasse,128,0.883,113,11,4,103,22,3
+Unterkochen,Ebnat,VB,http://bvwp-projekte.de/strasse/B29a-G30-BW/B29a-G30-BW.html,strasse,126,0.786,99,18,9,89,30,7
+Röttingen,Nördlingen,VB,http://bvwp-projekte.de/strasse/B29n-G50-BW-BY/B29n-G50-BW-BY.html,strasse,107,0.57,61,43,3,60,34,13
+OU Oberau,,FD,,strasse,186,0.946,176,7,3,121,61,4
+OU Karben/Okarben,,VB,http://bvwp-projekte.de/strasse/B3-G10-HE-T3-HE/B3-G10-HE-T3-HE.html,strasse,122,0.877,107,11,4,88,30,4
+OU Butzbach,(A 5 - Windhof),VB,http://bvwp-projekte.de/strasse/B3-G10-HE-T4-HE/B3-G10-HE-T4-HE.html,strasse,127,0.528,67,55,5,74,33,20
+B 535,L 594a (Wiesloch-N),VB,http://bvwp-projekte.de/strasse/B3-G20-BW/B3-G20-BW.html,strasse,225,0.716,161,51,13,168,54,3
+OU Celle (Mittelteil),,VB,http://bvwp-projekte.de/strasse/B3-G30-NI-T3-NI/B3-G30-NI-T3-NI.html,strasse,120,0.9,108,10,2,89,27,4
+OU Hemmingen,,FD,,strasse,179,0.771,138,33,8,114,52,13
+Biberach (Jordanbad),Hochdorf,VB,http://bvwp-projekte.de/strasse/B30-G30-BW/B30-G30-BW.html,strasse,178,0.854,152,18,8,135,43,
+OU Ravensburg/ Eschach,Baindt,FD,,strasse,206,0.956,197,6,3,167,36,3
+OU Eglharting/Kirchseeon (Süd),,WB,http://bvwp-projekte.de/strasse/B304-G010-BY-T01-BY/B304-G010-BY-T01-BY.html,strasse,114,0.693,79,30,5,72,30,12
+Überlingen/W,Überlingen/O,FD,,strasse,308,0.958,295,11,2,224,80,4
+Überlingen/O,Oberuhldingen,VB,http://bvwp-projekte.de/strasse/B31-G10-BW-T2-BW/B31-G10-BW-T2-BW.html,strasse,185,0.951,176,8,1,131,52,2
+Oberuhldingen,Meersburg/W,VB,http://bvwp-projekte.de/strasse/B31-G10-BW-T3-BW/B31-G10-BW-T3-BW.html,strasse,319,0.95,303,12,4,217,97,5
+Meersburg/W,Immenstaad,VB,http://bvwp-projekte.de/strasse/B31-G10-BW-T4-BW/B31-G10-BW-T4-BW.html,strasse,720,0.964,694,22,4,529,182,9
+Breisach,Freiburg,VB,http://bvwp-projekte.de/strasse/B31-G30-BW/B31-G30-BW.html,strasse,444,0.75,333,86,25,264,152,28
+Verlegung bei Lichtenstein,(Albaufstieg),VB,http://bvwp-projekte.de/strasse/B312-G20-BW-T01-BW/B312-G20-BW-T01-BW.html,strasse,167,0.916,153,12,2,117,48,2
+Ringschnait,Edenbachen,WB*,http://bvwp-projekte.de/strasse/B312-G30-BW/B312-G30-BW.html,strasse,118,0.932,110,8,,95,20,3
+OU Reutlingen,(Scheibengipfeltunnel),FD,,strasse,182,0.901,164,14,4,113,60,9
+Lörrach,Schopfheim,WB*,http://bvwp-projekte.de/strasse/B317-G10-BW/B317-G10-BW.html,strasse,142,0.704,100,33,9,97,42,3
+W-OU Gmund,,VB,http://bvwp-projekte.de/strasse/B318-G010-BY/B318-G010-BY.html,strasse,159,0.811,129,24,6,107,48,4
+BAB-Zubringer Schwerin,,FD,,strasse,126,0.841,106,15,5,97,26,3
+OU Elgersweier,,VB,http://bvwp-projekte.de/strasse/B33-G20-BW/B33-G20-BW.html,strasse,127,0.85,108,15,4,83,37,7
+OU Haslach,,VB,http://bvwp-projekte.de/strasse/B33-G40-BW/B33-G40-BW.html,strasse,102,0.941,96,6,,73,28,1
+OU Bruchsal-Ost,,VB,http://bvwp-projekte.de/strasse/B35-G10-BW/B35-G10-BW.html,strasse,147,0.762,112,26,9,83,51,13
+Wörth am Rhein (B 9),Lgr. RP/BW,VB,http://bvwp-projekte.de/strasse/B36_B293-G10-RP-BW-T1-RP/B36_B293-G10-RP-BW-T1-RP.html,strasse,313,0.863,270,36,7,227,72,14
+Lgr. RP/BW,B 10 (2. Rheinbrücke),VB,http://bvwp-projekte.de/strasse/B36_B293-G10-RP-BW-T2-BW/B36_B293-G10-RP-BW-T2-BW.html,strasse,435,0.846,368,58,9,307,116,12
+Querspange 2. Rheinbrücke Karlsruhe,,VB,http://bvwp-projekte.de/strasse/B36_B293-G10-RP-BW-T3-BW/B36_B293-G10-RP-BW-T3-BW.html,strasse,475,0.836,397,72,6,297,146,32
+OU Mörlenbach,,VB,http://bvwp-projekte.de/strasse/B38-G10-HE-T1-HE/B38-G10-HE-T1-HE.html,strasse,103,0.835,86,15,2,73,25,5
+N-OU Passau,,VB,http://bvwp-projekte.de/strasse/B388-G050-BY/B388-G050-BY.html,strasse,158,0.373,59,97,2,48,56,54
+n Rötgesbüttel,AS Meinerzhagen,VB-E,http://bvwp-projekte.de/strasse/B4-G20-NI-T1-NI/B4-G20-NI-T1-NI.html,strasse,296,0.912,270,21,5,225,63,8
+AS Braunschweig-Wenden,s Meine,VB-E,http://bvwp-projekte.de/strasse/B4-G20-NI-T2-NI/B4-G20-NI-T2-NI.html,strasse,145,0.917,133,10,2,106,32,7
+OU Schwarzenbach,und OU Schwarzenacker,VB,http://bvwp-projekte.de/strasse/B423-G10-SL/B423-G10-SL.html,strasse,125,0.664,83,25,17,66,42,17
+OU Glückstadt,,VB,http://bvwp-projekte.de/strasse/B431-G10-SH/B431-G10-SH.html,strasse,140,0.7,98,29,13,58,60,22
+Verlegung in Wedel,,VB,http://bvwp-projekte.de/strasse/B431-G20-SH/B431-G20-SH.html,strasse,112,0.741,83,22,7,69,37,6
+OU Wunstorf,,VB,http://bvwp-projekte.de/strasse/B441-G30-NI/B441-G30-NI.html,strasse,141,0.809,114,19,8,95,38,8
+OU Koldingen,,VB,http://bvwp-projekte.de/strasse/B443-G20-NI/B443-G20-NI.html,strasse,122,0.697,85,28,9,79,39,4
+Dieburg,Groß-Umstadt,VB,http://bvwp-projekte.de/strasse/B45-G10-HE/B45-G10-HE.html,strasse,138,0.797,110,26,2,92,43,3
+AS Friedberg,,VB,http://bvwp-projekte.de/strasse/B455-G20-HE/B455-G20-HE.html,strasse,101,0.871,88,12,1,82,17,2
+OU Wehrheim / Oberursel,,VB,http://bvwp-projekte.de/strasse/B456-G20-HE/B456-G20-HE.html,strasse,216,0.755,163,44,9,151,59,6
+Westtangente Pforzheim,1. BA (W-OU),VB,,strasse,226,0.876,198,18,10,149,65,12
+Westtangente Pforzheim,2. BA (W-OU),WB*,http://bvwp-projekte.de/strasse/B463-G10-BW-T2-BW/B463-G10-BW-T2-BW.html,strasse,119,0.874,104,11,4,76,37,6
+OU Reutlingen,,VB,http://bvwp-projekte.de/strasse/B464-G10-BW/B464-G10-BW.html,strasse,201,0.821,165,25,11,133,54,14
+OU Holzgerlingen,,FD,,strasse,205,0.888,182,15,8,147,50,8
+OU Owen,,VB,http://bvwp-projekte.de/strasse/B465-G10-BW/B465-G10-BW.html,strasse,106,0.726,77,23,6,58,38,10
+A 3,A 45,VB,http://bvwp-projekte.de/strasse/B469-G010-BY-HE/B469-G010-BY-HE.html,strasse,105,0.724,76,26,3,74,26,5
+O-OU Forchheim,,WB*,http://bvwp-projekte.de/strasse/B470-G030-BY/B470-G030-BY.html,strasse,103,0.689,71,30,2,65,31,7
+Dachau,A 92,VB,http://bvwp-projekte.de/strasse/B471-G020-BY/B471-G020-BY.html,strasse,148,0.818,121,22,5,114,32,2
+ö Ismaning,,VB,http://bvwp-projekte.de/strasse/B471-G050-BY/B471-G050-BY.html,strasse,105,0.81,85,14,6,72,27,6
+Mörfelden-Walldorf (A 5),OU Langen,VB,http://bvwp-projekte.de/strasse/B486-G20-HE-T1-HE/B486-G20-HE-T1-HE.html,strasse,249,0.863,215,30,4,191,52,6
+OU Mörfelden,,VB,http://bvwp-projekte.de/strasse/B486-G20-HE-T2-HE/B486-G20-HE-T2-HE.html,strasse,123,0.715,88,31,4,69,47,7
+AS Löhnberg,Kloster Altenberg,FD,,strasse,169,0.935,158,6,5,117,47,5
+OU Trier-Zewen,,VB,http://bvwp-projekte.de/strasse/B49n-G10-RP-T2-RP/B49n-G10-RP-T2-RP.html,strasse,109,0.835,91,12,6,83,24,2
+OU Hattstedt,Bredstedt,VB,http://bvwp-projekte.de/strasse/B5-G10-SH/B5-G10-SH.html,strasse,398,0.857,341,32,25,222,146,30
+A 1/A 60,Flughafen,FD,,strasse,325,0.711,231,74,20,174,105,46
+A 5,B 36,VB,http://bvwp-projekte.de/strasse/B500-G10-BW/B500-G10-BW.html,strasse,153,0.725,111,36,6,101,47,5
+Ostuferentlastungsstraße Kiel,,WB,http://bvwp-projekte.de/strasse/B502-G10-SH/B502-G10-SH.html,strasse,234,0.855,200,24,10,158,63,13
+Westumfahrung Trier,,VB,http://bvwp-projekte.de/strasse/B51-G20-RP/B51-G20-RP.html,strasse,260,0.827,215,39,6,181,55,24
+OU Köln/Meschenich,,VB,http://bvwp-projekte.de/strasse/B51-G50-NW-T1/B51-G50-NW-T1.html,strasse,116,0.914,106,8,2,80,32,4
+OU Konz-Könen,,FD,,strasse,117,0.829,97,12,8,68,40,9
+OU Hofheim / Kriftel,,VB,http://bvwp-projekte.de/strasse/B519-G10-HE-T2-HE/B519-G10-HE-T2-HE.html,strasse,224,0.509,114,102,8,110,62,52
+OU Münster,,FD,,strasse,283,0.866,245,29,9,212,64,7
+OU Villingen-Schwenningen,,VB,http://bvwp-projekte.de/strasse/B523-G10-BW/B523-G10-BW.html,strasse,106,0.849,90,13,3,70,29,7
+AS Münster/N,Altenberge (L 579),VB,http://bvwp-projekte.de/strasse/B54-G30-NW-T1-NW/B54-G30-NW-T1-NW.html,strasse,163,0.896,146,13,4,120,41,2
+Jülich,AS Düren (A 4),VB,http://bvwp-projekte.de/strasse/B56-G10-NW/B56-G10-NW.html,strasse,123,0.699,86,20,17,73,44,6
+AS Hardtberg (A 565),Bonn (B 9),WB*,http://bvwp-projekte.de/strasse/B56-G40-NW-T1-NW/B56-G40-NW-T1-NW.html,strasse,414,0.667,276,130,8,266,80,68
+Bonn/O (A 59),Birlinghoven/Dambroich,WB*,http://bvwp-projekte.de/strasse/B56-G40-NW-T2-NW/B56-G40-NW-T2-NW.html,strasse,364,0.538,196,158,10,203,89,72
+Hann.-Stöcken (K 321),Stöck,WB*,http://bvwp-projekte.de/strasse/B6-G20-NI/B6-G20-NI.html,strasse,139,0.878,122,16,1,111,26,2
+Verlegung in Dresden-Cossebaude,,VB,http://bvwp-projekte.de/strasse/B6-G20-SN/B6-G20-SN.html,strasse,349,0.865,302,31,16,201,129,19
+Rheda-Wiedenbrück (A 2),Gütersloh,VB,http://bvwp-projekte.de/strasse/B61-G10-NW-T1-NW/B61-G10-NW-T1-NW.html,strasse,100,0.82,82,13,5,80,18,2
+Gütersloh,Bielefeld/Ummeln,VB,http://bvwp-projekte.de/strasse/B61-G10-NW-T2-NW/B61-G10-NW-T2-NW.html,strasse,134,0.821,110,17,7,104,26,4
+Münster (B 481),ö Münster/Handorf,VB,http://bvwp-projekte.de/strasse/B64_B51-G10-NW-T1-NW/B64_B51-G10-NW-T1-NW.html,strasse,155,0.806,125,27,3,104,48,3
+OU Warendorf,,VB,http://bvwp-projekte.de/strasse/B64_B51-G10-NW-T3-NW/B64_B51-G10-NW-T3-NW.html,strasse,142,0.648,92,48,2,91,39,12
+Hannover (Riklinger Kreisel),AS Hannover-Anderten,WB,http://bvwp-projekte.de/strasse/B65-G40-NI-T4-NI/B65-G40-NI-T4-NI.html,strasse,350,0.871,305,36,9,272,73,5
+ö Sehnde,w Peine,VB,http://bvwp-projekte.de/strasse/B65-G60-NI/B65-G60-NI.html,strasse,259,0.714,185,48,26,149,90,20
+Bielefeld,,VB,http://bvwp-projekte.de/strasse/B66-G40-NW/B66-G40-NW.html,strasse,273,0.498,136,121,16,134,79,60
+Reken,Dülmen,VB,http://bvwp-projekte.de/strasse/B67_B474-G20-NW-T1-NW/B67_B474-G20-NW-T1-NW.html,strasse,155,0.858,133,13,9,110,35,10
+A 281,AS Bremen/Brinkum (Variante),VB,http://bvwp-projekte.de/strasse/B6n-G11-HB-NI-T1V-HB/B6n-G11-HB-NI-T1V-HB.html,strasse,221,0.91,201,15,5,159,57,5
+OU Weimar-Ost,,VB,http://bvwp-projekte.de/strasse/B7-G10-TH-T1-TH/B7-G10-TH-T1-TH.html,strasse,162,0.759,123,35,4,102,43,17
+Nohra,Weimar,VB,http://bvwp-projekte.de/strasse/B7-G10-TH-T2-TH/B7-G10-TH-T2-TH.html,strasse,130,0.654,85,36,9,93,30,7
+Mönchenholzhausen,Nohra,VB,http://bvwp-projekte.de/strasse/B7-G10-TH-T3-TH/B7-G10-TH-T3-TH.html,strasse,145,0.69,100,37,8,93,48,4
+Bestwig/Nuttlar (A 46),Brilon (B 480n),VB,http://bvwp-projekte.de/strasse/B7_B480-G10-NW-T1-NW/B7_B480-G10-NW-T1-NW.html,strasse,127,0.858,109,17,1,83,42,2
+Otterndorf,Cadenberge,VB,http://bvwp-projekte.de/strasse/B73-G20-NI-T1-NI/B73-G20-NI-T1-NI.html,strasse,109,0.743,81,22,6,60,38,11
+OU Cadenberge,,VB,http://bvwp-projekte.de/strasse/B73-G20-NI-T2-NI/B73-G20-NI-T2-NI.html,strasse,102,0.833,85,12,5,56,35,11
+Cadenberge,Drochtersen (A 20/A 26),WB*,http://bvwp-projekte.de/strasse/B73-G20-NI-T3-NI/B73-G20-NI-T3-NI.html,strasse,223,0.821,183,32,8,121,77,25
+OU Ritterhude,,VB,http://bvwp-projekte.de/strasse/B74-G10-NI/B74-G10-NI.html,strasse,103,0.573,59,34,10,45,38,20
+OU Wolfenbüttel,,VB,http://bvwp-projekte.de/strasse/B79-G20-NI/B79-G20-NI.html,strasse,148,0.574,85,51,12,81,50,17
+Dinslaken (A 59),Friedrichsfeld (K 12),VB,http://bvwp-projekte.de/strasse/B8-G10-NW-T1-NW/B8-G10-NW-T1-NW.html,strasse,101,0.752,76,24,1,62,37,2
+OU Hennef/Uckerath,,VB,http://bvwp-projekte.de/strasse/B8-G20-NW/B8-G20-NW.html,strasse,127,0.748,95,27,5,91,29,7
+Leipzig (A 14),Eilenburg (Variante Nord),WB*,http://bvwp-projekte.de/strasse/B87-G21-SN-BB-T1-SN/B87-G21-SN-BB-T1-SN.html,strasse,118,0.695,82,27,9,71,39,8
+Eilenburg,w Torgau,WB*,http://bvwp-projekte.de/strasse/B87-G21-SN-BB-T2-SN/B87-G21-SN-BB-T2-SN.html,strasse,131,0.817,107,21,3,86,37,8
+OU Rothenstein,,FD,,strasse,151,0.874,132,12,7,110,38,3
+Westtangente Krefeld,(B 57 - B 9),VB,http://bvwp-projekte.de/strasse/B9-G10-NW/B9-G10-NW.html,strasse,121,0.661,80,30,11,69,42,10
+Traßdorf (A 71),Nahwinden,FD,,strasse,187,0.802,150,19,18,107,58,22
+OU Thum/Ehrenfriedersdorf,,VB,http://bvwp-projekte.de/strasse/B95-G10-SN-T2-SN/B95-G10-SN-T2-SN.html,strasse,111,0.757,84,21,6,77,26,8
+OU Teschendorf,und OU Löwenberg,VB,http://bvwp-projekte.de/strasse/B96-G10-BB-T1-BB/B96-G10-BB-T1-BB.html,strasse,224,0.839,188,25,11,150,65,9
+OU Gransee,und OU Altlüdersdorf,VB,http://bvwp-projekte.de/strasse/B96-G10-BB-T2-BB/B96-G10-BB-T2-BB.html,strasse,119,0.882,105,10,4,93,21,5
+OU Fürstenberg,,VB,http://bvwp-projekte.de/strasse/B96-G10-BB-T3-BB/B96-G10-BB-T3-BB.html,strasse,159,0.906,144,12,3,114,41,4
+AS Altefähr,Bergen,FD,,strasse,224,0.871,195,28,1,139,74,11
+OU Ottendorf-Okrilla mit AS,,VB,http://bvwp-projekte.de/strasse/B97-G10-SN/B97-G10-SN.html,strasse,157,0.611,96,46,15,77,60,20
+OU Nierstein (B 9),,VB,http://bvwp-projekte.de/strasse/B9n-G10-RP-T1-RP/B9n-G10-RP-T1-RP.html,strasse,124,0.855,106,15,3,99,24,1
+AS Neuental,AS Schwalmstadt,FD,,strasse,148,0.872,129,19,,104,36,8
+AS Schwalmstadt,AD A 5/A 49,FD,,strasse,488,0.863,421,52,15,327,122,39
+AD Barnim,Lgr. BB/BE,FD,,strasse,236,0.822,194,31,11,169,59,8
+Konstanz (Landeplatz),Allensbach/W,FD,,strasse,456,0.956,436,14,6,372,78,6
+AS Wiesloch /Rauenberg,AK Weinsberg,FD-E,,strasse,694,0.967,671,13,10,585,106,3
+AK Wiesbaden/ Schierstein,#NAME?,FD,,strasse,473,0.977,462,9,2,391,77,5
+w Nordgoltern,ö Everloh,WB,http://bvwp-projekte.de/strasse/B65-G40-NI-T2-NI/B65-G40-NI-T2-NI.html,strasse,116,0.672,78,31,7,77,31,8
+Schwörstadt -  Tiengen,(2. Fahrbahn),WB*,http://bvwp-projekte.de/strasse/A98-G100-BW-T3-BW/A98-G100-BW-T3-BW.html,strasse,286,0.899,257,24,5,215,57,14
+Bau von sieben 2. Schleusenkammern an der Mosel,,VB,http://bvwp-projekte.de/wasserstrasse/w28/w28.html,wasser,103,0.524,54,37,12,24,20,59
+Verlängerung der Neckarschleusen von Mannheim bis Plochingen,,VB,http://bvwp-projekte.de/wasserstrasse/w29/w29.html,wasser,215,0.577,124,65,26,36,41,138
+VDE 17 (Hannover - Magdeburg - Berlin),,FD,,wasser,123,0.585,72,38,13,28,26,69
+Vertiefung des NOK,,VB-E,http://bvwp-projekte.de/wasserstrasse/w02/w02.html,wasser,344,0.93,320,13,11,97,82,165
+Ausbau der Donau im Abschnitt Straubing-Vilshofen (Variante A),,VB,http://bvwp-projekte.de/wasserstrasse/w31/w31.html,wasser,133,0.301,40,79,14,22,24,87
+Fahrrinnenvertiefung des Untermains bis Aschaffenburg,,VB-E,http://bvwp-projekte.de/wasserstrasse/w30/w30.html,wasser,114,0.491,56,33,25,21,18,75
+Ausbau des Elbe-Lübeck-Kanals,,VB,http://bvwp-projekte.de/wasserstrasse/w33/w33.html,wasser,139,0.475,66,55,18,27,39,73
+Aubau der Havel-Oder-Wassestraße,,VB,http://bvwp-projekte.de/wasserstrasse/w37/w37.html,wasser,127,0.583,74,36,17,23,28,76
+Fahrrinnenanpassung der Unter- und Außenelbe,,FD,,wasser,283,0.629,178,94,11,85,75,123
+Knoten Frankfurt,,VB-E,http://bvwp-projekte.de/schiene/K-001-V01/K-001-V01.html,schiene,191,0.953,182,4,5,164,23,4
+Knoten Hamburg,,VB-E,http://bvwp-projekte.de/schiene/K-002-V01/K-002-V01.html,schiene,200,0.94,188,6,6,165,27,8
+Knoten Köln,,VB-E,http://bvwp-projekte.de/schiene/K-003-V01/K-003-V01.html,schiene,271,0.937,254,7,10,219,48,4
+Knoten München,,VB-E,http://bvwp-projekte.de/schiene/K-005-V01/K-005-V01.html,schiene,156,0.859,134,17,5,138,14,4
+AD Hannover-W,,VB,,strasse,572,0.731,418,99,55,430,114,28
+AK Hannover-Buchholz,,VB,http://bvwp-projekte.de/strasse/A2-G11-NI-T6-NI/A2-G11-NI-T6-NI.html,strasse,703,0.676,475,137,91,518,141,44
+AK Osnabrück-S,,VB,http://bvwp-projekte.de/strasse/A30-G10-NI-NW-T3-NI/A30-G10-NI-NW-T3-NI.html,strasse,367,0.722,265,55,47,261,84,22
+AD Salzgitter,,FD,,strasse,492,0.608,299,99,94,257,159,76
+AK Oberhausen,,VB,http://bvwp-projekte.de/strasse/A3-G70-NW-T3-NW/A3-G70-NW-T3-NW.html,strasse,198,0.823,163,26,9,174,17,7
+AD Bottrop,,VB,http://bvwp-projekte.de/strasse/A2-G10-NW/A2-G10-NW.html,strasse,267,0.693,185,53,29,197,58,12
+AK Herne,,VB,http://bvwp-projekte.de/strasse/A43-G30-NW-T5-NW/A43-G30-NW-T5-NW.html,strasse,354,0.876,310,27,17,288,58,8
+AK Dortmund/Unna,n AS Unna-Zentrum,VB,http://bvwp-projekte.de/strasse/A1-G100-NW-T1-NW/A1-G100-NW-T1-NW.html,strasse,409,0.804,329,55,25,317,82,10
+AK Moers (A 40),,VB,http://bvwp-projekte.de/strasse/A57-G50-NW-T1-NW/A57-G50-NW-T1-NW.html,strasse,275,0.822,226,33,16,214,56,5
+AK Duisburg-N (A 42),,VB,http://bvwp-projekte.de/strasse/A59-G70-NW-T3-NW/A59-G70-NW-T3-NW.html,strasse,234,0.803,188,30,16,174,49,11
+AK Kaiserberg (A 40),,VB,http://bvwp-projekte.de/strasse/A3-G60-NW-T1-NW/A3-G60-NW-T1-NW.html,strasse,572,0.857,490,44,38,469,74,29
+AK Westhofen,,VB,http://bvwp-projekte.de/strasse/A1-G60-NW-T1-NW/A1-G60-NW-T1-NW.html,strasse,377,0.828,312,43,22,306,60,11
+AK Wuppertal-N,,VB,http://bvwp-projekte.de/strasse/A1-G50-NW/A1-G50-NW.html,strasse,378,0.783,296,51,31,295,68,15
+AK Kaarst,,VB,http://bvwp-projekte.de/strasse/A57-G30-NW/A57-G30-NW.html,strasse,453,0.848,384,41,28,340,102,11
+AK Hilden,,VB,http://bvwp-projekte.de/strasse/A3-G20-NW-T3-NW/A3-G20-NW-T3-NW.html,strasse,581,0.835,485,59,37,476,97,8
+AK Köln-N (A 57),,FD,,strasse,712,0.83,591,64,57,562,138,12
+AK Köln-S (A 555),,VB,http://bvwp-projekte.de/strasse/A4-G70-NW-T2-NW/A4-G70-NW-T2-NW.html,strasse,636,0.858,546,55,35,526,103,7
+AK Köln-Godorf (A 555),,WB*,http://bvwp-projekte.de/strasse/A553-G10-NW-T1-NW/A553-G10-NW-T1-NW.html,strasse,222,0.775,172,35,15,171,47,4
+AK Bonn/N (A 555),,WB*,http://bvwp-projekte.de/strasse/A565-G10-NW-T3-NW/A565-G10-NW-T3-NW.html,strasse,459,0.837,384,47,28,388,62,9
+AK Bad Homburg,,VB,http://bvwp-projekte.de/strasse/A5-G20-HE-T6-HE/A5-G20-HE-T6-HE.html,strasse,576,0.83,478,63,35,472,93,11
+NWK Frankfurt,,VB,http://bvwp-projekte.de/strasse/A5-G20-HE-T8-HE/A5-G20-HE-T8-HE.html,strasse,644,0.859,553,49,42,554,76,14
+Wiesbadener Kreuz,,WB,http://bvwp-projekte.de/strasse/A003-G20-HE-T2-HE/A003-G20-HE-T2-HE.html,strasse,270,0.804,217,37,16,224,40,6
+AK Offenbacher Kreuz,,VB,http://bvwp-projekte.de/strasse/A3-G30-HE-T07-HE/A3-G30-HE-T07-HE.html,strasse,750,0.845,634,76,40,623,102,25
+AK Darmstadt,,VB,http://bvwp-projekte.de/strasse/A5-G20-HE-T13-HE/A5-G20-HE-T13-HE.html,strasse,699,0.805,563,79,57,576,101,22
+AK Frankenthal,,FD-E,,strasse,390,0.664,259,62,69,227,123,40
+AK Nürnberg-O,,VB,http://bvwp-projekte.de/strasse/A006-G020-BY/A006-G020-BY.html,strasse,861,0.806,694,77,90,598,207,56
+AK Walldorf,AS Walldorf/ Wiesloch,VB,http://bvwp-projekte.de/strasse/A5-G30-BW-T2-BW/A5-G30-BW-T2-BW.html,strasse,968,0.816,790,99,79,723,212,33
+AS Thalmässing (A 9),,WB,http://bvwp-projekte.de/strasse/B131-G010-BY-T01-BY/B131-G010-BY-T01-BY.html,strasse,103,0.388,40,40,23,48,31,24
+AD Köln-Lind(A 59),,WB*,http://bvwp-projekte.de/strasse/A553-G10-NW-T3-NW/A553-G10-NW-T3-NW.html,strasse,223,0.83,185,22,16,165,48,10
